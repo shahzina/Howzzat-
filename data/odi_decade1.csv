@@ -1,0 +1,1257 @@
+,level_0,index,Team1,Team2,Winner,Margin,Ground,Match_Date,Scorecard
+0,0,0,Bangladesh,Sri Lanka,Sri Lanka,7 wickets,Dhaka,"Jan 4, 2010",ODI # 2937
+1,1,1,India,Sri Lanka,Sri Lanka,5 wickets,Dhaka,"Jan 5, 2010",ODI # 2938
+2,2,2,Bangladesh,India,India,6 wickets,Dhaka,"Jan 7, 2010",ODI # 2939
+3,3,3,Bangladesh,Sri Lanka,Sri Lanka,9 wickets,Dhaka,"Jan 8, 2010",ODI # 2940
+4,4,4,India,Sri Lanka,India,8 wickets,Dhaka,"Jan 10, 2010",ODI # 2941
+5,5,5,Bangladesh,India,India,6 wickets,Dhaka,"Jan 11, 2010",ODI # 2942
+6,6,6,India,Sri Lanka,Sri Lanka,4 wickets,Dhaka,"Jan 13, 2010",ODI # 2943
+7,7,7,Australia,Pakistan,Australia,5 wickets,Brisbane,"Jan 22, 2010",ODI # 2944
+8,8,8,Australia,Pakistan,Australia,140 runs,Sydney,"Jan 24, 2010",ODI # 2945
+9,9,9,Australia,Pakistan,Australia,40 runs,Adelaide,"Jan 26, 2010",ODI # 2946
+10,10,10,Australia,Pakistan,Australia,135 runs,Perth,"Jan 29, 2010",ODI # 2947
+11,11,11,Australia,Pakistan,Australia,2 wickets,Perth,"Jan 31, 2010",ODI # 2948
+12,12,12,New Zealand,Bangladesh,New Zealand,146 runs,Napier,"Feb 5, 2010",ODI # 2949
+13,13,13,Australia,West Indies,Australia,113 runs,Melbourne,"Feb 7, 2010",ODI # 2950
+14,14,14,New Zealand,Bangladesh,New Zealand,5 wickets,Dunedin,"Feb 8, 2010",ODI # 2951
+15,15,15,Australia,West Indies,Australia,8 wickets,Adelaide,"Feb 9, 2010",ODI # 2952
+16,16,16,New Zealand,Bangladesh,New Zealand,3 wickets,Christchurch,"Feb 11, 2010",ODI # 2953
+17,17,17,Australia,West Indies,no result,,Sydney,"Feb 12, 2010",ODI # 2954
+18,18,18,Australia,West Indies,Australia,50 runs,Brisbane,"Feb 14, 2010",ODI # 2955
+19,19,19,Kenya,Netherlands,Kenya,6 wickets,Nairobi (Gym),"Feb 16, 2010",ODI # 2956
+20,20,20,Afghanistan,Canada,Afghanistan,1 run,Sharjah,"Feb 16, 2010",ODI # 2957
+21,21,21,Kenya,Netherlands,Netherlands,80 runs,Nairobi (Gym),"Feb 18, 2010",ODI # 2958
+22,22,22,Afghanistan,Canada,Canada,4 wickets,Sharjah,"Feb 18, 2010",ODI # 2959
+23,23,23,Australia,West Indies,Australia,125 runs,Melbourne,"Feb 19, 2010",ODI # 2960
+24,24,24,India,South Africa,India,1 run,Jaipur,"Feb 21, 2010",ODI # 2961
+25,25,25,India,South Africa,India,153 runs,Gwalior,"Feb 24, 2010",ODI # 2962
+26,26,26,India,South Africa,South Africa,90 runs,Ahmedabad,"Feb 27, 2010",ODI # 2963
+27,27,27,Bangladesh,England,England,6 wickets,Dhaka,"Feb 28, 2010",ODI # 2964
+28,28,28,Bangladesh,England,England,2 wickets,Dhaka,"Mar 2, 2010",ODI # 2965
+29,29,29,New Zealand,Australia,New Zealand,2 wickets,Napier,"Mar 3, 2010",ODI # 2966
+30,30,30,West Indies,Zimbabwe,Zimbabwe,2 runs,Providence,"Mar 4, 2010",ODI # 2967
+31,31,31,Bangladesh,England,England,45 runs,Chattogram,"Mar 5, 2010",ODI # 2968
+32,32,32,New Zealand,Australia,Australia,12 runs,Auckland,"Mar 6, 2010",ODI # 2969
+33,33,33,West Indies,Zimbabwe,West Indies,4 wickets,Providence,"Mar 6, 2010",ODI # 2970
+34,34,34,New Zealand,Australia,Australia,6 wickets,Hamilton,"Mar 9, 2010",ODI # 2971
+35,35,35,West Indies,Zimbabwe,West Indies,141 runs,Kingstown,"Mar 10, 2010",ODI # 2972
+36,36,36,New Zealand,Australia,Australia,6 wickets,Auckland,"Mar 11, 2010",ODI # 2973
+37,37,37,West Indies,Zimbabwe,West Indies,4 wickets,Kingstown,"Mar 12, 2010",ODI # 2974
+38,38,38,New Zealand,Australia,New Zealand,51 runs,Wellington,"Mar 13, 2010",ODI # 2975
+39,39,39,West Indies,Zimbabwe,West Indies,4 wickets,Kingstown,"Mar 14, 2010",ODI # 2976
+40,40,40,West Indies,Canada,West Indies,208 runs,Kingston,"Apr 13, 2010",ODI # 2977
+41,41,41,West Indies,Ireland,West Indies,6 wickets,Kingston,"Apr 15, 2010",ODI # 2978
+42,42,42,West Indies,South Africa,South Africa,66 runs,North Sound,"May 22, 2010",ODI # 2979
+43,43,43,West Indies,South Africa,South Africa,17 runs,North Sound,"May 24, 2010",ODI # 2980
+44,44,44,Zimbabwe,India,Zimbabwe,6 wickets,Bulawayo,"May 28, 2010",ODI # 2981
+45,45,45,West Indies,South Africa,South Africa,67 runs,Roseau,"May 28, 2010",ODI # 2982
+46,46,46,India,Sri Lanka,India,7 wickets,Bulawayo,"May 30, 2010",ODI # 2983
+47,47,47,West Indies,South Africa,South Africa,7 wickets,Roseau,"May 30, 2010",ODI # 2984
+48,48,48,Zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Bulawayo,"Jun 1, 2010",ODI # 2985
+49,49,49,Zimbabwe,India,Zimbabwe,7 wickets,Harare,"Jun 3, 2010",ODI # 2986
+50,50,50,West Indies,South Africa,South Africa,1 wicket,Port of Spain,"Jun 3, 2010",ODI # 2987
+51,51,51,India,Sri Lanka,Sri Lanka,6 wickets,Harare,"Jun 5, 2010",ODI # 2988
+52,52,52,Zimbabwe,Sri Lanka,Zimbabwe,8 wickets,Harare,"Jun 7, 2010",ODI # 2989
+53,53,53,Zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Harare,"Jun 9, 2010",ODI # 2990
+54,54,54,Sri Lanka,Pakistan,Sri Lanka,16 runs,Dambulla,"Jun 15, 2010",ODI # 2991
+55,55,55,Netherlands,Scotland,Netherlands,6 wickets,Rotterdam,"Jun 15, 2010",ODI # 2992
+56,56,56,Bangladesh,India,India,6 wickets,Dambulla,"Jun 16, 2010",ODI # 2993
+57,57,57,Ireland,Australia,Australia,39 runs,Dublin,"Jun 17, 2010",ODI # 2994
+58,58,58,Sri Lanka,Bangladesh,Sri Lanka,126 runs,Dambulla,"Jun 18, 2010",ODI # 2995
+59,59,59,India,Pakistan,India,3 wickets,Dambulla,"Jun 19, 2010",ODI # 2996
+60,60,60,Scotland,England,England,7 wickets,Edinburgh,"Jun 19, 2010",ODI # 2997
+61,61,61,Bangladesh,Pakistan,Pakistan,139 runs,Dambulla,"Jun 21, 2010",ODI # 2998
+62,62,62,Sri Lanka,India,Sri Lanka,7 wickets,Dambulla,"Jun 22, 2010",ODI # 2999
+63,63,63,England,Australia,England,4 wickets,Southampton,"Jun 22, 2010",ODI # 3000
+64,64,64,Sri Lanka,India,India,81 runs,Dambulla,"Jun 24, 2010",ODI # 3001
+65,65,65,England,Australia,England,4 wickets,Cardiff,"Jun 24, 2010",ODI # 3002
+66,66,66,England,Australia,England,1 wicket,Manchester,"Jun 27, 2010",ODI # 3003
+67,67,67,England,Australia,Australia,78 runs,The Oval,"Jun 30, 2010",ODI # 3004
+68,68,68,Afghanistan,Canada,Afghanistan,6 wickets,The Hague,"Jul 1, 2010",ODI # 3005
+69,69,69,Ireland,Kenya,Ireland,7 wickets,Rotterdam,"Jul 1, 2010",ODI # 3006
+70,70,70,Netherlands,Scotland,Scotland,1 wicket,Amstelveen,"Jul 1, 2010",ODI # 3007
+71,71,71,Afghanistan,Ireland,Ireland,39 runs,Rotterdam,"Jul 3-4, 2010",ODI # 3008
+72,72,72,Canada,Scotland,Scotland,69 runs,Amstelveen,"Jul 3, 2010",ODI # 3009
+73,73,73,Netherlands,Kenya,Netherlands,117 runs,The Hague,"Jul 3, 2010",ODI # 3010
+74,74,74,England,Australia,Australia,42 runs,Lord's,"Jul 3, 2010",ODI # 3011
+75,75,75,Afghanistan,Kenya,Afghanistan,1 wicket,Amstelveen,"Jul 5, 2010",ODI # 3012
+76,76,76,Ireland,Scotland,Ireland,5 wickets,The Hague,"Jul 5, 2010",ODI # 3013
+77,77,77,Netherlands,Canada,Netherlands,7 wickets,Rotterdam,"Jul 5, 2010",ODI # 3014
+78,78,78,Canada,Ireland,Ireland,5 wickets,Amstelveen,"Jul 7, 2010",ODI # 3015
+79,79,79,Kenya,Scotland,Scotland,6 runs,Rotterdam,"Jul 7, 2010",ODI # 3016
+80,80,80,Netherlands,Afghanistan,Afghanistan,6 wickets,The Hague,"Jul 7, 2010",ODI # 3017
+81,81,81,England,Bangladesh,England,6 wickets,Nottingham,"Jul 8, 2010",ODI # 3018
+82,82,82,Afghanistan,Scotland,Scotland,2 wickets,Rotterdam,"Jul 9, 2010",ODI # 3019
+83,83,83,Canada,Kenya,Canada,6 wickets,Schiedam,"Jul 9, 2010",ODI # 3020
+84,84,84,Netherlands,Ireland,Ireland,39 runs,Amstelveen,"Jul 9, 2010",ODI # 3021
+85,85,85,Canada,Kenya,Canada,3 wickets,Schiedam,"Jul 10, 2010",ODI # 3022
+86,86,86,Ireland,Scotland,Ireland,6 wickets,Amstelveen,"Jul 10, 2010",ODI # 3023
+87,87,87,Netherlands,Afghanistan,Afghanistan,5 wickets,Rotterdam,"Jul 10, 2010",ODI # 3024
+88,88,88,England,Bangladesh,Bangladesh,5 runs,Bristol,"Jul 10, 2010",ODI # 3025
+89,89,89,England,Bangladesh,England,144 runs,Birmingham,"Jul 12, 2010",ODI # 3026
+90,90,90,Ireland,Bangladesh,Ireland,7 wickets,Belfast,"Jul 15, 2010",ODI # 3027
+91,91,91,Ireland,Bangladesh,Bangladesh,6 wickets,Belfast,"Jul 16, 2010",ODI # 3028
+92,92,92,Bangladesh,Netherlands,Netherlands,6 wickets,Glasgow,"Jul 20, 2010",ODI # 3029
+93,93,93,India,New Zealand,New Zealand,200 runs,Dambulla,"Aug 10, 2010",ODI # 3030
+94,94,94,Sri Lanka,New Zealand,Sri Lanka,3 wickets,Dambulla,"Aug 13, 2010",ODI # 3031
+95,95,95,Sri Lanka,India,India,6 wickets,Dambulla,"Aug 16, 2010",ODI # 3032
+96,96,96,Scotland,Afghanistan,Afghanistan,9 wickets,Ayr,"Aug 16, 2010",ODI # 3033
+97,97,97,Ireland,Netherlands,Ireland,70 runs,Dublin,"Aug 16, 2010",ODI # 3034
+98,98,98,Scotland,Afghanistan,Scotland,6 wickets,Ayr,"Aug 17, 2010",ODI # 3035
+99,99,99,Ireland,Netherlands,Ireland,9 wickets,Dublin,"Aug 18, 2010",ODI # 3036
+100,100,100,Sri Lanka,New Zealand,no result,,Dambulla,"Aug 19-20, 2010",ODI # 3037
+101,101,101,Sri Lanka,India,Sri Lanka,8 wickets,Dambulla,"Aug 22, 2010",ODI # 3038
+102,102,102,India,New Zealand,India,105 runs,Dambulla,"Aug 25, 2010",ODI # 3039
+103,103,103,Sri Lanka,India,Sri Lanka,74 runs,Dambulla,"Aug 28, 2010",ODI # 3040
+104,104,104,Canada,Ireland,Canada,4 runs,Toronto,"Sep 6, 2010",ODI # 3041
+105,105,105,Canada,Ireland,Ireland,92 runs,Toronto,"Sep 7, 2010",ODI # 3042
+106,106,106,England,Pakistan,England,24 runs,Chester-le-Street,"Sep 10, 2010",ODI # 3043
+107,107,107,England,Pakistan,England,4 wickets,Leeds,"Sep 12, 2010",ODI # 3044
+108,108,108,England,Pakistan,Pakistan,23 runs,The Oval,"Sep 17, 2010",ODI # 3045
+109,109,109,England,Pakistan,Pakistan,38 runs,Lord's,"Sep 20, 2010",ODI # 3046
+110,110,110,England,Pakistan,England,121 runs,Southampton,"Sep 22, 2010",ODI # 3047
+111,111,111,Zimbabwe,Ireland,Zimbabwe,2 wickets,Harare,"Sep 26, 2010",ODI # 3048
+112,112,112,Zimbabwe,Ireland,Zimbabwe,3 wickets,Harare,"Sep 28, 2010",ODI # 3049
+113,113,113,Zimbabwe,Ireland,Ireland,20 runs,Harare,"Sep 30, 2010",ODI # 3050
+114,114,114,Bangladesh,New Zealand,Bangladesh,9 runs,Dhaka,"Oct 5, 2010",ODI # 3051
+115,115,115,Kenya,Afghanistan,Kenya,92 runs,Nairobi (Gym),"Oct 7, 2010",ODI # 3052
+116,116,116,Kenya,Afghanistan,Afghanistan,6 wickets,Nairobi (Gym),"Oct 9, 2010",ODI # 3053
+117,117,117,Bangladesh,New Zealand,Bangladesh,7 wickets,Dhaka,"Oct 11, 2010",ODI # 3054
+118,118,118,Kenya,Afghanistan,Kenya,8 wickets,Nairobi (Gym),"Oct 11, 2010",ODI # 3055
+119,119,119,Bangladesh,New Zealand,Bangladesh,9 runs,Dhaka,"Oct 14, 2010",ODI # 3056
+120,120,120,South Africa,Zimbabwe,South Africa,64 runs,Bloemfontein,"Oct 15, 2010",ODI # 3057
+121,121,121,Bangladesh,New Zealand,Bangladesh,3 runs,Dhaka,"Oct 17, 2010",ODI # 3058
+122,122,122,South Africa,Zimbabwe,South Africa,8 wickets,Potchefstroom,"Oct 17, 2010",ODI # 3059
+123,123,123,India,Australia,India,5 wickets,Visakhapatnam,"Oct 20, 2010",ODI # 3060
+124,124,124,South Africa,Zimbabwe,South Africa,272 runs,Benoni,"Oct 22, 2010",ODI # 3061
+125,125,125,Pakistan,South Africa,South Africa,8 wickets,Abu Dhabi,"Oct 29, 2010",ODI # 3062
+126,126,126,Pakistan,South Africa,Pakistan,1 wicket,Abu Dhabi,"Oct 31, 2010",ODI # 3063
+127,127,127,Pakistan,South Africa,South Africa,2 runs,Dubai (DSC),"Nov 2, 2010",ODI # 3064
+128,128,128,Australia,Sri Lanka,Sri Lanka,1 wicket,Melbourne,"Nov 3, 2010",ODI # 3065
+129,129,129,Australia,Sri Lanka,Sri Lanka,29 runs,Sydney,"Nov 5, 2010",ODI # 3066
+130,130,130,Pakistan,South Africa,Pakistan,1 wicket,Dubai (DSC),"Nov 5, 2010",ODI # 3067
+131,131,131,Australia,Sri Lanka,Australia,8 wickets,Brisbane,"Nov 7, 2010",ODI # 3068
+132,132,132,Pakistan,South Africa,South Africa,57 runs,Dubai (DSC),"Nov 8, 2010",ODI # 3069
+133,133,133,India,New Zealand,India,40 runs,Guwahati,"Nov 28, 2010",ODI # 3070
+134,134,134,Bangladesh,Zimbabwe,Zimbabwe,9 runs,Dhaka,"Dec 1, 2010",ODI # 3071
+135,135,135,India,New Zealand,India,8 wickets,Jaipur,"Dec 1, 2010",ODI # 3072
+136,136,136,Bangladesh,Zimbabwe,Bangladesh,6 wickets,Dhaka,"Dec 3, 2010",ODI # 3073
+137,137,137,India,New Zealand,India,9 wickets,Vadodara,"Dec 4, 2010",ODI # 3074
+138,138,138,Bangladesh,Zimbabwe,Bangladesh,65 runs,Dhaka,"Dec 6, 2010",ODI # 3075
+139,139,139,India,New Zealand,India,5 wickets,Bengaluru,"Dec 7, 2010",ODI # 3076
+140,140,140,India,New Zealand,India,8 wickets,Chennai,"Dec 10, 2010",ODI # 3077
+141,141,141,Bangladesh,Zimbabwe,Bangladesh,6 wickets,Chattogram,"Dec 12, 2010",ODI # 3078
+142,142,0,South Africa,India,South Africa,135 runs,Durban,"Jan 12, 2011",ODI # 3079
+143,143,1,South Africa,India,India,1 run,Johannesburg,"Jan 15, 2011",ODI # 3080
+144,144,2,Australia,England,Australia,6 wickets,Melbourne,"Jan 16, 2011",ODI # 3081
+145,145,3,South Africa,India,India,2 wickets,Cape Town,"Jan 18, 2011",ODI # 3082
+146,146,4,Australia,England,Australia,46 runs,Hobart,"Jan 21, 2011",ODI # 3083
+147,147,5,South Africa,India,South Africa,48 runs,Port Elizabeth,"Jan 21, 2011",ODI # 3084
+148,148,6,New Zealand,Pakistan,New Zealand,9 wickets,Wellington,"Jan 22, 2011",ODI # 3085
+149,149,7,Australia,England,Australia,4 wickets,Sydney,"Jan 23, 2011",ODI # 3086
+150,150,8,South Africa,India,South Africa,33 runs,Centurion,"Jan 23, 2011",ODI # 3087
+151,151,9,New Zealand,Pakistan,no result,,Queenstown,"Jan 26, 2011",ODI # 3088
+152,152,10,Australia,England,England,21 runs,Adelaide,"Jan 26, 2011",ODI # 3089
+153,153,11,New Zealand,Pakistan,Pakistan,43 runs,Christchurch,"Jan 29, 2011",ODI # 3090
+154,154,12,Australia,England,Australia,51 runs,Brisbane,"Jan 30, 2011",ODI # 3091
+155,155,13,Sri Lanka,West Indies,no result,,Colombo (SSC),"Jan 31, 2011",ODI # 3092
+156,156,14,New Zealand,Pakistan,Pakistan,2 wickets,Napier,"Feb 1, 2011",ODI # 3093
+157,157,15,Australia,England,Australia,2 wickets,Sydney,"Feb 2, 2011",ODI # 3094
+158,158,16,New Zealand,Pakistan,Pakistan,41 runs,Hamilton,"Feb 3, 2011",ODI # 3095
+159,159,17,Sri Lanka,West Indies,Sri Lanka,8 wickets,Colombo (SSC),"Feb 3, 2011",ODI # 3096
+160,160,18,New Zealand,Pakistan,New Zealand,57 runs,Auckland,"Feb 5, 2011",ODI # 3097
+161,161,19,Australia,England,Australia,57 runs,Perth,"Feb 6, 2011",ODI # 3098
+162,162,20,Sri Lanka,West Indies,Sri Lanka,26 runs,Colombo (SSC),"Feb 6, 2011",ODI # 3099
+163,163,21,Bangladesh,India,India,87 runs,Dhaka,"Feb 19, 2011",ODI # 3100
+164,164,22,Kenya,New Zealand,New Zealand,10 wickets,Chennai,"Feb 20, 2011",ODI # 3101
+165,165,23,Sri Lanka,Canada,Sri Lanka,210 runs,Hambantota,"Feb 20, 2011",ODI # 3102
+166,166,24,Australia,Zimbabwe,Australia,91 runs,Ahmedabad,"Feb 21, 2011",ODI # 3103
+167,167,25,England,Netherlands,England,6 wickets,Nagpur,"Feb 22, 2011",ODI # 3104
+168,168,26,Kenya,Pakistan,Pakistan,205 runs,Hambantota,"Feb 23, 2011",ODI # 3105
+169,169,27,South Africa,West Indies,South Africa,7 wickets,Delhi,"Feb 24, 2011",ODI # 3106
+170,170,28,Australia,New Zealand,Australia,7 wickets,Nagpur,"Feb 25, 2011",ODI # 3107
+171,171,29,Bangladesh,Ireland,Bangladesh,27 runs,Dhaka,"Feb 25, 2011",ODI # 3108
+172,172,30,Sri Lanka,Pakistan,Pakistan,11 runs,Colombo (RPS),"Feb 26, 2011",ODI # 3109
+173,173,31,India,England,tied,,Bengaluru,"Feb 27, 2011",ODI # 3110
+174,174,32,Canada,Zimbabwe,Zimbabwe,175 runs,Nagpur,"Feb 28, 2011",ODI # 3111
+175,175,33,Netherlands,West Indies,West Indies,215 runs,Delhi,"Feb 28, 2011",ODI # 3112
+176,176,34,Sri Lanka,Kenya,Sri Lanka,9 wickets,Colombo (RPS),"Mar 1, 2011",ODI # 3113
+177,177,35,England,Ireland,Ireland,3 wickets,Bengaluru,"Mar 2, 2011",ODI # 3114
+178,178,36,Netherlands,South Africa,South Africa,231 runs,Mohali,"Mar 3, 2011",ODI # 3115
+179,179,37,Canada,Pakistan,Pakistan,46 runs,Colombo (RPS),"Mar 3, 2011",ODI # 3116
+180,180,38,New Zealand,Zimbabwe,New Zealand,10 wickets,Ahmedabad,"Mar 4, 2011",ODI # 3117
+181,181,39,Bangladesh,West Indies,West Indies,9 wickets,Dhaka,"Mar 4, 2011",ODI # 3118
+182,182,40,Sri Lanka,Australia,no result,,Colombo (RPS),"Mar 5, 2011",ODI # 3119
+183,183,41,England,South Africa,England,6 runs,Chennai,"Mar 6, 2011",ODI # 3120
+184,184,42,India,Ireland,India,5 wickets,Bengaluru,"Mar 6, 2011",ODI # 3121
+185,185,43,Canada,Kenya,Canada,5 wickets,Delhi,"Mar 7, 2011",ODI # 3122
+186,186,44,New Zealand,Pakistan,New Zealand,110 runs,Pallekele,"Mar 8, 2011",ODI # 3123
+187,187,45,India,Netherlands,India,5 wickets,Delhi,"Mar 9, 2011",ODI # 3124
+188,188,46,Sri Lanka,Zimbabwe,Sri Lanka,139 runs,Pallekele,"Mar 10, 2011",ODI # 3125
+189,189,47,Ireland,West Indies,West Indies,44 runs,Mohali,"Mar 11, 2011",ODI # 3126
+190,190,48,Bangladesh,England,Bangladesh,2 wickets,Chattogram,"Mar 11, 2011",ODI # 3127
+191,191,49,India,South Africa,South Africa,3 wickets,Nagpur,"Mar 12, 2011",ODI # 3128
+192,192,50,Canada,New Zealand,New Zealand,97 runs,Mumbai,"Mar 13, 2011",ODI # 3129
+193,193,51,Australia,Kenya,Australia,60 runs,Bengaluru,"Mar 13, 2011",ODI # 3130
+194,194,52,Bangladesh,Netherlands,Bangladesh,6 wickets,Chattogram,"Mar 14, 2011",ODI # 3131
+195,195,53,Pakistan,Zimbabwe,Pakistan,7 wickets,Pallekele,"Mar 14, 2011",ODI # 3132
+196,196,54,Ireland,South Africa,South Africa,131 runs,Kolkata,"Mar 15, 2011",ODI # 3133
+197,197,55,Australia,Canada,Australia,7 wickets,Bengaluru,"Mar 16, 2011",ODI # 3134
+198,198,56,England,West Indies,England,18 runs,Chennai,"Mar 17, 2011",ODI # 3135
+199,199,57,Ireland,Netherlands,Ireland,6 wickets,Kolkata,"Mar 18, 2011",ODI # 3136
+200,200,58,New Zealand,Sri Lanka,Sri Lanka,112 runs,Mumbai,"Mar 18, 2011",ODI # 3137
+201,201,59,Bangladesh,South Africa,South Africa,206 runs,Dhaka,"Mar 19, 2011",ODI # 3138
+202,202,60,Australia,Pakistan,Pakistan,4 wickets,Colombo (RPS),"Mar 19, 2011",ODI # 3139
+203,203,61,Kenya,Zimbabwe,Zimbabwe,161 runs,Kolkata,"Mar 20, 2011",ODI # 3140
+204,204,62,India,West Indies,India,80 runs,Chennai,"Mar 20, 2011",ODI # 3141
+205,205,63,Pakistan,West Indies,Pakistan,10 wickets,Dhaka,"Mar 23, 2011",ODI # 3142
+206,206,64,India,Australia,India,5 wickets,Ahmedabad,"Mar 24, 2011",ODI # 3143
+207,207,65,New Zealand,South Africa,New Zealand,49 runs,Dhaka,"Mar 25, 2011",ODI # 3144
+208,208,66,Sri Lanka,England,Sri Lanka,10 wickets,Colombo (RPS),"Mar 26, 2011",ODI # 3145
+209,209,67,Sri Lanka,New Zealand,Sri Lanka,5 wickets,Colombo (RPS),"Mar 29, 2011",ODI # 3146
+210,210,68,India,Pakistan,India,29 runs,Mohali,"Mar 30, 2011",ODI # 3147
+211,211,69,India,Sri Lanka,India,6 wickets,Mumbai,"Apr 2, 2011",ODI # 3148
+212,212,70,Bangladesh,Australia,Australia,60 runs,Dhaka,"Apr 9, 2011",ODI # 3149
+213,213,71,Bangladesh,Australia,Australia,9 wickets,Dhaka,"Apr 11, 2011",ODI # 3150
+214,214,72,Bangladesh,Australia,Australia,66 runs,Dhaka,"Apr 13, 2011",ODI # 3151
+215,215,73,West Indies,Pakistan,Pakistan,8 wickets,Gros Islet,"Apr 23, 2011",ODI # 3152
+216,216,74,West Indies,Pakistan,Pakistan,7 wickets,Gros Islet,"Apr 25, 2011",ODI # 3153
+217,217,75,West Indies,Pakistan,Pakistan,3 wickets,Bridgetown,"Apr 28, 2011",ODI # 3154
+218,218,76,West Indies,Pakistan,West Indies,1 run,Bridgetown,"May 2, 2011",ODI # 3155
+219,219,77,West Indies,Pakistan,West Indies,10 wickets,Providence,"May 5, 2011",ODI # 3156
+220,220,78,Ireland,Pakistan,Pakistan,7 wickets,Belfast,"May 28, 2011",ODI # 3157
+221,221,79,Ireland,Pakistan,Pakistan,5 wickets,Belfast,"May 30, 2011",ODI # 3158
+222,222,80,West Indies,India,India,4 wickets,Port of Spain,"Jun 6, 2011",ODI # 3159
+223,223,81,West Indies,India,India,7 wickets,Port of Spain,"Jun 8, 2011",ODI # 3160
+224,224,82,West Indies,India,India,3 wickets,North Sound,"Jun 11, 2011",ODI # 3161
+225,225,83,West Indies,India,West Indies,103 runs,North Sound,"Jun 13, 2011",ODI # 3162
+226,226,84,West Indies,India,West Indies,7 wickets,Kingston,"Jun 16, 2011",ODI # 3163
+227,227,85,Scotland,Netherlands,Scotland,15 runs,Aberdeen,"Jun 28, 2011",ODI # 3164
+228,228,86,England,Sri Lanka,England,110 runs,The Oval,"Jun 28, 2011",ODI # 3165
+229,229,87,Scotland,Netherlands,Scotland,5 wickets,Aberdeen,"Jun 29, 2011",ODI # 3166
+230,230,88,England,Sri Lanka,Sri Lanka,69 runs,Leeds,"Jul 1, 2011",ODI # 3167
+231,231,89,England,Sri Lanka,Sri Lanka,6 wickets,Lord's,"Jul 3, 2011",ODI # 3168
+232,232,90,England,Sri Lanka,England,10 wickets,Nottingham,"Jul 6, 2011",ODI # 3169
+233,233,91,England,Sri Lanka,England,16 runs,Manchester,"Jul 9, 2011",ODI # 3170
+234,234,92,Scotland,Ireland,Scotland,5 wickets,Edinburgh,"Jul 12, 2011",ODI # 3171
+235,235,93,Scotland,Sri Lanka,Sri Lanka,183 runs,Edinburgh,"Jul 13, 2011",ODI # 3172
+236,236,94,Canada,Afghanistan,Afghanistan,2 wickets,King City (NW),"Aug 7, 2011",ODI # 3173
+237,237,95,Canada,Afghanistan,Afghanistan,17 runs,Toronto,"Aug 9, 2011",ODI # 3174
+238,238,96,Sri Lanka,Australia,Australia,7 wickets,Pallekele,"Aug 10, 2011",ODI # 3175
+239,239,97,Zimbabwe,Bangladesh,Zimbabwe,4 wickets,Harare,"Aug 12, 2011",ODI # 3176
+240,240,98,Zimbabwe,Bangladesh,Zimbabwe,7 wickets,Harare,"Aug 14, 2011",ODI # 3177
+241,241,99,Sri Lanka,Australia,Australia,8 wickets,Hambantota,"Aug 14, 2011",ODI # 3178
+242,242,100,Zimbabwe,Bangladesh,Zimbabwe,5 runs,Harare,"Aug 16, 2011",ODI # 3179
+243,243,101,Sri Lanka,Australia,Sri Lanka,78 runs,Hambantota,"Aug 16, 2011",ODI # 3180
+244,244,102,Zimbabwe,Bangladesh,Bangladesh,6 wickets,Bulawayo,"Aug 19, 2011",ODI # 3181
+245,245,103,Sri Lanka,Australia,Australia,5 wickets,Colombo (RPS),"Aug 20, 2011",ODI # 3182
+246,246,104,Zimbabwe,Bangladesh,Bangladesh,93 runs,Bulawayo,"Aug 21, 2011",ODI # 3183
+247,247,105,Sri Lanka,Australia,Sri Lanka,4 wickets,Colombo (RPS),"Aug 22, 2011",ODI # 3184
+248,248,106,Ireland,England,England,11 runs,Dublin,"Aug 25, 2011",ODI # 3185
+249,249,107,England,India,no result,,Chester-le-Street,"Sep 3, 2011",ODI # 3186
+250,250,108,England,India,England,7 wickets,Southampton,"Sep 6, 2011",ODI # 3187
+251,251,109,Zimbabwe,Pakistan,Pakistan,5 runs,Bulawayo,"Sep 8, 2011",ODI # 3188
+252,252,110,England,India,England,3 wickets,The Oval,"Sep 9, 2011",ODI # 3189
+253,253,111,Zimbabwe,Pakistan,Pakistan,10 wickets,Harare,"Sep 11, 2011",ODI # 3190
+254,254,112,England,India,tied,,Lord's,"Sep 11, 2011",ODI # 3191
+255,255,113,Netherlands,Kenya,Netherlands,2 wickets,The Hague,"Sep 12, 2011",ODI # 3192
+256,256,114,Netherlands,Kenya,Netherlands,4 wickets,The Hague,"Sep 13, 2011",ODI # 3193
+257,257,115,Zimbabwe,Pakistan,Pakistan,28 runs,Harare,"Sep 14, 2011",ODI # 3194
+258,258,116,England,India,England,6 wickets,Cardiff,"Sep 16, 2011",ODI # 3195
+259,259,117,Ireland,Canada,Ireland,133 runs,Dublin,"Sep 19, 2011",ODI # 3196
+260,260,118,Ireland,Canada,Ireland,56 runs,Dublin,"Sep 20, 2011",ODI # 3197
+261,261,119,Bangladesh,West Indies,West Indies,40 runs,Dhaka,"Oct 13, 2011",ODI # 3198
+262,262,120,India,England,India,126 runs,Hyderabad (Deccan),"Oct 14, 2011",ODI # 3199
+263,263,121,Bangladesh,West Indies,West Indies,8 wickets,Dhaka,"Oct 15, 2011",ODI # 3200
+264,264,122,India,England,India,8 wickets,Delhi,"Oct 17, 2011",ODI # 3201
+265,265,123,Bangladesh,West Indies,Bangladesh,8 wickets,Chattogram,"Oct 18, 2011",ODI # 3202
+266,266,124,South Africa,Australia,Australia,93 runs,Centurion,"Oct 19, 2011",ODI # 3203
+267,267,125,Zimbabwe,New Zealand,New Zealand,9 wickets,Harare,"Oct 20, 2011",ODI # 3204
+268,268,126,India,England,India,5 wickets,Mohali,"Oct 20, 2011",ODI # 3205
+269,269,127,Zimbabwe,New Zealand,New Zealand,4 wickets,Harare,"Oct 22, 2011",ODI # 3206
+270,270,128,India,England,India,6 wickets,Mumbai,"Oct 23, 2011",ODI # 3207
+271,271,129,South Africa,Australia,South Africa,80 runs,Port Elizabeth,"Oct 23, 2011",ODI # 3208
+272,272,130,Zimbabwe,New Zealand,Zimbabwe,1 wicket,Bulawayo,"Oct 25, 2011",ODI # 3209
+273,273,131,India,England,India,95 runs,Kolkata,"Oct 25, 2011",ODI # 3210
+274,274,132,South Africa,Australia,Australia,3 wickets,Durban,"Oct 28, 2011",ODI # 3211
+275,275,133,Pakistan,Sri Lanka,Pakistan,8 wickets,Dubai (DSC),"Nov 11, 2011",ODI # 3212
+276,276,134,Pakistan,Sri Lanka,Sri Lanka,25 runs,Dubai (DSC),"Nov 14, 2011",ODI # 3213
+277,277,135,Pakistan,Sri Lanka,Pakistan,21 runs,Dubai (DSC),"Nov 18, 2011",ODI # 3214
+278,278,136,Pakistan,Sri Lanka,Pakistan,26 runs,Sharjah,"Nov 20, 2011",ODI # 3215
+279,279,137,Pakistan,Sri Lanka,Pakistan,3 wickets,Abu Dhabi,"Nov 23, 2011",ODI # 3216
+280,280,138,India,West Indies,India,1 wicket,Cuttack,"Nov 29, 2011",ODI # 3217
+281,281,139,Bangladesh,Pakistan,Pakistan,5 wickets,Dhaka,"Dec 1, 2011",ODI # 3218
+282,282,140,India,West Indies,India,5 wickets,Visakhapatnam,"Dec 2, 2011",ODI # 3219
+283,283,141,Bangladesh,Pakistan,Pakistan,76 runs,Dhaka,"Dec 3, 2011",ODI # 3220
+284,284,142,India,West Indies,West Indies,16 runs,Ahmedabad,"Dec 5, 2011",ODI # 3221
+285,285,143,Bangladesh,Pakistan,Pakistan,58 runs,Chattogram,"Dec 6, 2011",ODI # 3222
+286,286,144,India,West Indies,India,153 runs,Indore,"Dec 8, 2011",ODI # 3223
+287,287,145,India,West Indies,India,34 runs,Chennai,"Dec 11, 2011",ODI # 3224
+288,288,0,South Africa,Sri Lanka,South Africa,258 runs,Paarl,"Jan 11, 2012",ODI # 3225
+289,289,1,South Africa,Sri Lanka,South Africa,5 wickets,East London,"Jan 14, 2012",ODI # 3226
+290,290,2,South Africa,Sri Lanka,South Africa,4 runs,Bloemfontein,"Jan 17, 2012",ODI # 3227
+291,291,3,South Africa,Sri Lanka,Sri Lanka,5 wickets,Kimberley,"Jan 20, 2012",ODI # 3228
+292,292,4,South Africa,Sri Lanka,Sri Lanka,2 wickets,Johannesburg,"Jan 22, 2012",ODI # 3229
+293,293,5,New Zealand,Zimbabwe,New Zealand,90 runs,Dunedin,"Feb 3, 2012",ODI # 3230
+294,294,6,Australia,India,Australia,65 runs,Melbourne,"Feb 5, 2012",ODI # 3231
+295,295,7,New Zealand,Zimbabwe,New Zealand,141 runs,Whangarei,"Feb 6, 2012",ODI # 3232
+296,296,8,India,Sri Lanka,India,4 wickets,Perth,"Feb 8, 2012",ODI # 3233
+297,297,9,New Zealand,Zimbabwe,New Zealand,202 runs,Napier,"Feb 9, 2012",ODI # 3234
+298,298,10,Australia,Sri Lanka,Australia,5 runs,Perth,"Feb 10, 2012",ODI # 3235
+299,299,11,Afghanistan,Pakistan,Pakistan,7 wickets,Sharjah,"Feb 10, 2012",ODI # 3236
+300,300,12,Australia,India,India,4 wickets,Adelaide,"Feb 12, 2012",ODI # 3237
+301,301,13,England,Pakistan,England,130 runs,Abu Dhabi,"Feb 13, 2012",ODI # 3238
+302,302,14,India,Sri Lanka,tied,,Adelaide,"Feb 14, 2012",ODI # 3239
+303,303,15,England,Pakistan,England,20 runs,Abu Dhabi,"Feb 15, 2012",ODI # 3240
+304,304,16,Australia,Sri Lanka,Sri Lanka,8 wickets,Sydney,"Feb 17, 2012",ODI # 3241
+305,305,17,Kenya,Ireland,Kenya,7 wickets,Mombasa,"Feb 18, 2012",ODI # 3242
+306,306,18,England,Pakistan,England,9 wickets,Dubai (DSC),"Feb 18, 2012",ODI # 3243
+307,307,19,Australia,India,Australia,110 runs,Brisbane,"Feb 19, 2012",ODI # 3244
+308,308,20,Kenya,Ireland,Ireland,117 runs,Mombasa,"Feb 20, 2012",ODI # 3245
+309,309,21,India,Sri Lanka,Sri Lanka,51 runs,Brisbane,"Feb 21, 2012",ODI # 3246
+310,310,22,England,Pakistan,England,4 wickets,Dubai (DSC),"Feb 21, 2012",ODI # 3247
+311,311,23,Australia,Sri Lanka,Sri Lanka,3 wickets,Hobart,"Feb 24, 2012",ODI # 3248
+312,312,24,New Zealand,South Africa,South Africa,6 wickets,Wellington,"Feb 25, 2012",ODI # 3249
+313,313,25,Australia,India,Australia,87 runs,Sydney,"Feb 26, 2012",ODI # 3250
+314,314,26,India,Sri Lanka,India,7 wickets,Hobart,"Feb 28, 2012",ODI # 3251
+315,315,27,New Zealand,South Africa,South Africa,6 wickets,Napier,"Feb 29, 2012",ODI # 3252
+316,316,28,Australia,Sri Lanka,Sri Lanka,9 runs,Melbourne,"Mar 2, 2012",ODI # 3253
+317,317,29,New Zealand,South Africa,South Africa,5 wickets,Auckland,"Mar 3, 2012",ODI # 3254
+318,318,30,Australia,Sri Lanka,Australia,15 runs,Brisbane,"Mar 4, 2012",ODI # 3255
+319,319,31,Australia,Sri Lanka,Sri Lanka,8 wickets,Adelaide,"Mar 6, 2012",ODI # 3256
+320,320,32,Australia,Sri Lanka,Australia,16 runs,Adelaide,"Mar 8, 2012",ODI # 3257
+321,321,33,Bangladesh,Pakistan,Pakistan,21 runs,Dhaka,"Mar 11, 2012",ODI # 3258
+322,322,34,India,Sri Lanka,India,50 runs,Dhaka,"Mar 13, 2012",ODI # 3259
+323,323,35,Pakistan,Sri Lanka,Pakistan,6 wickets,Dhaka,"Mar 15, 2012",ODI # 3260
+324,324,36,Bangladesh,India,Bangladesh,5 wickets,Dhaka,"Mar 16, 2012",ODI # 3261
+325,325,37,West Indies,Australia,Australia,64 runs,Kingstown,"Mar 16, 2012",ODI # 3262
+326,326,38,India,Pakistan,India,6 wickets,Dhaka,"Mar 18, 2012",ODI # 3263
+327,327,39,West Indies,Australia,West Indies,5 wickets,Kingstown,"Mar 18, 2012",ODI # 3264
+328,328,40,Bangladesh,Sri Lanka,Bangladesh,5 wickets,Dhaka,"Mar 20, 2012",ODI # 3265
+329,329,41,West Indies,Australia,tied,,Kingstown,"Mar 20, 2012",ODI # 3266
+330,330,42,Bangladesh,Pakistan,Pakistan,2 runs,Dhaka,"Mar 22, 2012",ODI # 3267
+331,331,43,West Indies,Australia,West Indies,42 runs,Gros Islet,"Mar 23, 2012",ODI # 3268
+332,332,44,West Indies,Australia,Australia,30 runs,Gros Islet,"Mar 25, 2012",ODI # 3269
+333,333,45,Afghanistan,Netherlands,Netherlands,9 wickets,Sharjah,"Mar 29, 2012",ODI # 3270
+334,334,46,Afghanistan,Netherlands,Afghanistan,5 wickets,Sharjah,"Mar 31, 2012",ODI # 3271
+335,335,47,Sri Lanka,Pakistan,Pakistan,6 wickets,Pallekele,"Jun 7, 2012",ODI # 3272
+336,336,48,Sri Lanka,Pakistan,Sri Lanka,76 runs,Pallekele,"Jun 9, 2012",ODI # 3273
+337,337,49,Sri Lanka,Pakistan,no result,,Colombo (RPS),"Jun 13, 2012",ODI # 3274
+338,338,50,Sri Lanka,Pakistan,Sri Lanka,44 runs,Colombo (RPS),"Jun 16, 2012",ODI # 3275
+339,339,51,England,West Indies,England,114 runs,Southampton,"Jun 16, 2012",ODI # 3276
+340,340,52,Sri Lanka,Pakistan,Sri Lanka,2 wickets,Colombo (RPS),"Jun 18, 2012",ODI # 3277
+341,341,53,England,West Indies,England,8 wickets,The Oval,"Jun 19, 2012",ODI # 3278
+342,342,54,Ireland,Australia,no result,,Belfast,"Jun 23, 2012",ODI # 3279
+343,343,55,England,Australia,England,15 runs,Lord's,"Jun 29, 2012",ODI # 3280
+344,344,56,England,Australia,England,6 wickets,The Oval,"Jul 1, 2012",ODI # 3281
+345,345,57,Ireland,Afghanistan,Ireland,59 runs,Dublin,"Jul 5, 2012",ODI # 3282
+346,346,58,West Indies,New Zealand,West Indies,9 wickets,Kingston,"Jul 5, 2012",ODI # 3283
+347,347,59,England,Australia,England,8 wickets,Chester-le-Street,"Jul 7, 2012",ODI # 3284
+348,348,60,West Indies,New Zealand,West Indies,55 runs,Kingston,"Jul 7, 2012",ODI # 3285
+349,349,61,England,Australia,England,7 wickets,Manchester,"Jul 10, 2012",ODI # 3286
+350,350,62,Scotland,Canada,Scotland,4 wickets,Ayr,"Jul 11-12, 2012",ODI # 3287
+351,351,63,West Indies,New Zealand,New Zealand,88 runs,Basseterre,"Jul 11, 2012",ODI # 3288
+352,352,64,West Indies,New Zealand,West Indies,24 runs,Basseterre,"Jul 14, 2012",ODI # 3289
+353,353,65,West Indies,New Zealand,West Indies,20 runs,Basseterre,"Jul 16, 2012",ODI # 3290
+354,354,66,Sri Lanka,India,India,21 runs,Hambantota,"Jul 21, 2012",ODI # 3291
+355,355,67,Sri Lanka,India,Sri Lanka,9 wickets,Hambantota,"Jul 24, 2012",ODI # 3292
+356,356,68,Sri Lanka,India,India,5 wickets,Colombo (RPS),"Jul 28, 2012",ODI # 3293
+357,357,69,Sri Lanka,India,India,6 wickets,Colombo (RPS),"Jul 31, 2012",ODI # 3294
+358,358,70,Sri Lanka,India,India,20 runs,Pallekele,"Aug 4, 2012",ODI # 3295
+359,359,71,England,South Africa,no result,,Cardiff,"Aug 24, 2012",ODI # 3296
+360,360,72,Afghanistan,Australia,Australia,66 runs,Sharjah,"Aug 25, 2012",ODI # 3297
+361,361,73,England,South Africa,South Africa,80 runs,Southampton,"Aug 28, 2012",ODI # 3298
+362,362,74,Australia,Pakistan,Australia,4 wickets,Sharjah,"Aug 28, 2012",ODI # 3299
+363,363,75,England,South Africa,England,4 wickets,The Oval,"Aug 31, 2012",ODI # 3300
+364,364,76,Australia,Pakistan,Pakistan,7 wickets,Abu Dhabi,"Aug 31, 2012",ODI # 3301
+365,365,77,England,South Africa,England,6 wickets,Lord's,"Sep 2, 2012",ODI # 3302
+366,366,78,Australia,Pakistan,Australia,3 wickets,Sharjah,"Sep 3, 2012",ODI # 3303
+367,367,79,England,South Africa,South Africa,7 wickets,Nottingham,"Sep 5, 2012",ODI # 3304
+368,368,80,Sri Lanka,New Zealand,Sri Lanka,14 runs,Pallekele,"Nov 4, 2012",ODI # 3305
+369,369,81,Sri Lanka,New Zealand,Sri Lanka,7 wickets,Pallekele,"Nov 6, 2012",ODI # 3306
+370,370,82,Sri Lanka,New Zealand,Sri Lanka,7 wickets,Hambantota,"Nov 10, 2012",ODI # 3307
+371,371,83,Sri Lanka,New Zealand,no result,,Hambantota,"Nov 12, 2012",ODI # 3308
+372,372,84,Bangladesh,West Indies,Bangladesh,7 wickets,Khulna,"Nov 30, 2012",ODI # 3309
+373,373,85,Bangladesh,West Indies,Bangladesh,160 runs,Khulna,"Dec 2, 2012",ODI # 3310
+374,374,86,Bangladesh,West Indies,West Indies,4 wickets,Dhaka,"Dec 5, 2012",ODI # 3311
+375,375,87,Bangladesh,West Indies,West Indies,75 runs,Dhaka,"Dec 7, 2012",ODI # 3312
+376,376,88,Bangladesh,West Indies,Bangladesh,2 wickets,Dhaka,"Dec 8, 2012",ODI # 3313
+377,377,89,India,Pakistan,Pakistan,6 wickets,Chennai,"Dec 30, 2012",ODI # 3314
+378,378,0,India,Pakistan,Pakistan,85 runs,Kolkata,"Jan 3, 2013",ODI # 3315
+379,379,1,India,Pakistan,India,10 runs,Delhi,"Jan 6, 2013",ODI # 3316
+380,380,2,Australia,Sri Lanka,Australia,107 runs,Melbourne,"Jan 11, 2013",ODI # 3317
+381,381,3,India,England,England,9 runs,Rajkot,"Jan 11, 2013",ODI # 3318
+382,382,4,Australia,Sri Lanka,Sri Lanka,8 wickets,Adelaide,"Jan 13, 2013",ODI # 3319
+383,383,5,India,England,India,127 runs,Kochi,"Jan 15, 2013",ODI # 3320
+384,384,6,Australia,Sri Lanka,Sri Lanka,4 wickets,Brisbane,"Jan 18, 2013",ODI # 3321
+385,385,7,India,England,India,7 wickets,Ranchi,"Jan 19, 2013",ODI # 3322
+386,386,8,South Africa,New Zealand,New Zealand,1 wicket,Paarl,"Jan 19, 2013",ODI # 3323
+387,387,9,Australia,Sri Lanka,no result,,Sydney,"Jan 20, 2013",ODI # 3324
+388,388,10,South Africa,New Zealand,New Zealand,27 runs,Kimberley,"Jan 22, 2013",ODI # 3325
+389,389,11,Australia,Sri Lanka,Australia,32 runs,Hobart,"Jan 23, 2013",ODI # 3326
+390,390,12,India,England,India,5 wickets,Mohali,"Jan 23, 2013",ODI # 3327
+391,391,13,South Africa,New Zealand,South Africa,1 wicket,Potchefstroom,"Jan 25, 2013",ODI # 3328
+392,392,14,India,England,England,7 wickets,Dharamsala,"Jan 27, 2013",ODI # 3329
+393,393,15,Australia,West Indies,Australia,9 wickets,Perth,"Feb 1, 2013",ODI # 3330
+394,394,16,Australia,West Indies,Australia,54 runs,Perth,"Feb 3, 2013",ODI # 3331
+395,395,17,Australia,West Indies,Australia,39 runs,Canberra,"Feb 6, 2013",ODI # 3332
+396,396,18,Australia,West Indies,Australia,5 wickets,Sydney,"Feb 8, 2013",ODI # 3333
+397,397,19,Australia,West Indies,Australia,17 runs,Melbourne,"Feb 10, 2013",ODI # 3334
+398,398,20,New Zealand,England,New Zealand,3 wickets,Hamilton,"Feb 17, 2013",ODI # 3335
+399,399,21,New Zealand,England,England,8 wickets,Napier,"Feb 20, 2013",ODI # 3336
+400,400,22,West Indies,Zimbabwe,West Indies,156 runs,St George's,"Feb 22, 2013",ODI # 3337
+401,401,23,New Zealand,England,England,5 wickets,Auckland,"Feb 23, 2013",ODI # 3338
+402,402,24,West Indies,Zimbabwe,West Indies,7 wickets,St George's,"Feb 24, 2013",ODI # 3339
+403,403,25,West Indies,Zimbabwe,West Indies,5 wickets,St George's,"Feb 26, 2013",ODI # 3340
+404,404,26,Afghanistan,Scotland,Afghanistan,7 wickets,Sharjah,"Mar 6, 2013",ODI # 3341
+405,405,27,Afghanistan,Scotland,Afghanistan,5 wickets,Sharjah,"Mar 8, 2013",ODI # 3342
+406,406,28,South Africa,Pakistan,South Africa,125 runs,Bloemfontein,"Mar 10, 2013",ODI # 3343
+407,407,29,Canada,Kenya,Kenya,6 wickets,ICCA Dubai,"Mar 11, 2013",ODI # 3344
+408,408,30,Canada,Kenya,Kenya,6 wickets,ICCA Dubai,"Mar 13, 2013",ODI # 3345
+409,409,31,South Africa,Pakistan,Pakistan,6 wickets,Centurion,"Mar 15, 2013",ODI # 3346
+410,410,32,South Africa,Pakistan,South Africa,34 runs,Johannesburg,"Mar 17, 2013",ODI # 3347
+411,411,33,South Africa,Pakistan,Pakistan,3 wickets,Durban,"Mar 21, 2013",ODI # 3348
+412,412,34,Sri Lanka,Bangladesh,Sri Lanka,8 wickets,Hambantota,"Mar 23, 2013",ODI # 3349
+413,413,35,South Africa,Pakistan,South Africa,6 wickets,Benoni,"Mar 24, 2013",ODI # 3350
+414,414,36,Sri Lanka,Bangladesh,no result,,Hambantota,"Mar 25, 2013",ODI # 3351
+415,415,37,Sri Lanka,Bangladesh,Bangladesh,3 wickets,Pallekele,"Mar 28, 2013",ODI # 3352
+416,416,38,Zimbabwe,Bangladesh,Bangladesh,121 runs,Bulawayo,"May 3, 2013",ODI # 3353
+417,417,39,Zimbabwe,Bangladesh,Zimbabwe,6 wickets,Bulawayo,"May 5, 2013",ODI # 3354
+418,418,40,Zimbabwe,Bangladesh,Zimbabwe,7 wickets,Bulawayo,"May 8, 2013",ODI # 3355
+419,419,41,Scotland,Pakistan,Pakistan,96 runs,Edinburgh,"May 17, 2013",ODI # 3356
+420,420,42,Ireland,Pakistan,tied,,Dublin,"May 23, 2013",ODI # 3357
+421,421,43,Ireland,Pakistan,Pakistan,2 wickets,Dublin,"May 26, 2013",ODI # 3358
+422,422,44,Netherlands,South Africa,South Africa,83 runs,Amstelveen,"May 31, 2013",ODI # 3359
+423,423,45,England,New Zealand,New Zealand,5 wickets,Lord's,"May 31, 2013",ODI # 3360
+424,424,46,England,New Zealand,New Zealand,86 runs,Southampton,"Jun 2, 2013",ODI # 3361
+425,425,47,England,New Zealand,England,34 runs,Nottingham,"Jun 5, 2013",ODI # 3362
+426,426,48,India,South Africa,India,26 runs,Cardiff,"Jun 6, 2013",ODI # 3363
+427,427,49,Pakistan,West Indies,West Indies,2 wickets,The Oval,"Jun 7, 2013",ODI # 3364
+428,428,50,England,Australia,England,48 runs,Birmingham,"Jun 8, 2013",ODI # 3365
+429,429,51,New Zealand,Sri Lanka,New Zealand,1 wicket,Cardiff,"Jun 9, 2013",ODI # 3366
+430,430,52,Pakistan,South Africa,South Africa,67 runs,Birmingham,"Jun 10, 2013",ODI # 3367
+431,431,53,India,West Indies,India,8 wickets,The Oval,"Jun 11, 2013",ODI # 3368
+432,432,54,Australia,New Zealand,no result,,Birmingham,"Jun 12, 2013",ODI # 3369
+433,433,55,England,Sri Lanka,Sri Lanka,7 wickets,The Oval,"Jun 13, 2013",ODI # 3370
+434,434,56,South Africa,West Indies,tied,,Cardiff,"Jun 14, 2013",ODI # 3371
+435,435,57,India,Pakistan,India,8 wickets,Birmingham,"Jun 15, 2013",ODI # 3372
+436,436,58,England,New Zealand,England,10 runs,Cardiff,"Jun 16, 2013",ODI # 3373
+437,437,59,Australia,Sri Lanka,Sri Lanka,20 runs,The Oval,"Jun 17, 2013",ODI # 3374
+438,438,60,England,South Africa,England,7 wickets,The Oval,"Jun 19, 2013",ODI # 3375
+439,439,61,India,Sri Lanka,India,8 wickets,Cardiff,"Jun 20, 2013",ODI # 3376
+440,440,62,England,India,India,5 runs,Birmingham,"Jun 23, 2013",ODI # 3377
+441,441,63,West Indies,Sri Lanka,West Indies,6 wickets,Kingston,"Jun 28, 2013",ODI # 3378
+442,442,64,Scotland,Kenya,Scotland,12 runs,Aberdeen,"Jun 30, 2013",ODI # 3379
+443,443,65,West Indies,India,West Indies,1 wicket,Kingston,"Jun 30, 2013",ODI # 3380
+444,444,66,Scotland,Kenya,Scotland,4 wickets,Aberdeen,"Jul 2-3, 2013",ODI # 3381
+445,445,67,India,Sri Lanka,Sri Lanka,161 runs,Kingston,"Jul 2, 2013",ODI # 3382
+446,446,68,West Indies,India,India,102 runs,Port of Spain,"Jul 5, 2013",ODI # 3383
+447,447,69,Netherlands,Ireland,Ireland,88 runs,Amstelveen,"Jul 7, 2013",ODI # 3384
+448,448,70,West Indies,Sri Lanka,Sri Lanka,39 runs,Port of Spain,"Jul 7-8, 2013",ODI # 3385
+449,449,71,Netherlands,Ireland,tied,,Amstelveen,"Jul 9, 2013",ODI # 3386
+450,450,72,India,Sri Lanka,India,81 runs,Port of Spain,"Jul 9, 2013",ODI # 3387
+451,451,73,India,Sri Lanka,India,1 wicket,Port of Spain,"Jul 11, 2013",ODI # 3388
+452,452,74,West Indies,Pakistan,Pakistan,126 runs,Providence,"Jul 14, 2013",ODI # 3389
+453,453,75,West Indies,Pakistan,West Indies,37 runs,Providence,"Jul 16, 2013",ODI # 3390
+454,454,76,West Indies,Pakistan,tied,,Gros Islet,"Jul 19, 2013",ODI # 3391
+455,455,77,Sri Lanka,South Africa,Sri Lanka,180 runs,Colombo (RPS),"Jul 20, 2013",ODI # 3392
+456,456,78,West Indies,Pakistan,Pakistan,6 wickets,Gros Islet,"Jul 21, 2013",ODI # 3393
+457,457,79,Sri Lanka,South Africa,Sri Lanka,17 runs,Colombo (RPS),"Jul 23, 2013",ODI # 3394
+458,458,80,Zimbabwe,India,India,6 wickets,Harare,"Jul 24, 2013",ODI # 3395
+459,459,81,West Indies,Pakistan,Pakistan,4 wickets,Gros Islet,"Jul 24, 2013",ODI # 3396
+460,460,82,Zimbabwe,India,India,58 runs,Harare,"Jul 26, 2013",ODI # 3397
+461,461,83,Sri Lanka,South Africa,South Africa,56 runs,Pallekele,"Jul 26, 2013",ODI # 3398
+462,462,84,Zimbabwe,India,India,7 wickets,Harare,"Jul 28, 2013",ODI # 3399
+463,463,85,Sri Lanka,South Africa,Sri Lanka,8 wickets,Pallekele,"Jul 28, 2013",ODI # 3400
+464,464,86,Sri Lanka,South Africa,Sri Lanka,128 runs,Colombo (RPS),"Jul 31, 2013",ODI # 3401
+465,465,87,Zimbabwe,India,India,9 wickets,Bulawayo,"Aug 1, 2013",ODI # 3402
+466,466,88,Zimbabwe,India,India,7 wickets,Bulawayo,"Aug 3, 2013",ODI # 3403
+467,467,89,Zimbabwe,Pakistan,Zimbabwe,7 wickets,Harare,"Aug 27, 2013",ODI # 3404
+468,468,90,Canada,Netherlands,no result,,King City (NW),"Aug 27-28, 2013",ODI # 3405
+469,469,91,Zimbabwe,Pakistan,Pakistan,90 runs,Harare,"Aug 29, 2013",ODI # 3406
+470,470,92,Canada,Netherlands,Netherlands,9 wickets,King City (NW),"Aug 29, 2013",ODI # 3407
+471,471,93,Zimbabwe,Pakistan,Pakistan,108 runs,Harare,"Aug 31, 2013",ODI # 3408
+472,472,94,Ireland,England,England,6 wickets,Dublin (Malahide),"Sep 3, 2013",ODI # 3409
+473,473,95,Scotland,Australia,Australia,200 runs,Edinburgh,"Sep 3, 2013",ODI # 3410
+474,474,96,Ireland,Scotland,Ireland,1 wicket,Belfast,"Sep 6, 2013",ODI # 3411
+475,475,97,England,Australia,Australia,88 runs,Manchester,"Sep 8, 2013",ODI # 3412
+476,476,98,Ireland,Scotland,Ireland,7 wickets,Belfast,"Sep 8, 2013",ODI # 3413
+477,477,99,England,Australia,no result,,Birmingham,"Sep 11, 2013",ODI # 3414
+478,478,100,England,Australia,England,3 wickets,Cardiff,"Sep 14, 2013",ODI # 3415
+479,479,101,England,Australia,Australia,49 runs,Southampton,"Sep 16, 2013",ODI # 3416
+480,480,102,Afghanistan,Kenya,Afghanistan,8 wickets,Sharjah,"Oct 2, 2013",ODI # 3417
+481,481,103,Afghanistan,Kenya,Afghanistan,7 wickets,Sharjah,"Oct 4, 2013",ODI # 3418
+482,482,104,India,Australia,Australia,72 runs,Pune,"Oct 13, 2013",ODI # 3419
+483,483,105,India,Australia,India,9 wickets,Jaipur,"Oct 16, 2013",ODI # 3420
+484,484,106,India,Australia,Australia,4 wickets,Mohali,"Oct 19, 2013",ODI # 3421
+485,485,107,India,Australia,no result,,Ranchi,"Oct 23, 2013",ODI # 3422
+486,486,108,Bangladesh,New Zealand,Bangladesh,43 runs,Dhaka,"Oct 29, 2013",ODI # 3423
+487,487,109,India,Australia,India,6 wickets,Nagpur,"Oct 30, 2013",ODI # 3424
+488,488,110,Pakistan,South Africa,South Africa,1 run,Sharjah,"Oct 30, 2013",ODI # 3425
+489,489,111,Bangladesh,New Zealand,Bangladesh,40 runs,Dhaka,"Oct 31, 2013",ODI # 3426
+490,490,112,Pakistan,South Africa,Pakistan,66 runs,Dubai (DSC),"Nov 1, 2013",ODI # 3427
+491,491,113,India,Australia,India,57 runs,Bengaluru,"Nov 2, 2013",ODI # 3428
+492,492,114,Bangladesh,New Zealand,Bangladesh,4 wickets,Fatullah,"Nov 3, 2013",ODI # 3429
+493,493,115,Pakistan,South Africa,South Africa,68 runs,Abu Dhabi,"Nov 6, 2013",ODI # 3430
+494,494,116,Pakistan,South Africa,South Africa,28 runs,Abu Dhabi,"Nov 8, 2013",ODI # 3431
+495,495,117,Sri Lanka,New Zealand,no result,,Hambantota,"Nov 10, 2013",ODI # 3432
+496,496,118,Pakistan,South Africa,South Africa,117 runs,Sharjah,"Nov 11, 2013",ODI # 3433
+497,497,119,Sri Lanka,New Zealand,New Zealand,4 wickets,Hambantota,"Nov 12, 2013",ODI # 3434
+498,498,120,Sri Lanka,New Zealand,Sri Lanka,36 runs,Dambulla,"Nov 16, 2013",ODI # 3435
+499,499,121,India,West Indies,India,6 wickets,Kochi,"Nov 21, 2013",ODI # 3436
+500,500,122,India,West Indies,West Indies,2 wickets,Visakhapatnam,"Nov 24, 2013",ODI # 3437
+501,501,123,South Africa,Pakistan,Pakistan,23 runs,Cape Town,"Nov 24, 2013",ODI # 3438
+502,502,124,India,West Indies,India,5 wickets,Kanpur,"Nov 27, 2013",ODI # 3439
+503,503,125,South Africa,Pakistan,Pakistan,1 run,Port Elizabeth,"Nov 27, 2013",ODI # 3440
+504,504,126,South Africa,Pakistan,South Africa,4 wickets,Centurion,"Nov 30, 2013",ODI # 3441
+505,505,127,South Africa,India,South Africa,141 runs,Johannesburg,"Dec 5, 2013",ODI # 3442
+506,506,128,South Africa,India,South Africa,134 runs,Durban,"Dec 8, 2013",ODI # 3443
+507,507,129,South Africa,India,no result,,Centurion,"Dec 11, 2013",ODI # 3444
+508,508,130,Pakistan,Sri Lanka,Pakistan,11 runs,Sharjah,"Dec 18, 2013",ODI # 3445
+509,509,131,Pakistan,Sri Lanka,Sri Lanka,2 wickets,Dubai (DSC),"Dec 20, 2013",ODI # 3446
+510,510,132,Pakistan,Sri Lanka,Pakistan,113 runs,Sharjah,"Dec 22, 2013",ODI # 3447
+511,511,133,Pakistan,Sri Lanka,Pakistan,8 wickets,Abu Dhabi,"Dec 25, 2013",ODI # 3448
+512,512,134,New Zealand,West Indies,West Indies,2 wickets,Auckland,"Dec 26, 2013",ODI # 3449
+513,513,135,Pakistan,Sri Lanka,Sri Lanka,2 wickets,Abu Dhabi,"Dec 27, 2013",ODI # 3450
+514,514,0,New Zealand,West Indies,New Zealand,159 runs,Queenstown,"Jan 1, 2014",ODI # 3451
+515,515,1,New Zealand,West Indies,New Zealand,58 runs,Nelson,"Jan 4, 2014",ODI # 3452
+516,516,2,New Zealand,West Indies,West Indies,203 runs,Hamilton,"Jan 8, 2014",ODI # 3453
+517,517,3,Australia,England,Australia,6 wickets,Melbourne,"Jan 12, 2014",ODI # 3454
+518,518,4,Australia,England,Australia,1 wicket,Brisbane,"Jan 17, 2014",ODI # 3455
+519,519,5,New Zealand,India,New Zealand,24 runs,Napier,"Jan 19, 2014",ODI # 3456
+520,520,6,Australia,England,Australia,7 wickets,Sydney,"Jan 19, 2014",ODI # 3457
+521,521,7,New Zealand,India,New Zealand,15 runs,Hamilton,"Jan 22, 2014",ODI # 3458
+522,522,8,Canada,Scotland,Scotland,170 runs,Christchurch,"Jan 23, 2014",ODI # 3459
+523,523,9,Kenya,Netherlands,Kenya,4 wickets,Lincoln,"Jan 23, 2014",ODI # 3460
+524,524,10,Australia,England,England,57 runs,Perth,"Jan 24, 2014",ODI # 3461
+525,525,11,New Zealand,India,tied,,Auckland,"Jan 25, 2014",ODI # 3462
+526,526,12,Australia,England,Australia,5 runs,Adelaide,"Jan 26, 2014",ODI # 3463
+527,527,13,Canada,Netherlands,Netherlands,8 wickets,Mount Maunganui,"Jan 28, 2014",ODI # 3464
+528,528,14,New Zealand,India,New Zealand,7 wickets,Hamilton,"Jan 28, 2014",ODI # 3465
+529,529,15,Kenya,Scotland,Scotland,3 wickets,Christchurch,"Jan 30, 2014",ODI # 3466
+530,530,16,New Zealand,India,New Zealand,87 runs,Wellington,"Jan 31, 2014",ODI # 3467
+531,531,17,Scotland,U.A.E.,Scotland,41 runs,Lincoln,"Feb 1, 2014",ODI # 3468
+532,532,18,Bangladesh,Sri Lanka,Sri Lanka,13 runs,Dhaka,"Feb 17, 2014",ODI # 3469
+533,533,19,Bangladesh,Sri Lanka,Sri Lanka,61 runs,Dhaka,"Feb 20, 2014",ODI # 3470
+534,534,20,Bangladesh,Sri Lanka,Sri Lanka,6 wickets,Dhaka,"Feb 22, 2014",ODI # 3471
+535,535,21,West Indies,Ireland,West Indies,4 wickets,Kingston,"Feb 23, 2014",ODI # 3472
+536,536,22,Pakistan,Sri Lanka,Sri Lanka,12 runs,Fatullah,"Feb 25, 2014",ODI # 3473
+537,537,23,Bangladesh,India,India,6 wickets,Fatullah,"Feb 26, 2014",ODI # 3474
+538,538,24,Afghanistan,Pakistan,Pakistan,72 runs,Fatullah,"Feb 27, 2014",ODI # 3475
+539,539,25,India,Sri Lanka,Sri Lanka,2 wickets,Fatullah,"Feb 28, 2014",ODI # 3476
+540,540,26,West Indies,England,West Indies,15 runs,North Sound,"Feb 28, 2014",ODI # 3477
+541,541,27,Bangladesh,Afghanistan,Afghanistan,32 runs,Fatullah,"Mar 1, 2014",ODI # 3478
+542,542,28,India,Pakistan,Pakistan,1 wicket,Dhaka,"Mar 2, 2014",ODI # 3479
+543,543,29,West Indies,England,England,3 wickets,North Sound,"Mar 2, 2014",ODI # 3480
+544,544,30,Afghanistan,Sri Lanka,Sri Lanka,129 runs,Dhaka,"Mar 3, 2014",ODI # 3481
+545,545,31,Bangladesh,Pakistan,Pakistan,3 wickets,Dhaka,"Mar 4, 2014",ODI # 3482
+546,546,32,Afghanistan,India,India,8 wickets,Dhaka,"Mar 5, 2014",ODI # 3483
+547,547,33,West Indies,England,England,25 runs,North Sound,"Mar 5, 2014",ODI # 3484
+548,548,34,Bangladesh,Sri Lanka,Sri Lanka,3 wickets,Dhaka,"Mar 6, 2014",ODI # 3485
+549,549,35,Pakistan,Sri Lanka,Sri Lanka,5 wickets,Dhaka,"Mar 8, 2014",ODI # 3486
+550,550,36,Afghanistan,Hong Kong,Afghanistan,6 wickets,Kuala Lumpur,"May 1, 2014",ODI # 3487
+551,551,37,Afghanistan,U.A.E.,Afghanistan,70 runs,Kuala Lumpur,"May 2, 2014",ODI # 3488
+552,552,38,Hong Kong,U.A.E.,U.A.E.,2 wickets,Kuala Lumpur,"May 4, 2014",ODI # 3489
+553,553,39,Ireland,Sri Lanka,Sri Lanka,79 runs,Dublin,"May 6, 2014",ODI # 3490
+554,554,40,Scotland,England,England,39 runs,Aberdeen,"May 9, 2014",ODI # 3491
+555,555,41,England,Sri Lanka,England,81 runs,The Oval,"May 22, 2014",ODI # 3492
+556,556,42,England,Sri Lanka,Sri Lanka,157 runs,Chester-le-Street,"May 25, 2014",ODI # 3493
+557,557,43,England,Sri Lanka,England,10 wickets,Manchester,"May 28, 2014",ODI # 3494
+558,558,44,England,Sri Lanka,Sri Lanka,7 runs,Lord's,"May 31, 2014",ODI # 3495
+559,559,45,England,Sri Lanka,Sri Lanka,6 wickets,Birmingham,"Jun 3, 2014",ODI # 3496
+560,560,46,Bangladesh,India,India,7 wickets,Dhaka,"Jun 15, 2014",ODI # 3497
+561,561,47,Bangladesh,India,India,47 runs,Dhaka,"Jun 17, 2014",ODI # 3498
+562,562,48,Bangladesh,India,no result,,Dhaka,"Jun 19, 2014",ODI # 3499
+563,563,49,Sri Lanka,South Africa,South Africa,75 runs,Colombo (RPS),"Jul 6, 2014",ODI # 3500
+564,564,50,Sri Lanka,South Africa,Sri Lanka,87 runs,Pallekele,"Jul 9, 2014",ODI # 3501
+565,565,51,Sri Lanka,South Africa,South Africa,82 runs,Hambantota,"Jul 12, 2014",ODI # 3502
+566,566,52,Zimbabwe,Afghanistan,Zimbabwe,6 wickets,Bulawayo,"Jul 18, 2014",ODI # 3503
+567,567,53,Zimbabwe,Afghanistan,Zimbabwe,8 wickets,Bulawayo,"Jul 20, 2014",ODI # 3504
+568,568,54,Zimbabwe,Afghanistan,Afghanistan,2 wickets,Bulawayo,"Jul 22, 2014",ODI # 3505
+569,569,55,Zimbabwe,Afghanistan,Afghanistan,100 runs,Bulawayo,"Jul 24, 2014",ODI # 3506
+570,570,56,Zimbabwe,South Africa,South Africa,93 runs,Bulawayo,"Aug 17, 2014",ODI # 3507
+571,571,57,Zimbabwe,South Africa,South Africa,61 runs,Bulawayo,"Aug 19, 2014",ODI # 3508
+572,572,58,West Indies,Bangladesh,West Indies,3 wickets,St George's,"Aug 20, 2014",ODI # 3509
+573,573,59,Zimbabwe,South Africa,South Africa,7 wickets,Bulawayo,"Aug 21, 2014",ODI # 3510
+574,574,60,West Indies,Bangladesh,West Indies,177 runs,St George's,"Aug 22, 2014",ODI # 3511
+575,575,61,Sri Lanka,Pakistan,Pakistan,4 wickets,Hambantota,"Aug 23, 2014",ODI # 3512
+576,576,62,Zimbabwe,Australia,Australia,198 runs,Harare,"Aug 25, 2014",ODI # 3513
+577,577,63,West Indies,Bangladesh,West Indies,91 runs,Basseterre,"Aug 25, 2014",ODI # 3514
+578,578,64,Sri Lanka,Pakistan,Sri Lanka,77 runs,Hambantota,"Aug 26, 2014",ODI # 3515
+579,579,65,Australia,South Africa,South Africa,7 wickets,Harare,"Aug 27, 2014",ODI # 3516
+580,580,66,England,India,India,133 runs,Cardiff,"Aug 27, 2014",ODI # 3517
+581,581,67,Zimbabwe,South Africa,South Africa,61 runs,Harare,"Aug 29, 2014",ODI # 3518
+582,582,68,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Dambulla,"Aug 30, 2014",ODI # 3519
+583,583,69,England,India,India,6 wickets,Nottingham,"Aug 30, 2014",ODI # 3520
+584,584,70,Zimbabwe,Australia,Zimbabwe,3 wickets,Harare,"Aug 31, 2014",ODI # 3521
+585,585,71,Australia,South Africa,Australia,62 runs,Harare,"Sep 2, 2014",ODI # 3522
+586,586,72,England,India,India,9 wickets,Birmingham,"Sep 2, 2014",ODI # 3523
+587,587,73,Zimbabwe,South Africa,South Africa,63 runs,Harare,"Sep 4, 2014",ODI # 3524
+588,588,74,England,India,England,41 runs,Leeds,"Sep 5, 2014",ODI # 3525
+589,589,75,Australia,South Africa,South Africa,6 wickets,Harare,"Sep 6, 2014",ODI # 3526
+590,590,76,Ireland,Scotland,Ireland,7 wickets,Dublin (Malahide),"Sep 8, 2014",ODI # 3527
+591,591,77,Ireland,Scotland,Ireland,3 wickets,Dublin (Malahide),"Sep 10, 2014",ODI # 3528
+592,592,78,Ireland,Scotland,Scotland,8 wickets,Dublin (Malahide),"Sep 12, 2014",ODI # 3529
+593,593,79,Australia,Pakistan,Australia,93 runs,Sharjah,"Oct 7, 2014",ODI # 3530
+594,594,80,India,West Indies,West Indies,124 runs,Kochi,"Oct 8, 2014",ODI # 3531
+595,595,81,Australia,Pakistan,Australia,5 wickets,Dubai (DSC),"Oct 10, 2014",ODI # 3532
+596,596,82,India,West Indies,India,48 runs,Delhi,"Oct 11, 2014",ODI # 3533
+597,597,83,Australia,Pakistan,Australia,1 run,Abu Dhabi,"Oct 12, 2014",ODI # 3534
+598,598,84,India,West Indies,India,59 runs,Dharamsala,"Oct 17, 2014",ODI # 3535
+599,599,85,New Zealand,South Africa,South Africa,6 wickets,Mount Maunganui,"Oct 21, 2014",ODI # 3536
+600,600,86,New Zealand,South Africa,South Africa,72 runs,Mount Maunganui,"Oct 24, 2014",ODI # 3537
+601,601,87,New Zealand,South Africa,no result,,Hamilton,"Oct 27, 2014",ODI # 3538
+602,602,88,India,Sri Lanka,India,169 runs,Cuttack,"Nov 2, 2014",ODI # 3539
+603,603,89,India,Sri Lanka,India,6 wickets,Ahmedabad,"Nov 6, 2014",ODI # 3540
+604,604,90,Hong Kong,P.N.G.,P.N.G.,4 wickets,Townsville,"Nov 8, 2014",ODI # 3541
+605,605,91,Hong Kong,P.N.G.,P.N.G.,3 wickets,Townsville,"Nov 9, 2014",ODI # 3542
+606,606,92,India,Sri Lanka,India,6 wickets,Hyderabad (Deccan),"Nov 9, 2014",ODI # 3543
+607,607,93,India,Sri Lanka,India,153 runs,Kolkata,"Nov 13, 2014",ODI # 3544
+608,608,94,Australia,South Africa,Australia,32 runs,Perth,"Nov 14, 2014",ODI # 3545
+609,609,95,Australia,South Africa,South Africa,3 wickets,Perth,"Nov 16, 2014",ODI # 3546
+610,610,96,India,Sri Lanka,India,3 wickets,Ranchi,"Nov 16, 2014",ODI # 3547
+611,611,97,Australia,South Africa,Australia,73 runs,Canberra,"Nov 19, 2014",ODI # 3548
+612,612,98,Australia,South Africa,Australia,3 wickets,Melbourne,"Nov 21, 2014",ODI # 3549
+613,613,99,Bangladesh,Zimbabwe,Bangladesh,87 runs,Chattogram,"Nov 21, 2014",ODI # 3550
+614,614,100,Australia,South Africa,Australia,2 wickets,Sydney,"Nov 23, 2014",ODI # 3551
+615,615,101,Bangladesh,Zimbabwe,Bangladesh,68 runs,Chattogram,"Nov 23, 2014",ODI # 3552
+616,616,102,Bangladesh,Zimbabwe,Bangladesh,124 runs,Dhaka,"Nov 26, 2014",ODI # 3553
+617,617,103,Sri Lanka,England,Sri Lanka,25 runs,Colombo (RPS),"Nov 26, 2014",ODI # 3554
+618,618,104,Bangladesh,Zimbabwe,Bangladesh,21 runs,Dhaka,"Nov 28, 2014",ODI # 3555
+619,619,105,U.A.E.,Afghanistan,U.A.E.,5 wickets,ICCA Dubai,"Nov 28, 2014",ODI # 3556
+620,620,106,Sri Lanka,England,Sri Lanka,8 wickets,Colombo (RPS),"Nov 29, 2014",ODI # 3557
+621,621,107,U.A.E.,Afghanistan,U.A.E.,6 wickets,ICCA Dubai,"Nov 30, 2014",ODI # 3558
+622,622,108,Bangladesh,Zimbabwe,Bangladesh,5 wickets,Dhaka,"Dec 1, 2014",ODI # 3559
+623,623,109,U.A.E.,Afghanistan,Afghanistan,2 wickets,ICCA Dubai,"Dec 2, 2014",ODI # 3560
+624,624,110,Sri Lanka,England,England,5 wickets,Hambantota,"Dec 3, 2014",ODI # 3561
+625,625,111,U.A.E.,Afghanistan,U.A.E.,30 runs,ICCA Dubai,"Dec 4, 2014",ODI # 3562
+626,626,112,Sri Lanka,England,Sri Lanka,6 wickets,Colombo (RPS),"Dec 7, 2014",ODI # 3563
+627,627,113,New Zealand,Pakistan,Pakistan,3 wickets,Dubai (DSC),"Dec 8, 2014",ODI # 3564
+628,628,114,Sri Lanka,England,England,5 wickets,Pallekele,"Dec 10-11, 2014",ODI # 3565
+629,629,115,New Zealand,Pakistan,New Zealand,4 wickets,Sharjah,"Dec 12, 2014",ODI # 3566
+630,630,116,Sri Lanka,England,Sri Lanka,90 runs,Pallekele,"Dec 13, 2014",ODI # 3567
+631,631,117,New Zealand,Pakistan,Pakistan,147 runs,Sharjah,"Dec 14, 2014",ODI # 3568
+632,632,118,Sri Lanka,England,Sri Lanka,87 runs,Colombo (RPS),"Dec 16, 2014",ODI # 3569
+633,633,119,New Zealand,Pakistan,New Zealand,7 runs,Abu Dhabi,"Dec 17, 2014",ODI # 3570
+634,634,120,New Zealand,Pakistan,New Zealand,68 runs,Abu Dhabi,"Dec 19, 2014",ODI # 3571
+635,635,0,Afghanistan,Scotland,Afghanistan,8 wickets,ICCA Dubai,"Jan 8, 2015",ODI # 3572
+636,636,1,Afghanistan,Ireland,Ireland,3 wickets,Dubai (DSC),"Jan 10, 2015",ODI # 3573
+637,637,2,New Zealand,Sri Lanka,New Zealand,3 wickets,Christchurch,"Jan 11, 2015",ODI # 3574
+638,638,3,Ireland,Scotland,Ireland,3 wickets,Dubai (DSC),"Jan 12, 2015",ODI # 3575
+639,639,4,Afghanistan,Scotland,Scotland,150 runs,Abu Dhabi,"Jan 14, 2015",ODI # 3576
+640,640,5,New Zealand,Sri Lanka,Sri Lanka,6 wickets,Hamilton,"Jan 15, 2015",ODI # 3577
+641,641,6,Australia,England,Australia,3 wickets,Sydney,"Jan 16, 2015",ODI # 3578
+642,642,7,South Africa,West Indies,South Africa,61 runs,Durban,"Jan 16, 2015",ODI # 3579
+643,643,8,New Zealand,Sri Lanka,no result,,Auckland,"Jan 17, 2015",ODI # 3580
+644,644,9,Afghanistan,Ireland,Afghanistan,71 runs,Dubai (DSC),"Jan 17, 2015",ODI # 3581
+645,645,10,Australia,India,Australia,4 wickets,Melbourne,"Jan 18, 2015",ODI # 3582
+646,646,11,South Africa,West Indies,South Africa,148 runs,Johannesburg,"Jan 18, 2015",ODI # 3583
+647,647,12,Ireland,Scotland,no result,,ICCA Dubai,"Jan 19, 2015",ODI # 3584
+648,648,13,New Zealand,Sri Lanka,New Zealand,4 wickets,Nelson,"Jan 20, 2015",ODI # 3585
+649,649,14,England,India,England,9 wickets,Brisbane,"Jan 20, 2015",ODI # 3586
+650,650,15,South Africa,West Indies,South Africa,9 wickets,East London,"Jan 21, 2015",ODI # 3587
+651,651,16,New Zealand,Sri Lanka,New Zealand,108 runs,Dunedin,"Jan 23, 2015",ODI # 3588
+652,652,17,Australia,England,Australia,3 wickets,Hobart,"Jan 23, 2015",ODI # 3589
+653,653,18,New Zealand,Sri Lanka,New Zealand,120 runs,Dunedin,"Jan 25, 2015",ODI # 3590
+654,654,19,South Africa,West Indies,West Indies,1 wicket,Port Elizabeth,"Jan 25, 2015",ODI # 3591
+655,655,20,Australia,India,no result,,Sydney,"Jan 26, 2015",ODI # 3592
+656,656,21,South Africa,West Indies,South Africa,131 runs,Centurion,"Jan 28, 2015",ODI # 3593
+657,657,22,New Zealand,Sri Lanka,Sri Lanka,34 runs,Wellington,"Jan 29, 2015",ODI # 3594
+658,658,23,England,India,England,3 wickets,Perth,"Jan 30, 2015",ODI # 3595
+659,659,24,New Zealand,Pakistan,New Zealand,7 wickets,Wellington,"Jan 31, 2015",ODI # 3596
+660,660,25,Australia,England,Australia,112 runs,Perth,"Feb 1, 2015",ODI # 3597
+661,661,26,New Zealand,Pakistan,New Zealand,119 runs,Napier,"Feb 3, 2015",ODI # 3598
+662,662,27,New Zealand,Sri Lanka,New Zealand,98 runs,Christchurch,"Feb 14, 2015",ODI # 3599
+663,663,28,Australia,England,Australia,111 runs,Melbourne,"Feb 14, 2015",ODI # 3600
+664,664,29,South Africa,Zimbabwe,South Africa,62 runs,Hamilton,"Feb 15, 2015",ODI # 3601
+665,665,30,India,Pakistan,India,76 runs,Adelaide,"Feb 15, 2015",ODI # 3602
+666,666,31,Ireland,West Indies,Ireland,4 wickets,Nelson,"Feb 16, 2015",ODI # 3603
+667,667,32,New Zealand,Scotland,New Zealand,3 wickets,Dunedin,"Feb 17, 2015",ODI # 3604
+668,668,33,Afghanistan,Bangladesh,Bangladesh,105 runs,Canberra,"Feb 18, 2015",ODI # 3605
+669,669,34,U.A.E.,Zimbabwe,Zimbabwe,4 wickets,Nelson,"Feb 19, 2015",ODI # 3606
+670,670,35,New Zealand,England,New Zealand,8 wickets,Wellington,"Feb 20, 2015",ODI # 3607
+671,671,36,Pakistan,West Indies,West Indies,150 runs,Christchurch,"Feb 21, 2015",ODI # 3608
+672,672,37,Afghanistan,Sri Lanka,Sri Lanka,4 wickets,Dunedin,"Feb 22, 2015",ODI # 3609
+673,673,38,India,South Africa,India,130 runs,Melbourne,"Feb 22, 2015",ODI # 3610
+674,674,39,England,Scotland,England,119 runs,Christchurch,"Feb 23, 2015",ODI # 3611
+675,675,40,West Indies,Zimbabwe,West Indies,73 runs,Canberra,"Feb 24, 2015",ODI # 3612
+676,676,41,Ireland,U.A.E.,Ireland,2 wickets,Brisbane,"Feb 25, 2015",ODI # 3613
+677,677,42,Afghanistan,Scotland,Afghanistan,1 wicket,Dunedin,"Feb 26, 2015",ODI # 3614
+678,678,43,Bangladesh,Sri Lanka,Sri Lanka,92 runs,Melbourne,"Feb 26, 2015",ODI # 3615
+679,679,44,South Africa,West Indies,South Africa,257 runs,Sydney,"Feb 27, 2015",ODI # 3616
+680,680,45,New Zealand,Australia,New Zealand,1 wicket,Auckland,"Feb 28, 2015",ODI # 3617
+681,681,46,India,U.A.E.,India,9 wickets,Perth,"Feb 28, 2015",ODI # 3618
+682,682,47,England,Sri Lanka,Sri Lanka,9 wickets,Wellington,"Mar 1, 2015",ODI # 3619
+683,683,48,Pakistan,Zimbabwe,Pakistan,20 runs,Brisbane,"Mar 1, 2015",ODI # 3620
+684,684,49,Ireland,South Africa,South Africa,201 runs,Canberra,"Mar 3, 2015",ODI # 3621
+685,685,50,Pakistan,U.A.E.,Pakistan,129 runs,Napier,"Mar 4, 2015",ODI # 3622
+686,686,51,Australia,Afghanistan,Australia,275 runs,Perth,"Mar 4, 2015",ODI # 3623
+687,687,52,Bangladesh,Scotland,Bangladesh,6 wickets,Nelson,"Mar 5, 2015",ODI # 3624
+688,688,53,India,West Indies,India,4 wickets,Perth,"Mar 6, 2015",ODI # 3625
+689,689,54,Pakistan,South Africa,Pakistan,29 runs,Auckland,"Mar 7, 2015",ODI # 3626
+690,690,55,Ireland,Zimbabwe,Ireland,5 runs,Hobart,"Mar 7, 2015",ODI # 3627
+691,691,56,New Zealand,Afghanistan,New Zealand,6 wickets,Napier,"Mar 8, 2015",ODI # 3628
+692,692,57,Australia,Sri Lanka,Australia,64 runs,Sydney,"Mar 8, 2015",ODI # 3629
+693,693,58,Bangladesh,England,Bangladesh,15 runs,Adelaide,"Mar 9, 2015",ODI # 3630
+694,694,59,India,Ireland,India,8 wickets,Hamilton,"Mar 10, 2015",ODI # 3631
+695,695,60,Scotland,Sri Lanka,Sri Lanka,148 runs,Hobart,"Mar 11, 2015",ODI # 3632
+696,696,61,South Africa,U.A.E.,South Africa,146 runs,Wellington,"Mar 12, 2015",ODI # 3633
+697,697,62,New Zealand,Bangladesh,New Zealand,3 wickets,Hamilton,"Mar 13, 2015",ODI # 3634
+698,698,63,Afghanistan,England,England,9 wickets,Sydney,"Mar 13, 2015",ODI # 3635
+699,699,64,India,Zimbabwe,India,6 wickets,Auckland,"Mar 14, 2015",ODI # 3636
+700,700,65,Australia,Scotland,Australia,7 wickets,Hobart,"Mar 14, 2015",ODI # 3637
+701,701,66,U.A.E.,West Indies,West Indies,6 wickets,Napier,"Mar 15, 2015",ODI # 3638
+702,702,67,Ireland,Pakistan,Pakistan,7 wickets,Adelaide,"Mar 15, 2015",ODI # 3639
+703,703,68,South Africa,Sri Lanka,South Africa,9 wickets,Sydney,"Mar 18, 2015",ODI # 3640
+704,704,69,Bangladesh,India,India,109 runs,Melbourne,"Mar 19, 2015",ODI # 3641
+705,705,70,Australia,Pakistan,Australia,6 wickets,Adelaide,"Mar 20, 2015",ODI # 3642
+706,706,71,New Zealand,West Indies,New Zealand,143 runs,Wellington,"Mar 21, 2015",ODI # 3643
+707,707,72,New Zealand,South Africa,New Zealand,4 wickets,Auckland,"Mar 24, 2015",ODI # 3644
+708,708,73,Australia,India,Australia,95 runs,Sydney,"Mar 26, 2015",ODI # 3645
+709,709,74,Australia,New Zealand,Australia,7 wickets,Melbourne,"Mar 29, 2015",ODI # 3646
+710,710,75,Bangladesh,Pakistan,Bangladesh,79 runs,Dhaka,"Apr 17, 2015",ODI # 3647
+711,711,76,Bangladesh,Pakistan,Bangladesh,7 wickets,Dhaka,"Apr 19, 2015",ODI # 3648
+712,712,77,Bangladesh,Pakistan,Bangladesh,8 wickets,Dhaka,"Apr 22, 2015",ODI # 3649
+713,713,78,Ireland,England,no result,,Dublin (Malahide),"May 8, 2015",ODI # 3650
+714,714,79,Pakistan,Zimbabwe,Pakistan,41 runs,Lahore,"May 26, 2015",ODI # 3651
+715,715,80,Pakistan,Zimbabwe,Pakistan,6 wickets,Lahore,"May 29, 2015",ODI # 3652
+716,716,81,Pakistan,Zimbabwe,no result,,Lahore,"May 31, 2015",ODI # 3653
+717,717,82,England,New Zealand,England,210 runs,Birmingham,"Jun 9, 2015",ODI # 3654
+718,718,83,England,New Zealand,New Zealand,13 runs,The Oval,"Jun 12, 2015",ODI # 3655
+719,719,84,England,New Zealand,New Zealand,3 wickets,Southampton,"Jun 14, 2015",ODI # 3656
+720,720,85,England,New Zealand,England,7 wickets,Nottingham,"Jun 17, 2015",ODI # 3657
+721,721,86,Bangladesh,India,Bangladesh,79 runs,Dhaka,"Jun 18, 2015",ODI # 3658
+722,722,87,England,New Zealand,England,3 wickets,Chester-le-Street,"Jun 20, 2015",ODI # 3659
+723,723,88,Bangladesh,India,Bangladesh,6 wickets,Dhaka,"Jun 21, 2015",ODI # 3660
+724,724,89,Bangladesh,India,India,77 runs,Dhaka,"Jun 24, 2015",ODI # 3661
+725,725,90,Zimbabwe,India,India,4 runs,Harare,"Jul 10, 2015",ODI # 3662
+726,726,91,Bangladesh,South Africa,South Africa,8 wickets,Dhaka,"Jul 10, 2015",ODI # 3663
+727,727,92,Sri Lanka,Pakistan,Pakistan,6 wickets,Dambulla,"Jul 11, 2015",ODI # 3664
+728,728,93,Zimbabwe,India,India,62 runs,Harare,"Jul 12, 2015",ODI # 3665
+729,729,94,Bangladesh,South Africa,Bangladesh,7 wickets,Dhaka,"Jul 12, 2015",ODI # 3666
+730,730,95,Zimbabwe,India,India,83 runs,Harare,"Jul 14, 2015",ODI # 3667
+731,731,96,Bangladesh,South Africa,Bangladesh,9 wickets,Chattogram,"Jul 15, 2015",ODI # 3668
+732,732,97,Sri Lanka,Pakistan,Sri Lanka,2 wickets,Pallekele,"Jul 15, 2015",ODI # 3669
+733,733,98,Sri Lanka,Pakistan,Pakistan,135 runs,Colombo (RPS),"Jul 19, 2015",ODI # 3670
+734,734,99,Sri Lanka,Pakistan,Pakistan,7 wickets,Colombo (RPS),"Jul 22, 2015",ODI # 3671
+735,735,100,Sri Lanka,Pakistan,Sri Lanka,165 runs,Hambantota,"Jul 26, 2015",ODI # 3672
+736,736,101,Zimbabwe,New Zealand,Zimbabwe,7 wickets,Harare,"Aug 2, 2015",ODI # 3673
+737,737,102,Zimbabwe,New Zealand,New Zealand,10 wickets,Harare,"Aug 4, 2015",ODI # 3674
+738,738,103,Zimbabwe,New Zealand,New Zealand,38 runs,Harare,"Aug 7, 2015",ODI # 3675
+739,739,104,South Africa,New Zealand,South Africa,20 runs,Centurion,"Aug 19, 2015",ODI # 3676
+740,740,105,South Africa,New Zealand,New Zealand,8 wickets,Potchefstroom,"Aug 23, 2015",ODI # 3677
+741,741,106,South Africa,New Zealand,South Africa,62 runs,Durban,"Aug 26, 2015",ODI # 3678
+742,742,107,Ireland,Australia,Australia,23 runs,Belfast,"Aug 27, 2015",ODI # 3679
+743,743,108,England,Australia,Australia,59 runs,Southampton,"Sep 3, 2015",ODI # 3680
+744,744,109,England,Australia,Australia,64 runs,Lord's,"Sep 5, 2015",ODI # 3681
+745,745,110,England,Australia,England,93 runs,Manchester,"Sep 8, 2015",ODI # 3682
+746,746,111,England,Australia,England,3 wickets,Leeds,"Sep 11, 2015",ODI # 3683
+747,747,112,England,Australia,Australia,8 wickets,Manchester,"Sep 13, 2015",ODI # 3684
+748,748,113,Zimbabwe,Pakistan,Pakistan,131 runs,Harare,"Oct 1, 2015",ODI # 3685
+749,749,114,Zimbabwe,Pakistan,Zimbabwe,5 runs,Harare,"Oct 3, 2015",ODI # 3686
+750,750,115,Zimbabwe,Pakistan,Pakistan,7 wickets,Harare,"Oct 5, 2015",ODI # 3687
+751,751,116,Zimbabwe,Ireland,Zimbabwe,2 wickets,Harare,"Oct 9, 2015",ODI # 3688
+752,752,117,India,South Africa,South Africa,5 runs,Kanpur,"Oct 11, 2015",ODI # 3689
+753,753,118,Zimbabwe,Ireland,Zimbabwe,5 wickets,Harare,"Oct 11, 2015",ODI # 3690
+754,754,119,Zimbabwe,Ireland,Ireland,2 wickets,Harare,"Oct 13, 2015",ODI # 3691
+755,755,120,India,South Africa,India,22 runs,Indore,"Oct 14, 2015",ODI # 3692
+756,756,121,Zimbabwe,Afghanistan,Zimbabwe,8 wickets,Bulawayo,"Oct 16, 2015",ODI # 3693
+757,757,122,Zimbabwe,Afghanistan,Afghanistan,58 runs,Bulawayo,"Oct 18, 2015",ODI # 3694
+758,758,123,India,South Africa,South Africa,18 runs,Rajkot,"Oct 18, 2015",ODI # 3695
+759,759,124,Zimbabwe,Afghanistan,Zimbabwe,6 wickets,Bulawayo,"Oct 20, 2015",ODI # 3696
+760,760,125,Zimbabwe,Afghanistan,Afghanistan,3 wickets,Bulawayo,"Oct 22, 2015",ODI # 3697
+761,761,126,India,South Africa,India,35 runs,Chennai,"Oct 22, 2015",ODI # 3698
+762,762,127,Zimbabwe,Afghanistan,Afghanistan,73 runs,Bulawayo,"Oct 24, 2015",ODI # 3699
+763,763,128,India,South Africa,South Africa,214 runs,Mumbai,"Oct 25, 2015",ODI # 3700
+764,764,129,Sri Lanka,West Indies,Sri Lanka,1 wicket,Colombo (RPS),"Nov 1, 2015",ODI # 3701
+765,765,130,Sri Lanka,West Indies,Sri Lanka,8 wickets,Colombo (RPS),"Nov 4, 2015",ODI # 3702
+766,766,131,Bangladesh,Zimbabwe,Bangladesh,145 runs,Dhaka,"Nov 7, 2015",ODI # 3703
+767,767,132,Sri Lanka,West Indies,Sri Lanka,19 runs,Pallekele,"Nov 7, 2015",ODI # 3704
+768,768,133,Bangladesh,Zimbabwe,Bangladesh,58 runs,Dhaka,"Nov 9, 2015",ODI # 3705
+769,769,134,Bangladesh,Zimbabwe,Bangladesh,61 runs,Dhaka,"Nov 11, 2015",ODI # 3706
+770,770,135,England,Pakistan,Pakistan,6 wickets,Abu Dhabi,"Nov 11, 2015",ODI # 3707
+771,771,136,England,Pakistan,England,95 runs,Abu Dhabi,"Nov 13, 2015",ODI # 3708
+772,772,137,U.A.E.,Hong Kong,Hong Kong,89 runs,ICCA Dubai,"Nov 16, 2015",ODI # 3709
+773,773,138,England,Pakistan,England,6 wickets,Sharjah,"Nov 17, 2015",ODI # 3710
+774,774,139,U.A.E.,Hong Kong,Hong Kong,136 runs,ICCA Dubai,"Nov 18, 2015",ODI # 3711
+775,775,140,England,Pakistan,England,84 runs,Dubai (DSC),"Nov 20, 2015",ODI # 3712
+776,776,141,Afghanistan,Zimbabwe,Afghanistan,49 runs,Sharjah,"Dec 25, 2015",ODI # 3713
+777,777,142,New Zealand,Sri Lanka,New Zealand,7 wickets,Christchurch,"Dec 26, 2015",ODI # 3714
+778,778,143,New Zealand,Sri Lanka,New Zealand,10 wickets,Christchurch,"Dec 28, 2015",ODI # 3715
+779,779,144,Afghanistan,Zimbabwe,Afghanistan,4 wickets,Sharjah,"Dec 29, 2015",ODI # 3716
+780,780,145,New Zealand,Sri Lanka,Sri Lanka,8 wickets,Nelson,"Dec 31, 2015",ODI # 3717
+781,781,0,New Zealand,Sri Lanka,no result,,Nelson,"Jan 2, 2016",ODI # 3718
+782,782,1,Afghanistan,Zimbabwe,Zimbabwe,117 runs,Sharjah,"Jan 2, 2016",ODI # 3719
+783,783,2,Afghanistan,Zimbabwe,Zimbabwe,65 runs,Sharjah,"Jan 4, 2016",ODI # 3720
+784,784,3,New Zealand,Sri Lanka,New Zealand,36 runs,Mount Maunganui,"Jan 5, 2016",ODI # 3721
+785,785,4,Afghanistan,Zimbabwe,Afghanistan,2 wickets,Sharjah,"Jan 6, 2016",ODI # 3722
+786,786,5,Australia,India,Australia,5 wickets,Perth,"Jan 12, 2016",ODI # 3723
+787,787,6,Australia,India,Australia,7 wickets,Brisbane,"Jan 15, 2016",ODI # 3724
+788,788,7,Australia,India,Australia,3 wickets,Melbourne,"Jan 17, 2016",ODI # 3725
+789,789,8,Australia,India,Australia,25 runs,Canberra,"Jan 20, 2016",ODI # 3726
+790,790,9,Australia,India,India,6 wickets,Sydney,"Jan 23, 2016",ODI # 3727
+791,791,10,New Zealand,Pakistan,New Zealand,70 runs,Wellington,"Jan 25, 2016",ODI # 3728
+792,792,11,Hong Kong,Scotland,Hong Kong,109 runs,Mong Kok,"Jan 26, 2016",ODI # 3729
+793,793,12,New Zealand,Pakistan,New Zealand,3 wickets,Auckland,"Jan 31, 2016",ODI # 3730
+794,794,13,New Zealand,Australia,New Zealand,159 runs,Auckland,"Feb 3, 2016",ODI # 3731
+795,795,14,South Africa,England,England,39 runs,Bloemfontein,"Feb 3, 2016",ODI # 3732
+796,796,15,New Zealand,Australia,Australia,4 wickets,Wellington,"Feb 6, 2016",ODI # 3733
+797,797,16,South Africa,England,England,5 wickets,Port Elizabeth,"Feb 6, 2016",ODI # 3734
+798,798,17,New Zealand,Australia,New Zealand,55 runs,Hamilton,"Feb 8, 2016",ODI # 3735
+799,799,18,South Africa,England,South Africa,7 wickets,Centurion,"Feb 9, 2016",ODI # 3736
+800,800,19,South Africa,England,South Africa,1 wicket,Johannesburg,"Feb 12, 2016",ODI # 3737
+801,801,20,South Africa,England,South Africa,5 wickets,Cape Town,"Feb 14, 2016",ODI # 3738
+802,802,21,West Indies,South Africa,West Indies,4 wickets,Providence,"Jun 3, 2016",ODI # 3739
+803,803,22,West Indies,Australia,Australia,6 wickets,Providence,"Jun 5, 2016",ODI # 3740
+804,804,23,Australia,South Africa,South Africa,47 runs,Providence,"Jun 7, 2016",ODI # 3741
+805,805,24,Zimbabwe,India,India,9 wickets,Harare,"Jun 11, 2016",ODI # 3742
+806,806,25,Australia,South Africa,Australia,36 runs,Basseterre,"Jun 11, 2016",ODI # 3743
+807,807,26,Zimbabwe,India,India,8 wickets,Harare,"Jun 13, 2016",ODI # 3744
+808,808,27,West Indies,Australia,West Indies,4 wickets,Basseterre,"Jun 13, 2016",ODI # 3745
+809,809,28,Zimbabwe,India,India,10 wickets,Harare,"Jun 15, 2016",ODI # 3746
+810,810,29,West Indies,South Africa,South Africa,139 runs,Basseterre,"Jun 15, 2016",ODI # 3747
+811,811,30,Ireland,Sri Lanka,Sri Lanka,76 runs,Dublin (Malahide),"Jun 16, 2016",ODI # 3748
+812,812,31,Ireland,Sri Lanka,Sri Lanka,136 runs,Dublin (Malahide),"Jun 18, 2016",ODI # 3749
+813,813,32,Australia,South Africa,no result,,Bridgetown,"Jun 19, 2016",ODI # 3750
+814,814,33,England,Sri Lanka,tied,,Nottingham,"Jun 21, 2016",ODI # 3751
+815,815,34,West Indies,Australia,Australia,6 wickets,Bridgetown,"Jun 21, 2016",ODI # 3752
+816,816,35,England,Sri Lanka,England,10 wickets,Birmingham,"Jun 24, 2016",ODI # 3753
+817,817,36,West Indies,South Africa,West Indies,100 runs,Bridgetown,"Jun 24, 2016",ODI # 3754
+818,818,37,England,Sri Lanka,no result,,Bristol,"Jun 26, 2016",ODI # 3755
+819,819,38,West Indies,Australia,Australia,58 runs,Bridgetown,"Jun 26, 2016",ODI # 3756
+820,820,39,England,Sri Lanka,England,6 wickets,The Oval,"Jun 29, 2016",ODI # 3757
+821,821,40,England,Sri Lanka,England,122 runs,Cardiff,"Jul 2, 2016",ODI # 3758
+822,822,41,Scotland,Afghanistan,no result,,Edinburgh,"Jul 4, 2016",ODI # 3759
+823,823,42,Scotland,Afghanistan,Afghanistan,78 runs,Edinburgh,"Jul 6, 2016",ODI # 3760
+824,824,43,Ireland,Afghanistan,Afghanistan,39 runs,Belfast,"Jul 12, 2016",ODI # 3761
+825,825,44,Ireland,Afghanistan,Ireland,6 wickets,Belfast,"Jul 14, 2016",ODI # 3762
+826,826,45,Ireland,Afghanistan,Afghanistan,79 runs,Belfast,"Jul 17, 2016",ODI # 3763
+827,827,46,Ireland,Afghanistan,Ireland,12 runs,Belfast,"Jul 19, 2016",ODI # 3764
+828,828,47,Scotland,U.A.E.,Scotland,98 runs,Edinburgh,"Aug 14, 2016",ODI # 3765
+829,829,48,Scotland,U.A.E.,Scotland,7 wickets,Edinburgh,"Aug 16, 2016",ODI # 3766
+830,830,49,Ireland,Pakistan,Pakistan,255 runs,Dublin (Malahide),"Aug 18, 2016",ODI # 3767
+831,831,50,Sri Lanka,Australia,Australia,3 wickets,Colombo (RPS),"Aug 21, 2016",ODI # 3768
+832,832,51,Sri Lanka,Australia,Sri Lanka,82 runs,Colombo (RPS),"Aug 24, 2016",ODI # 3769
+833,833,52,England,Pakistan,England,44 runs,Southampton,"Aug 24, 2016",ODI # 3770
+834,834,53,England,Pakistan,England,4 wickets,Lord's,"Aug 27, 2016",ODI # 3771
+835,835,54,Sri Lanka,Australia,Australia,2 wickets,Dambulla,"Aug 28, 2016",ODI # 3772
+836,836,55,England,Pakistan,England,169 runs,Nottingham,"Aug 30, 2016",ODI # 3773
+837,837,56,Sri Lanka,Australia,Australia,6 wickets,Dambulla,"Aug 31, 2016",ODI # 3774
+838,838,57,England,Pakistan,England,4 wickets,Leeds,"Sep 1, 2016",ODI # 3775
+839,839,58,Sri Lanka,Australia,Australia,5 wickets,Pallekele,"Sep 4, 2016",ODI # 3776
+840,840,59,England,Pakistan,Pakistan,4 wickets,Cardiff,"Sep 4, 2016",ODI # 3777
+841,841,60,Scotland,Hong Kong,no result,,Edinburgh,"Sep 8, 2016",ODI # 3778
+842,842,61,Scotland,Hong Kong,Scotland,53 runs,Edinburgh,"Sep 10, 2016",ODI # 3779
+843,843,62,South Africa,Ireland,South Africa,206 runs,Benoni,"Sep 25, 2016",ODI # 3780
+844,844,63,Bangladesh,Afghanistan,Bangladesh,7 runs,Dhaka,"Sep 25, 2016",ODI # 3781
+845,845,64,Australia,Ireland,Australia,9 wickets,Benoni,"Sep 27, 2016",ODI # 3782
+846,846,65,Bangladesh,Afghanistan,Afghanistan,2 wickets,Dhaka,"Sep 28, 2016",ODI # 3783
+847,847,66,Pakistan,West Indies,Pakistan,111 runs,Sharjah,"Sep 30, 2016",ODI # 3784
+848,848,67,South Africa,Australia,South Africa,6 wickets,Centurion,"Sep 30, 2016",ODI # 3785
+849,849,68,Bangladesh,Afghanistan,Bangladesh,141 runs,Dhaka,"Oct 1, 2016",ODI # 3786
+850,850,69,South Africa,Australia,South Africa,142 runs,Johannesburg,"Oct 2, 2016",ODI # 3787
+851,851,70,Pakistan,West Indies,Pakistan,59 runs,Sharjah,"Oct 2, 2016",ODI # 3788
+852,852,71,Pakistan,West Indies,Pakistan,136 runs,Abu Dhabi,"Oct 5, 2016",ODI # 3789
+853,853,72,South Africa,Australia,South Africa,4 wickets,Durban,"Oct 5, 2016",ODI # 3790
+854,854,73,Bangladesh,England,England,21 runs,Dhaka,"Oct 7, 2016",ODI # 3791
+855,855,74,South Africa,Australia,South Africa,6 wickets,Port Elizabeth,"Oct 9, 2016",ODI # 3792
+856,856,75,Bangladesh,England,Bangladesh,34 runs,Dhaka,"Oct 9, 2016",ODI # 3793
+857,857,76,Bangladesh,England,England,4 wickets,Chattogram,"Oct 12, 2016",ODI # 3794
+858,858,77,South Africa,Australia,South Africa,31 runs,Cape Town,"Oct 12, 2016",ODI # 3795
+859,859,78,India,New Zealand,India,6 wickets,Dharamsala,"Oct 16, 2016",ODI # 3796
+860,860,79,India,New Zealand,New Zealand,6 runs,Delhi,"Oct 20, 2016",ODI # 3797
+861,861,80,India,New Zealand,India,7 wickets,Mohali,"Oct 23, 2016",ODI # 3798
+862,862,81,India,New Zealand,New Zealand,19 runs,Ranchi,"Oct 26, 2016",ODI # 3799
+863,863,82,India,New Zealand,India,190 runs,Visakhapatnam,"Oct 29, 2016",ODI # 3800
+864,864,83,Hong Kong,P.N.G.,Hong Kong,106 runs,Mong Kok,"Nov 4, 2016",ODI # 3801
+865,865,84,Hong Kong,P.N.G.,P.N.G.,14 runs,Mong Kok,"Nov 6, 2016",ODI # 3802
+866,866,85,Hong Kong,P.N.G.,Hong Kong,7 wickets,Mong Kok,"Nov 8, 2016",ODI # 3803
+867,867,86,Zimbabwe,Sri Lanka,Sri Lanka,8 wickets,Harare,"Nov 14, 2016",ODI # 3804
+868,868,87,Sri Lanka,West Indies,West Indies,62 runs,Harare,"Nov 16, 2016",ODI # 3805
+869,869,88,Zimbabwe,West Indies,tied,,Bulawayo,"Nov 19, 2016",ODI # 3806
+870,870,89,Zimbabwe,Sri Lanka,no result,,Bulawayo,"Nov 21, 2016",ODI # 3807
+871,871,90,Sri Lanka,West Indies,Sri Lanka,1 run,Bulawayo,"Nov 23, 2016",ODI # 3808
+872,872,91,Zimbabwe,West Indies,Zimbabwe,5 runs,Bulawayo,"Nov 25, 2016",ODI # 3809
+873,873,92,Zimbabwe,Sri Lanka,Sri Lanka,6 wickets,Bulawayo,"Nov 27, 2016",ODI # 3810
+874,874,93,Australia,New Zealand,Australia,68 runs,Sydney,"Dec 4, 2016",ODI # 3811
+875,875,94,Australia,New Zealand,Australia,116 runs,Canberra,"Dec 6, 2016",ODI # 3812
+876,876,95,Australia,New Zealand,Australia,117 runs,Melbourne,"Dec 9, 2016",ODI # 3813
+877,877,96,New Zealand,Bangladesh,New Zealand,77 runs,Christchurch,"Dec 26, 2016",ODI # 3814
+878,878,97,New Zealand,Bangladesh,New Zealand,67 runs,Nelson,"Dec 29, 2016",ODI # 3815
+879,879,98,New Zealand,Bangladesh,New Zealand,8 wickets,Nelson,"Dec 31, 2016",ODI # 3816
+880,880,0,Australia,Pakistan,Australia,92 runs,Brisbane,"Jan 13, 2017",ODI # 3817
+881,881,1,Australia,Pakistan,Pakistan,6 wickets,Melbourne,"Jan 15, 2017",ODI # 3818
+882,882,2,India,England,India,3 wickets,Pune,"Jan 15, 2017",ODI # 3819
+883,883,3,Australia,Pakistan,Australia,7 wickets,Perth,"Jan 19, 2017",ODI # 3820
+884,884,4,India,England,India,15 runs,Cuttack,"Jan 19, 2017",ODI # 3821
+885,885,5,Australia,Pakistan,Australia,86 runs,Sydney,"Jan 22, 2017",ODI # 3822
+886,886,6,Hong Kong,Scotland,Hong Kong,7 wickets,Abu Dhabi,"Jan 22, 2017",ODI # 3823
+887,887,7,India,England,England,5 runs,Kolkata,"Jan 22, 2017",ODI # 3824
+888,888,8,U.A.E.,Scotland,U.A.E.,4 wickets,Dubai (DSC),"Jan 24, 2017",ODI # 3825
+889,889,9,Australia,Pakistan,Australia,57 runs,Adelaide,"Jan 26, 2017",ODI # 3826
+890,890,10,U.A.E.,Hong Kong,U.A.E.,6 wickets,Dubai (DSC),"Jan 26, 2017",ODI # 3827
+891,891,11,South Africa,Sri Lanka,South Africa,8 wickets,Port Elizabeth,"Jan 28, 2017",ODI # 3828
+892,892,12,New Zealand,Australia,New Zealand,6 runs,Auckland,"Jan 30, 2017",ODI # 3829
+893,893,13,South Africa,Sri Lanka,South Africa,121 runs,Durban,"Feb 1, 2017",ODI # 3830
+894,894,14,South Africa,Sri Lanka,South Africa,7 wickets,Johannesburg,"Feb 4, 2017",ODI # 3831
+895,895,15,New Zealand,Australia,New Zealand,24 runs,Hamilton,"Feb 5, 2017",ODI # 3832
+896,896,16,South Africa,Sri Lanka,South Africa,40 runs,Cape Town,"Feb 7, 2017",ODI # 3833
+897,897,17,South Africa,Sri Lanka,South Africa,88 runs,Centurion,"Feb 10, 2017",ODI # 3834
+898,898,18,Zimbabwe,Afghanistan,Afghanistan,12 runs,Harare,"Feb 16, 2017",ODI # 3835
+899,899,19,New Zealand,South Africa,South Africa,4 wickets,Hamilton,"Feb 19, 2017",ODI # 3836
+900,900,20,Zimbabwe,Afghanistan,Afghanistan,54 runs,Harare,"Feb 19, 2017",ODI # 3837
+901,901,21,Zimbabwe,Afghanistan,Zimbabwe,3 runs,Harare,"Feb 21, 2017",ODI # 3838
+902,902,22,New Zealand,South Africa,New Zealand,6 runs,Christchurch,"Feb 22, 2017",ODI # 3839
+903,903,23,Zimbabwe,Afghanistan,Zimbabwe,7 wickets,Harare,"Feb 24, 2017",ODI # 3840
+904,904,24,New Zealand,South Africa,South Africa,159 runs,Wellington,"Feb 25, 2017",ODI # 3841
+905,905,25,Zimbabwe,Afghanistan,Afghanistan,106 runs,Harare,"Feb 26, 2017",ODI # 3842
+906,906,26,New Zealand,South Africa,New Zealand,7 wickets,Hamilton,"Mar 1, 2017",ODI # 3843
+907,907,27,U.A.E.,Ireland,Ireland,85 runs,ICCA Dubai,"Mar 2, 2017",ODI # 3844
+908,908,28,West Indies,England,England,45 runs,North Sound,"Mar 3, 2017",ODI # 3845
+909,909,29,New Zealand,South Africa,South Africa,6 wickets,Auckland,"Mar 4, 2017",ODI # 3846
+910,910,30,U.A.E.,Ireland,Ireland,8 wickets,ICCA Dubai,"Mar 4, 2017",ODI # 3847
+911,911,31,West Indies,England,England,4 wickets,North Sound,"Mar 5, 2017",ODI # 3848
+912,912,32,West Indies,England,England,186 runs,Bridgetown,"Mar 9, 2017",ODI # 3849
+913,913,33,Afghanistan,Ireland,Afghanistan,30 runs,Greater Noida,"Mar 15, 2017",ODI # 3850
+914,914,34,Afghanistan,Ireland,Afghanistan,34 runs,Greater Noida,"Mar 17, 2017",ODI # 3851
+915,915,35,Afghanistan,Ireland,Ireland,6 wickets,Greater Noida,"Mar 19, 2017",ODI # 3852
+916,916,36,Afghanistan,Ireland,Ireland,3 wickets,Greater Noida,"Mar 22, 2017",ODI # 3853
+917,917,37,Afghanistan,Ireland,Afghanistan,7 wickets,Greater Noida,"Mar 24, 2017",ODI # 3854
+918,918,38,Sri Lanka,Bangladesh,Bangladesh,90 runs,Dambulla,"Mar 25, 2017",ODI # 3855
+919,919,39,Sri Lanka,Bangladesh,no result,,Dambulla,"Mar 28, 2017",ODI # 3856
+920,920,40,U.A.E.,P.N.G.,U.A.E.,82 runs,Abu Dhabi,"Mar 31, 2017",ODI # 3857
+921,921,41,Sri Lanka,Bangladesh,Sri Lanka,70 runs,Colombo (SSC),"Apr 1, 2017",ODI # 3858
+922,922,42,U.A.E.,P.N.G.,P.N.G.,26 runs,Abu Dhabi,"Apr 2, 2017",ODI # 3859
+923,923,43,U.A.E.,P.N.G.,U.A.E.,103 runs,Abu Dhabi,"Apr 4, 2017",ODI # 3860
+924,924,44,West Indies,Pakistan,West Indies,4 wickets,Providence,"Apr 7, 2017",ODI # 3861
+925,925,45,West Indies,Pakistan,Pakistan,74 runs,Providence,"Apr 9, 2017",ODI # 3862
+926,926,46,West Indies,Pakistan,Pakistan,6 wickets,Providence,"Apr 11, 2017",ODI # 3863
+927,927,47,England,Ireland,England,7 wickets,Bristol,"May 5, 2017",ODI # 3864
+928,928,48,England,Ireland,England,85 runs,Lord's,"May 7, 2017",ODI # 3865
+929,929,49,Ireland,Bangladesh,no result,,Dublin (Malahide),"May 12, 2017",ODI # 3866
+930,930,50,Ireland,New Zealand,New Zealand,51 runs,Dublin (Malahide),"May 14, 2017",ODI # 3867
+931,931,51,Bangladesh,New Zealand,New Zealand,4 wickets,Dublin,"May 17, 2017",ODI # 3868
+932,932,52,Ireland,Bangladesh,Bangladesh,8 wickets,Dublin (Malahide),"May 19, 2017",ODI # 3869
+933,933,53,Ireland,New Zealand,New Zealand,190 runs,Dublin (Malahide),"May 21, 2017",ODI # 3870
+934,934,54,Bangladesh,New Zealand,Bangladesh,5 wickets,Dublin,"May 24, 2017",ODI # 3871
+935,935,55,England,South Africa,England,72 runs,Leeds,"May 24, 2017",ODI # 3872
+936,936,56,England,South Africa,England,2 runs,Southampton,"May 27, 2017",ODI # 3873
+937,937,57,England,South Africa,South Africa,7 wickets,Lord's,"May 29, 2017",ODI # 3874
+938,938,58,England,Bangladesh,England,8 wickets,The Oval,"Jun 1, 2017",ODI # 3875
+939,939,59,Australia,New Zealand,no result,,Birmingham,"Jun 2, 2017",ODI # 3876
+940,940,60,South Africa,Sri Lanka,South Africa,96 runs,The Oval,"Jun 3, 2017",ODI # 3877
+941,941,61,India,Pakistan,India,124 runs,Birmingham,"Jun 4, 2017",ODI # 3878
+942,942,62,Australia,Bangladesh,no result,,The Oval,"Jun 5, 2017",ODI # 3879
+943,943,63,England,New Zealand,England,87 runs,Cardiff,"Jun 6, 2017",ODI # 3880
+944,944,64,Pakistan,South Africa,Pakistan,19 runs,Birmingham,"Jun 7, 2017",ODI # 3881
+945,945,65,India,Sri Lanka,Sri Lanka,7 wickets,The Oval,"Jun 8, 2017",ODI # 3882
+946,946,66,Bangladesh,New Zealand,Bangladesh,5 wickets,Cardiff,"Jun 9, 2017",ODI # 3883
+947,947,67,West Indies,Afghanistan,Afghanistan,63 runs,Gros Islet,"Jun 9, 2017",ODI # 3884
+948,948,68,England,Australia,England,40 runs,Birmingham,"Jun 10, 2017",ODI # 3885
+949,949,69,India,South Africa,India,8 wickets,The Oval,"Jun 11, 2017",ODI # 3886
+950,950,70,West Indies,Afghanistan,West Indies,4 wickets,Gros Islet,"Jun 11, 2017",ODI # 3887
+951,951,71,Pakistan,Sri Lanka,Pakistan,3 wickets,Cardiff,"Jun 12, 2017",ODI # 3888
+952,952,72,England,Pakistan,Pakistan,8 wickets,Cardiff,"Jun 14, 2017",ODI # 3889
+953,953,73,West Indies,Afghanistan,no result,,Gros Islet,"Jun 14, 2017",ODI # 3890
+954,954,74,Bangladesh,India,India,9 wickets,Birmingham,"Jun 15, 2017",ODI # 3891
+955,955,75,Scotland,Zimbabwe,Scotland,26 runs,Edinburgh,"Jun 15, 2017",ODI # 3892
+956,956,76,Scotland,Zimbabwe,Zimbabwe,6 wickets,Edinburgh,"Jun 17, 2017",ODI # 3893
+957,957,77,India,Pakistan,Pakistan,180 runs,The Oval,"Jun 18, 2017",ODI # 3894
+958,958,78,West Indies,India,no result,,Port of Spain,"Jun 23, 2017",ODI # 3895
+959,959,79,West Indies,India,India,105 runs,Port of Spain,"Jun 25, 2017",ODI # 3896
+960,960,80,Sri Lanka,Zimbabwe,Zimbabwe,6 wickets,Galle,"Jun 30, 2017",ODI # 3897
+961,961,81,West Indies,India,India,93 runs,North Sound,"Jun 30, 2017",ODI # 3898
+962,962,82,Sri Lanka,Zimbabwe,Sri Lanka,7 wickets,Galle,"Jul 2, 2017",ODI # 3899
+963,963,83,West Indies,India,West Indies,11 runs,North Sound,"Jul 2, 2017",ODI # 3900
+964,964,84,Sri Lanka,Zimbabwe,Sri Lanka,8 wickets,Hambantota,"Jul 6, 2017",ODI # 3901
+965,965,85,West Indies,India,India,8 wickets,Kingston,"Jul 6, 2017",ODI # 3902
+966,966,86,Sri Lanka,Zimbabwe,Zimbabwe,4 wickets,Hambantota,"Jul 8, 2017",ODI # 3903
+967,967,87,Sri Lanka,Zimbabwe,Zimbabwe,3 wickets,Hambantota,"Jul 10, 2017",ODI # 3904
+968,968,88,Sri Lanka,India,India,9 wickets,Dambulla,"Aug 20, 2017",ODI # 3905
+969,969,89,Sri Lanka,India,India,3 wickets,Pallekele,"Aug 24, 2017",ODI # 3906
+970,970,90,Sri Lanka,India,India,6 wickets,Pallekele,"Aug 27, 2017",ODI # 3907
+971,971,91,Sri Lanka,India,India,168 runs,Colombo (RPS),"Aug 31, 2017",ODI # 3908
+972,972,92,Sri Lanka,India,India,6 wickets,Colombo (RPS),"Sep 3, 2017",ODI # 3909
+973,973,93,India,Australia,India,26 runs,Chennai,"Sep 17, 2017",ODI # 3910
+974,974,94,England,West Indies,England,7 wickets,Manchester,"Sep 19, 2017",ODI # 3911
+975,975,95,India,Australia,India,50 runs,Kolkata,"Sep 21, 2017",ODI # 3912
+976,976,96,England,West Indies,no result,,Nottingham,"Sep 21, 2017",ODI # 3913
+977,977,97,India,Australia,India,5 wickets,Indore,"Sep 24, 2017",ODI # 3914
+978,978,98,England,West Indies,England,124 runs,Bristol,"Sep 24, 2017",ODI # 3915
+979,979,99,England,West Indies,England,6 runs,The Oval,"Sep 27, 2017",ODI # 3916
+980,980,100,India,Australia,Australia,21 runs,Bengaluru,"Sep 28, 2017",ODI # 3917
+981,981,101,England,West Indies,England,9 wickets,Southampton,"Sep 29, 2017",ODI # 3918
+982,982,102,India,Australia,India,7 wickets,Nagpur,"Oct 1, 2017",ODI # 3919
+983,983,103,P.N.G.,Scotland,Scotland,101 runs,Port Moresby,"Oct 6, 2017",ODI # 3920
+984,984,104,P.N.G.,Scotland,P.N.G.,5 wickets,Port Moresby,"Oct 8, 2017",ODI # 3921
+985,985,105,Pakistan,Sri Lanka,Pakistan,83 runs,Dubai (DSC),"Oct 13, 2017",ODI # 3922
+986,986,106,South Africa,Bangladesh,South Africa,10 wickets,Kimberley,"Oct 15, 2017",ODI # 3923
+987,987,107,Pakistan,Sri Lanka,Pakistan,32 runs,Abu Dhabi,"Oct 16, 2017",ODI # 3924
+988,988,108,South Africa,Bangladesh,South Africa,104 runs,Paarl,"Oct 18, 2017",ODI # 3925
+989,989,109,Pakistan,Sri Lanka,Pakistan,7 wickets,Abu Dhabi,"Oct 18, 2017",ODI # 3926
+990,990,110,Pakistan,Sri Lanka,Pakistan,7 wickets,Sharjah,"Oct 20, 2017",ODI # 3927
+991,991,111,India,New Zealand,New Zealand,6 wickets,Mumbai,"Oct 22, 2017",ODI # 3928
+992,992,112,South Africa,Bangladesh,South Africa,200 runs,East London,"Oct 22, 2017",ODI # 3929
+993,993,113,Pakistan,Sri Lanka,Pakistan,9 wickets,Sharjah,"Oct 23, 2017",ODI # 3930
+994,994,114,India,New Zealand,India,6 wickets,Pune,"Oct 25, 2017",ODI # 3931
+995,995,115,India,New Zealand,India,6 runs,Kanpur,"Oct 29, 2017",ODI # 3932
+996,996,116,P.N.G.,Scotland,Scotland,6 wickets,Dubai (DSC),"Nov 24, 2017",ODI # 3933
+997,997,117,P.N.G.,Scotland,Scotland,4 wickets,Dubai (DSC),"Nov 25, 2017",ODI # 3934
+998,998,118,Afghanistan,Ireland,Afghanistan,138 runs,Sharjah,"Dec 5, 2017",ODI # 3935
+999,999,119,Hong Kong,P.N.G.,Hong Kong,23 runs,ICCA Dubai,"Dec 6, 2017",ODI # 3936
+1000,1000,120,Afghanistan,Ireland,Ireland,51 runs,Sharjah,"Dec 7, 2017",ODI # 3937
+1001,1001,121,Hong Kong,P.N.G.,Hong Kong,93 runs,ICCA Dubai,"Dec 8, 2017",ODI # 3938
+1002,1002,122,India,Sri Lanka,Sri Lanka,7 wickets,Dharamsala,"Dec 10, 2017",ODI # 3939
+1003,1003,123,Afghanistan,Ireland,Ireland,5 wickets,Sharjah,"Dec 10, 2017",ODI # 3940
+1004,1004,124,India,Sri Lanka,India,141 runs,Mohali,"Dec 13, 2017",ODI # 3941
+1005,1005,125,India,Sri Lanka,India,8 wickets,Visakhapatnam,"Dec 17, 2017",ODI # 3942
+1006,1006,126,New Zealand,West Indies,New Zealand,5 wickets,Whangarei,"Dec 20, 2017",ODI # 3943
+1007,1007,127,New Zealand,West Indies,New Zealand,204 runs,Christchurch,"Dec 23, 2017",ODI # 3944
+1008,1008,128,New Zealand,West Indies,New Zealand,66 runs,Christchurch,"Dec 26, 2017",ODI # 3945
+1009,1009,0,New Zealand,Pakistan,New Zealand,61 runs,Wellington,"Jan 6, 2018",ODI # 3946
+1010,1010,1,New Zealand,Pakistan,New Zealand,8 wickets,Nelson,"Jan 9, 2018",ODI # 3947
+1011,1011,2,U.A.E.,Ireland,Ireland,4 wickets,ICCA Dubai,"Jan 11, 2018",ODI # 3948
+1012,1012,3,New Zealand,Pakistan,New Zealand,183 runs,Dunedin,"Jan 13, 2018",ODI # 3949
+1013,1013,4,U.A.E.,Ireland,Ireland,67 runs,ICCA Dubai,"Jan 13, 2018",ODI # 3950
+1014,1014,5,Australia,England,England,5 wickets,Melbourne,"Jan 14, 2018",ODI # 3951
+1015,1015,6,Bangladesh,Zimbabwe,Bangladesh,8 wickets,Dhaka,"Jan 15, 2018",ODI # 3952
+1016,1016,7,New Zealand,Pakistan,New Zealand,5 wickets,Hamilton,"Jan 16, 2018",ODI # 3953
+1017,1017,8,Ireland,Scotland,Ireland,6 wickets,ICCA Dubai,"Jan 16, 2018",ODI # 3954
+1018,1018,9,Sri Lanka,Zimbabwe,Zimbabwe,12 runs,Dhaka,"Jan 17, 2018",ODI # 3955
+1019,1019,10,Ireland,Scotland,Ireland,24 runs,ICCA Dubai,"Jan 18, 2018",ODI # 3956
+1020,1020,11,New Zealand,Pakistan,New Zealand,15 runs,Wellington,"Jan 19, 2018",ODI # 3957
+1021,1021,12,Australia,England,England,4 wickets,Brisbane,"Jan 19, 2018",ODI # 3958
+1022,1022,13,Bangladesh,Sri Lanka,Bangladesh,163 runs,Dhaka,"Jan 19, 2018",ODI # 3959
+1023,1023,14,Australia,England,England,16 runs,Sydney,"Jan 21, 2018",ODI # 3960
+1024,1024,15,U.A.E.,Scotland,Scotland,31 runs,ICCA Dubai,"Jan 21, 2018",ODI # 3961
+1025,1025,16,Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Dhaka,"Jan 21, 2018",ODI # 3962
+1026,1026,17,U.A.E.,Scotland,U.A.E.,4 wickets,ICCA Dubai,"Jan 23, 2018",ODI # 3963
+1027,1027,18,Bangladesh,Zimbabwe,Bangladesh,91 runs,Dhaka,"Jan 23, 2018",ODI # 3964
+1028,1028,19,Bangladesh,Sri Lanka,Sri Lanka,10 wickets,Dhaka,"Jan 25, 2018",ODI # 3965
+1029,1029,20,Australia,England,Australia,3 wickets,Adelaide,"Jan 26, 2018",ODI # 3966
+1030,1030,21,Bangladesh,Sri Lanka,Sri Lanka,79 runs,Dhaka,"Jan 27, 2018",ODI # 3967
+1031,1031,22,Australia,England,England,12 runs,Perth,"Jan 28, 2018",ODI # 3968
+1032,1032,23,South Africa,India,India,6 wickets,Durban,"Feb 1, 2018",ODI # 3969
+1033,1033,24,South Africa,India,India,9 wickets,Centurion,"Feb 4, 2018",ODI # 3970
+1034,1034,25,South Africa,India,India,124 runs,Cape Town,"Feb 7, 2018",ODI # 3971
+1035,1035,26,Afghanistan,Zimbabwe,Afghanistan,154 runs,Sharjah,"Feb 9, 2018",ODI # 3972
+1036,1036,27,South Africa,India,South Africa,5 wickets,Johannesburg,"Feb 10, 2018",ODI # 3973
+1037,1037,28,Afghanistan,Zimbabwe,Zimbabwe,154 runs,Sharjah,"Feb 11, 2018",ODI # 3974
+1038,1038,29,Afghanistan,Zimbabwe,Afghanistan,6 wickets,Sharjah,"Feb 13, 2018",ODI # 3975
+1039,1039,30,South Africa,India,India,73 runs,Port Elizabeth,"Feb 13, 2018",ODI # 3976
+1040,1040,31,Afghanistan,Zimbabwe,Afghanistan,10 wickets,Sharjah,"Feb 16, 2018",ODI # 3977
+1041,1041,32,South Africa,India,India,8 wickets,Centurion,"Feb 16, 2018",ODI # 3978
+1042,1042,33,Afghanistan,Zimbabwe,Afghanistan,146 runs,Sharjah,"Feb 19, 2018",ODI # 3979
+1043,1043,34,New Zealand,England,New Zealand,3 wickets,Hamilton,"Feb 25, 2018",ODI # 3980
+1044,1044,35,New Zealand,England,England,6 wickets,Mount Maunganui,"Feb 28, 2018",ODI # 3981
+1045,1045,36,New Zealand,England,England,4 runs,Wellington,"Mar 3, 2018",ODI # 3982
+1046,1046,37,Afghanistan,Scotland,Scotland,7 wickets,Bulawayo,"Mar 4, 2018",ODI # 3983
+1047,1047,38,P.N.G.,U.A.E.,U.A.E.,56 runs,Harare,"Mar 4, 2018",ODI # 3984
+1048,1048,39,Hong Kong,Scotland,Scotland,4 wickets,Bulawayo,"Mar 6, 2018",ODI # 3985
+1049,1049,40,Ireland,P.N.G.,Ireland,4 wickets,Harare,"Mar 6, 2018",ODI # 3986
+1050,1050,41,U.A.E.,West Indies,West Indies,60 runs,Harare,"Mar 6, 2018",ODI # 3987
+1051,1051,42,Zimbabwe,Afghanistan,Zimbabwe,2 runs,Bulawayo,"Mar 6, 2018",ODI # 3988
+1052,1052,43,New Zealand,England,New Zealand,5 wickets,Dunedin,"Mar 7, 2018",ODI # 3989
+1053,1053,44,Afghanistan,Hong Kong,Hong Kong,30 runs,Bulawayo,"Mar 8, 2018",ODI # 3990
+1054,1054,45,P.N.G.,West Indies,West Indies,6 wickets,Harare,"Mar 8, 2018",ODI # 3991
+1055,1055,46,New Zealand,England,England,7 wickets,Christchurch,"Mar 10, 2018",ODI # 3992
+1056,1056,47,Ireland,West Indies,West Indies,52 runs,Harare,"Mar 10, 2018",ODI # 3993
+1057,1057,48,Zimbabwe,Hong Kong,Zimbabwe,89 runs,Bulawayo,"Mar 10, 2018",ODI # 3994
+1058,1058,49,Ireland,U.A.E.,Ireland,226 runs,Harare,"Mar 12, 2018",ODI # 3995
+1059,1059,50,Zimbabwe,Scotland,tied,,Bulawayo,"Mar 12, 2018",ODI # 3996
+1060,1060,51,Afghanistan,West Indies,Afghanistan,3 wickets,Harare,"Mar 15, 2018",ODI # 3997
+1061,1061,52,Scotland,U.A.E.,Scotland,73 runs,Bulawayo,"Mar 15, 2018",ODI # 3998
+1062,1062,53,Zimbabwe,Ireland,Zimbabwe,107 runs,Harare,"Mar 16, 2018",ODI # 3999
+1063,1063,54,Hong Kong,P.N.G.,P.N.G.,58 runs,Harare,"Mar 17, 2018",ODI # 4000
+1064,1064,55,Ireland,Scotland,Ireland,25 runs,Harare,"Mar 18, 2018",ODI # 4001
+1065,1065,56,Zimbabwe,West Indies,West Indies,4 wickets,Harare,"Mar 19, 2018",ODI # 4002
+1066,1066,57,Afghanistan,U.A.E.,Afghanistan,5 wickets,Harare,"Mar 20, 2018",ODI # 4003
+1067,1067,58,Scotland,West Indies,West Indies,5 runs,Harare,"Mar 21, 2018",ODI # 4004
+1068,1068,59,Zimbabwe,U.A.E.,U.A.E.,3 runs,Harare,"Mar 22, 2018",ODI # 4005
+1069,1069,60,Afghanistan,Ireland,Afghanistan,5 wickets,Harare,"Mar 23, 2018",ODI # 4006
+1070,1070,61,Afghanistan,West Indies,Afghanistan,7 wickets,Harare,"Mar 25, 2018",ODI # 4007
+1071,1071,62,Scotland,England,Scotland,6 runs,Edinburgh,"Jun 10, 2018",ODI # 4008
+1072,1072,63,England,Australia,England,3 wickets,The Oval,"Jun 13, 2018",ODI # 4009
+1073,1073,64,England,Australia,England,38 runs,Cardiff,"Jun 16, 2018",ODI # 4010
+1074,1074,65,England,Australia,England,242 runs,Nottingham,"Jun 19, 2018",ODI # 4011
+1075,1075,66,England,Australia,England,6 wickets,Chester-le-Street,"Jun 21, 2018",ODI # 4012
+1076,1076,67,England,Australia,England,1 wicket,Manchester,"Jun 24, 2018",ODI # 4013
+1077,1077,68,England,India,India,8 wickets,Nottingham,"Jul 12, 2018",ODI # 4014
+1078,1078,69,Zimbabwe,Pakistan,Pakistan,201 runs,Bulawayo,"Jul 13, 2018",ODI # 4015
+1079,1079,70,England,India,England,86 runs,Lord's,"Jul 14, 2018",ODI # 4016
+1080,1080,71,Zimbabwe,Pakistan,Pakistan,9 wickets,Bulawayo,"Jul 16, 2018",ODI # 4017
+1081,1081,72,England,India,England,8 wickets,Leeds,"Jul 17, 2018",ODI # 4018
+1082,1082,73,Zimbabwe,Pakistan,Pakistan,9 wickets,Bulawayo,"Jul 18, 2018",ODI # 4019
+1083,1083,74,Zimbabwe,Pakistan,Pakistan,244 runs,Bulawayo,"Jul 20, 2018",ODI # 4020
+1084,1084,75,Zimbabwe,Pakistan,Pakistan,131 runs,Bulawayo,"Jul 22, 2018",ODI # 4021
+1085,1085,76,West Indies,Bangladesh,Bangladesh,48 runs,Providence,"Jul 22, 2018",ODI # 4022
+1086,1086,77,West Indies,Bangladesh,West Indies,3 runs,Providence,"Jul 25, 2018",ODI # 4023
+1087,1087,78,West Indies,Bangladesh,Bangladesh,18 runs,Basseterre,"Jul 28, 2018",ODI # 4024
+1088,1088,79,Sri Lanka,South Africa,South Africa,5 wickets,Dambulla,"Jul 29, 2018",ODI # 4025
+1089,1089,80,Netherlands,Nepal,Netherlands,55 runs,Amstelveen,"Aug 1, 2018",ODI # 4026
+1090,1090,81,Sri Lanka,South Africa,South Africa,4 wickets,Dambulla,"Aug 1, 2018",ODI # 4027
+1091,1091,82,Netherlands,Nepal,Nepal,1 run,Amstelveen,"Aug 3, 2018",ODI # 4028
+1092,1092,83,Sri Lanka,South Africa,South Africa,78 runs,Pallekele,"Aug 5, 2018",ODI # 4029
+1093,1093,84,Sri Lanka,South Africa,Sri Lanka,3 runs,Pallekele,"Aug 8, 2018",ODI # 4030
+1094,1094,85,Sri Lanka,South Africa,Sri Lanka,178 runs,Colombo (RPS),"Aug 12, 2018",ODI # 4031
+1095,1095,86,Ireland,Afghanistan,Afghanistan,29 runs,Belfast,"Aug 27, 2018",ODI # 4032
+1096,1096,87,Ireland,Afghanistan,Ireland,3 wickets,Belfast,"Aug 29, 2018",ODI # 4033
+1097,1097,88,Nepal,U.A.E.,U.A.E.,78 runs,Kuala Lumpur,"Aug 30, 2018",ODI # 4034
+1098,1098,89,Ireland,Afghanistan,Afghanistan,8 wickets,Belfast,"Aug 31, 2018",ODI # 4035
+1099,1099,90,Bangladesh,Sri Lanka,Bangladesh,137 runs,Dubai (DSC),"Sep 15, 2018",ODI # 4036
+1100,1100,91,Hong Kong,Pakistan,Pakistan,8 wickets,Dubai (DSC),"Sep 16, 2018",ODI # 4037
+1101,1101,92,Afghanistan,Sri Lanka,Afghanistan,91 runs,Abu Dhabi,"Sep 17, 2018",ODI # 4038
+1102,1102,93,Hong Kong,India,India,26 runs,Dubai (DSC),"Sep 18, 2018",ODI # 4039
+1103,1103,94,India,Pakistan,India,8 wickets,Dubai (DSC),"Sep 19, 2018",ODI # 4040
+1104,1104,95,Afghanistan,Bangladesh,Afghanistan,136 runs,Abu Dhabi,"Sep 20, 2018",ODI # 4041
+1105,1105,96,Bangladesh,India,India,7 wickets,Dubai (DSC),"Sep 21, 2018",ODI # 4042
+1106,1106,97,Afghanistan,Pakistan,Pakistan,3 wickets,Abu Dhabi,"Sep 21, 2018",ODI # 4043
+1107,1107,98,India,Pakistan,India,9 wickets,Dubai (DSC),"Sep 23, 2018",ODI # 4044
+1108,1108,99,Afghanistan,Bangladesh,Bangladesh,3 runs,Abu Dhabi,"Sep 23, 2018",ODI # 4045
+1109,1109,100,Afghanistan,India,tied,,Dubai (DSC),"Sep 25, 2018",ODI # 4046
+1110,1110,101,Bangladesh,Pakistan,Bangladesh,37 runs,Abu Dhabi,"Sep 26, 2018",ODI # 4047
+1111,1111,102,Bangladesh,India,India,3 wickets,Dubai (DSC),"Sep 28, 2018",ODI # 4048
+1112,1112,103,South Africa,Zimbabwe,South Africa,5 wickets,Kimberley,"Sep 30, 2018",ODI # 4049
+1113,1113,104,South Africa,Zimbabwe,South Africa,120 runs,Bloemfontein,"Oct 3, 2018",ODI # 4050
+1114,1114,105,South Africa,Zimbabwe,South Africa,4 wickets,Paarl,"Oct 6, 2018",ODI # 4051
+1115,1115,106,Sri Lanka,England,no result,,Dambulla,"Oct 10, 2018",ODI # 4052
+1116,1116,107,Sri Lanka,England,England,31 runs,Dambulla,"Oct 13, 2018",ODI # 4053
+1117,1117,108,Sri Lanka,England,England,7 wickets,Pallekele,"Oct 17, 2018",ODI # 4054
+1118,1118,109,Sri Lanka,England,England,18 runs,Pallekele,"Oct 20, 2018",ODI # 4055
+1119,1119,110,India,West Indies,India,8 wickets,Guwahati,"Oct 21, 2018",ODI # 4056
+1120,1120,111,Bangladesh,Zimbabwe,Bangladesh,28 runs,Dhaka,"Oct 21, 2018",ODI # 4057
+1121,1121,112,Sri Lanka,England,Sri Lanka,219 runs,Colombo (RPS),"Oct 23, 2018",ODI # 4058
+1122,1122,113,India,West Indies,tied,,Visakhapatnam,"Oct 24, 2018",ODI # 4059
+1123,1123,114,Bangladesh,Zimbabwe,Bangladesh,7 wickets,Chattogram,"Oct 24, 2018",ODI # 4060
+1124,1124,115,Bangladesh,Zimbabwe,Bangladesh,7 wickets,Chattogram,"Oct 26, 2018",ODI # 4061
+1125,1125,116,India,West Indies,West Indies,43 runs,Pune,"Oct 27, 2018",ODI # 4062
+1126,1126,117,India,West Indies,India,224 runs,Mumbai (BS),"Oct 29, 2018",ODI # 4063
+1127,1127,118,India,West Indies,India,9 wickets,Thiruvananthapuram,"Nov 1, 2018",ODI # 4064
+1128,1128,119,Australia,South Africa,South Africa,6 wickets,Perth,"Nov 4, 2018",ODI # 4065
+1129,1129,120,New Zealand,Pakistan,New Zealand,47 runs,Abu Dhabi,"Nov 7, 2018",ODI # 4066
+1130,1130,121,Australia,South Africa,Australia,7 runs,Adelaide,"Nov 9, 2018",ODI # 4067
+1131,1131,122,New Zealand,Pakistan,Pakistan,6 wickets,Abu Dhabi,"Nov 9, 2018",ODI # 4068
+1132,1132,123,Australia,South Africa,South Africa,40 runs,Hobart,"Nov 11, 2018",ODI # 4069
+1133,1133,124,New Zealand,Pakistan,no result,,Dubai (DSC),"Nov 11, 2018",ODI # 4070
+1134,1134,125,Bangladesh,West Indies,Bangladesh,5 wickets,Dhaka,"Dec 9, 2018",ODI # 4071
+1135,1135,126,Bangladesh,West Indies,West Indies,4 wickets,Dhaka,"Dec 11, 2018",ODI # 4072
+1136,1136,127,Bangladesh,West Indies,Bangladesh,8 wickets,Sylhet,"Dec 14, 2018",ODI # 4073
+1137,1137,0,New Zealand,Sri Lanka,New Zealand,45 runs,Mount Maunganui,"Jan 3, 2019",ODI # 4074
+1138,1138,1,New Zealand,Sri Lanka,New Zealand,21 runs,Mount Maunganui,"Jan 5, 2019",ODI # 4075
+1139,1139,2,New Zealand,Sri Lanka,New Zealand,115 runs,Nelson,"Jan 8, 2019",ODI # 4076
+1140,1140,3,Australia,India,Australia,34 runs,Sydney,"Jan 12, 2019",ODI # 4077
+1141,1141,4,Australia,India,India,6 wickets,Adelaide,"Jan 15, 2019",ODI # 4078
+1142,1142,5,Australia,India,India,7 wickets,Melbourne,"Jan 18, 2019",ODI # 4079
+1143,1143,6,South Africa,Pakistan,Pakistan,5 wickets,Port Elizabeth,"Jan 19, 2019",ODI # 4080
+1144,1144,7,South Africa,Pakistan,South Africa,5 wickets,Durban,"Jan 22, 2019",ODI # 4081
+1145,1145,8,New Zealand,India,India,8 wickets,Napier,"Jan 23, 2019",ODI # 4082
+1146,1146,9,U.A.E.,Nepal,U.A.E.,3 wickets,ICCA Dubai,"Jan 25, 2019",ODI # 4083
+1147,1147,10,South Africa,Pakistan,South Africa,13 runs,Centurion,"Jan 25, 2019",ODI # 4084
+1148,1148,11,New Zealand,India,India,90 runs,Mount Maunganui,"Jan 26, 2019",ODI # 4085
+1149,1149,12,U.A.E.,Nepal,Nepal,145 runs,ICCA Dubai,"Jan 26, 2019",ODI # 4086
+1150,1150,13,South Africa,Pakistan,Pakistan,8 wickets,Johannesburg,"Jan 27, 2019",ODI # 4087
+1151,1151,14,New Zealand,India,India,7 wickets,Mount Maunganui,"Jan 28, 2019",ODI # 4088
+1152,1152,15,U.A.E.,Nepal,Nepal,4 wickets,ICCA Dubai,"Jan 28, 2019",ODI # 4089
+1153,1153,16,South Africa,Pakistan,South Africa,7 wickets,Cape Town,"Jan 30, 2019",ODI # 4090
+1154,1154,17,New Zealand,India,New Zealand,8 wickets,Hamilton,"Jan 31, 2019",ODI # 4091
+1155,1155,18,New Zealand,India,India,35 runs,Wellington,"Feb 3, 2019",ODI # 4092
+1156,1156,19,New Zealand,Bangladesh,New Zealand,8 wickets,Napier,"Feb 13, 2019",ODI # 4093
+1157,1157,20,New Zealand,Bangladesh,New Zealand,8 wickets,Christchurch,"Feb 16, 2019",ODI # 4094
+1158,1158,21,New Zealand,Bangladesh,New Zealand,88 runs,Dunedin,"Feb 20, 2019",ODI # 4095
+1159,1159,22,West Indies,England,England,6 wickets,Bridgetown,"Feb 20, 2019",ODI # 4096
+1160,1160,23,West Indies,England,West Indies,26 runs,Bridgetown,"Feb 22, 2019",ODI # 4097
+1161,1161,24,West Indies,England,no result,,St George's,"Feb 25, 2019",ODI # 4098
+1162,1162,25,West Indies,England,England,29 runs,St George's,"Feb 27, 2019",ODI # 4099
+1163,1163,26,Afghanistan,Ireland,Afghanistan,5 wickets,Dehradun,"Feb 28, 2019",ODI # 4100
+1164,1164,27,Afghanistan,Ireland,no result,,Dehradun,"Mar 2, 2019",ODI # 4101
+1165,1165,28,India,Australia,India,6 wickets,Hyderabad (Deccan),"Mar 2, 2019",ODI # 4102
+1166,1166,29,West Indies,England,West Indies,7 wickets,Gros Islet,"Mar 2, 2019",ODI # 4103
+1167,1167,30,South Africa,Sri Lanka,South Africa,8 wickets,Johannesburg,"Mar 3, 2019",ODI # 4104
+1168,1168,31,Afghanistan,Ireland,Ireland,4 wickets,Dehradun,"Mar 5, 2019",ODI # 4105
+1169,1169,32,India,Australia,India,8 runs,Nagpur,"Mar 5, 2019",ODI # 4106
+1170,1170,33,South Africa,Sri Lanka,South Africa,113 runs,Centurion,"Mar 6, 2019",ODI # 4107
+1171,1171,34,Afghanistan,Ireland,Afghanistan,109 runs,Dehradun,"Mar 8, 2019",ODI # 4108
+1172,1172,35,India,Australia,Australia,32 runs,Ranchi,"Mar 8, 2019",ODI # 4109
+1173,1173,36,Afghanistan,Ireland,Ireland,5 wickets,Dehradun,"Mar 10, 2019",ODI # 4110
+1174,1174,37,India,Australia,Australia,4 wickets,Mohali,"Mar 10, 2019",ODI # 4111
+1175,1175,38,South Africa,Sri Lanka,South Africa,71 runs,Durban,"Mar 10, 2019",ODI # 4112
+1176,1176,39,India,Australia,Australia,35 runs,Delhi,"Mar 13, 2019",ODI # 4113
+1177,1177,40,South Africa,Sri Lanka,South Africa,6 wickets,Port Elizabeth,"Mar 13, 2019",ODI # 4114
+1178,1178,41,South Africa,Sri Lanka,South Africa,41 runs,Cape Town,"Mar 16, 2019",ODI # 4115
+1179,1179,42,Australia,Pakistan,Australia,8 wickets,Sharjah,"Mar 22, 2019",ODI # 4116
+1180,1180,43,Australia,Pakistan,Australia,8 wickets,Sharjah,"Mar 24, 2019",ODI # 4117
+1181,1181,44,Australia,Pakistan,Australia,80 runs,Abu Dhabi,"Mar 27, 2019",ODI # 4118
+1182,1182,45,Australia,Pakistan,Australia,6 runs,Dubai (DSC),"Mar 29, 2019",ODI # 4119
+1183,1183,46,Australia,Pakistan,Australia,20 runs,Dubai (DSC),"Mar 31, 2019",ODI # 4120
+1184,1184,47,Zimbabwe,U.A.E.,Zimbabwe,7 wickets,Harare,"Apr 10, 2019",ODI # 4121
+1185,1185,48,Zimbabwe,U.A.E.,Zimbabwe,4 runs,Harare,"Apr 12, 2019",ODI # 4122
+1186,1186,49,Zimbabwe,U.A.E.,Zimbabwe,131 runs,Harare,"Apr 14, 2019",ODI # 4123
+1187,1187,50,Zimbabwe,U.A.E.,Zimbabwe,3 wickets,Harare,"Apr 16, 2019",ODI # 4124
+1188,1188,51,Namibia,Oman,Namibia,145 runs,Windhoek,"Apr 27, 2019",ODI # 4125
+1189,1189,52,P.N.G.,U.S.A.,P.N.G.,5 wickets,Windhoek,"Apr 27, 2019",ODI # 4126
+1190,1190,53,Ireland,England,England,4 wickets,Dublin (Malahide),"May 3, 2019",ODI # 4127
+1191,1191,54,Ireland,West Indies,West Indies,196 runs,Dublin,"May 5, 2019",ODI # 4128
+1192,1192,55,Bangladesh,West Indies,Bangladesh,8 wickets,Dublin,"May 7, 2019",ODI # 4129
+1193,1193,56,England,Pakistan,no result,,The Oval,"May 8, 2019",ODI # 4130
+1194,1194,57,Scotland,Afghanistan,Afghanistan,2 runs,Edinburgh,"May 10, 2019",ODI # 4131
+1195,1195,58,Ireland,West Indies,West Indies,5 wickets,Dublin (Malahide),"May 11, 2019",ODI # 4132
+1196,1196,59,England,Pakistan,England,12 runs,Southampton,"May 11, 2019",ODI # 4133
+1197,1197,60,Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide),"May 13, 2019",ODI # 4134
+1198,1198,61,England,Pakistan,England,6 wickets,Bristol,"May 14, 2019",ODI # 4135
+1199,1199,62,Ireland,Bangladesh,Bangladesh,6 wickets,Dublin,"May 15, 2019",ODI # 4136
+1200,1200,63,Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide),"May 17, 2019",ODI # 4137
+1201,1201,64,England,Pakistan,England,3 wickets,Nottingham,"May 17, 2019",ODI # 4138
+1202,1202,65,Ireland,Afghanistan,Ireland,72 runs,Belfast,"May 19, 2019",ODI # 4139
+1203,1203,66,England,Pakistan,England,54 runs,Leeds,"May 19, 2019",ODI # 4140
+1204,1204,67,Ireland,Afghanistan,Afghanistan,126 runs,Belfast,"May 21, 2019",ODI # 4141
+1205,1205,68,Scotland,Sri Lanka,Sri Lanka,35 runs,Edinburgh,"May 21, 2019",ODI # 4142
+1206,1206,69,England,South Africa,England,104 runs,The Oval,"May 30, 2019",ODI # 4143
+1207,1207,70,Pakistan,West Indies,West Indies,7 wickets,Nottingham,"May 31, 2019",ODI # 4144
+1208,1208,71,New Zealand,Sri Lanka,New Zealand,10 wickets,Cardiff,"Jun 1, 2019",ODI # 4145
+1209,1209,72,Afghanistan,Australia,Australia,7 wickets,Bristol,"Jun 1, 2019",ODI # 4146
+1210,1210,73,Bangladesh,South Africa,Bangladesh,21 runs,The Oval,"Jun 2, 2019",ODI # 4147
+1211,1211,74,England,Pakistan,Pakistan,14 runs,Nottingham,"Jun 3, 2019",ODI # 4148
+1212,1212,75,Afghanistan,Sri Lanka,Sri Lanka,34 runs,Cardiff,"Jun 4, 2019",ODI # 4149
+1213,1213,76,India,South Africa,India,6 wickets,Southampton,"Jun 5, 2019",ODI # 4150
+1214,1214,77,Bangladesh,New Zealand,New Zealand,2 wickets,The Oval,"Jun 5, 2019",ODI # 4151
+1215,1215,78,Australia,West Indies,Australia,15 runs,Nottingham,"Jun 6, 2019",ODI # 4152
+1216,1216,79,England,Bangladesh,England,106 runs,Cardiff,"Jun 8, 2019",ODI # 4153
+1217,1217,80,Afghanistan,New Zealand,New Zealand,7 wickets,Taunton,"Jun 8, 2019",ODI # 4154
+1218,1218,81,Australia,India,India,36 runs,The Oval,"Jun 9, 2019",ODI # 4155
+1219,1219,82,South Africa,West Indies,no result,,Southampton,"Jun 10, 2019",ODI # 4156
+1220,1220,83,Australia,Pakistan,Australia,41 runs,Taunton,"Jun 12, 2019",ODI # 4157
+1221,1221,84,England,West Indies,England,8 wickets,Southampton,"Jun 14, 2019",ODI # 4158
+1222,1222,85,Australia,Sri Lanka,Australia,87 runs,The Oval,"Jun 15, 2019",ODI # 4159
+1223,1223,86,Afghanistan,South Africa,South Africa,9 wickets,Cardiff,"Jun 15, 2019",ODI # 4160
+1224,1224,87,India,Pakistan,India,89 runs,Manchester,"Jun 16, 2019",ODI # 4161
+1225,1225,88,Bangladesh,West Indies,Bangladesh,7 wickets,Taunton,"Jun 17, 2019",ODI # 4162
+1226,1226,89,England,Afghanistan,England,150 runs,Manchester,"Jun 18, 2019",ODI # 4163
+1227,1227,90,Netherlands,Zimbabwe,Netherlands,7 wickets,Deventer,"Jun 19, 2019",ODI # 4164
+1228,1228,91,New Zealand,South Africa,New Zealand,4 wickets,Birmingham,"Jun 19, 2019",ODI # 4165
+1229,1229,92,Australia,Bangladesh,Australia,48 runs,Nottingham,"Jun 20, 2019",ODI # 4166
+1230,1230,93,Netherlands,Zimbabwe,Netherlands,3 wickets,Deventer,"Jun 21, 2019",ODI # 4167
+1231,1231,94,England,Sri Lanka,Sri Lanka,20 runs,Leeds,"Jun 21, 2019",ODI # 4168
+1232,1232,95,Afghanistan,India,India,11 runs,Southampton,"Jun 22, 2019",ODI # 4169
+1233,1233,96,New Zealand,West Indies,New Zealand,5 runs,Manchester,"Jun 22, 2019",ODI # 4170
+1234,1234,97,Pakistan,South Africa,Pakistan,49 runs,Lord's,"Jun 23, 2019",ODI # 4171
+1235,1235,98,Afghanistan,Bangladesh,Bangladesh,62 runs,Southampton,"Jun 24, 2019",ODI # 4172
+1236,1236,99,England,Australia,Australia,64 runs,Lord's,"Jun 25, 2019",ODI # 4173
+1237,1237,100,New Zealand,Pakistan,Pakistan,6 wickets,Birmingham,"Jun 26, 2019",ODI # 4174
+1238,1238,101,India,West Indies,India,125 runs,Manchester,"Jun 27, 2019",ODI # 4175
+1239,1239,102,South Africa,Sri Lanka,South Africa,9 wickets,Chester-le-Street,"Jun 28, 2019",ODI # 4176
+1240,1240,103,Afghanistan,Pakistan,Pakistan,3 wickets,Leeds,"Jun 29, 2019",ODI # 4177
+1241,1241,104,Australia,New Zealand,Australia,86 runs,Lord's,"Jun 29, 2019",ODI # 4178
+1242,1242,105,England,India,England,31 runs,Birmingham,"Jun 30, 2019",ODI # 4179
+1243,1243,106,Sri Lanka,West Indies,Sri Lanka,23 runs,Chester-le-Street,"Jul 1, 2019",ODI # 4180
+1244,1244,107,Ireland,Zimbabwe,Ireland,4 wickets,Bready,"Jul 1, 2019",ODI # 4181
+1245,1245,108,Bangladesh,India,India,28 runs,Birmingham,"Jul 2, 2019",ODI # 4182
+1246,1246,109,England,New Zealand,England,119 runs,Chester-le-Street,"Jul 3, 2019",ODI # 4183
+1247,1247,110,Afghanistan,West Indies,West Indies,23 runs,Leeds,"Jul 4, 2019",ODI # 4184
+1248,1248,111,Ireland,Zimbabwe,Ireland,5 runs,Belfast,"Jul 4, 2019",ODI # 4185
+1249,1249,112,Bangladesh,Pakistan,Pakistan,94 runs,Lord's,"Jul 5, 2019",ODI # 4186
+1250,1250,113,India,Sri Lanka,India,7 wickets,Leeds,"Jul 6, 2019",ODI # 4187
+1251,1251,114,Australia,South Africa,South Africa,10 runs,Manchester,"Jul 6, 2019",ODI # 4188
+1252,1252,115,Ireland,Zimbabwe,Ireland,6 wickets,Belfast,"Jul 7, 2019",ODI # 4189
+1253,1253,116,India,New Zealand,New Zealand,18 runs,Manchester,"Jul 9-10, 2019",ODI # 4190
+1254,1254,117,England,Australia,England,8 wickets,Birmingham,"Jul 11, 2019",ODI # 4191
+1255,1255,118,England,New Zealand,tied,,Lord's,"Jul 14, 2019",ODI # 4192

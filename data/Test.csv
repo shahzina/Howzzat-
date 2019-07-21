@@ -1,0 +1,873 @@
+,level_0,index,Team1,Team2,Winner,Margin,Ground,Match_Date,Scorecard
+0,0,0,Australia,India,Australia,inns & 141 runs,Sydney,"Jan 2-4, 2000",Test # 1481
+1,1,1,South Africa,England,South Africa,inns & 37 runs,Cape Town,"Jan 2-5, 2000",Test # 1482
+2,2,2,South Africa,England,England,2 wickets,Centurion,"Jan 14-18, 2000",Test # 1483
+3,3,3,India,South Africa,South Africa,4 wickets,Mumbai,"Feb 24-26, 2000",Test # 1484
+4,4,4,Pakistan,Sri Lanka,Sri Lanka,2 wickets,Rawalpindi,"Feb 26-Mar 1, 2000",Test # 1485
+5,5,5,India,South Africa,South Africa,inns & 71 runs,Bengaluru,"Mar 2-6, 2000",Test # 1486
+6,6,6,Pakistan,Sri Lanka,Sri Lanka,57 runs,Peshawar,"Mar 5-9, 2000",Test # 1487
+7,7,7,New Zealand,Australia,Australia,62 runs,Auckland,"Mar 11-15, 2000",Test # 1488
+8,8,8,Pakistan,Sri Lanka,Pakistan,222 runs,Karachi,"Mar 12-15, 2000",Test # 1489
+9,9,9,West Indies,Zimbabwe,West Indies,35 runs,Port of Spain,"Mar 16-20, 2000",Test # 1490
+10,10,10,New Zealand,Australia,Australia,6 wickets,Wellington,"Mar 24-27, 2000",Test # 1491
+11,11,11,West Indies,Zimbabwe,West Indies,10 wickets,Kingston,"Mar 24-28, 2000",Test # 1492
+12,12,12,New Zealand,Australia,Australia,6 wickets,Hamilton,"Mar 31-Apr 3, 2000",Test # 1493
+13,13,13,West Indies,Pakistan,drawn,,Georgetown,"May 5-9, 2000",Test # 1494
+14,14,14,England,Zimbabwe,England,inns & 209 runs,Lord's,"May 18-21, 2000",Test # 1495
+15,15,15,West Indies,Pakistan,drawn,,Bridgetown,"May 18-22, 2000",Test # 1496
+16,16,16,West Indies,Pakistan,West Indies,1 wicket,St John's,"May 25-29, 2000",Test # 1497
+17,17,17,England,Zimbabwe,drawn,,Nottingham,"Jun 1-5, 2000",Test # 1498
+18,18,18,Sri Lanka,Pakistan,Pakistan,5 wickets,Colombo (SSC),"Jun 14-17, 2000",Test # 1499
+19,19,19,England,West Indies,West Indies,inns & 93 runs,Birmingham,"Jun 15-17, 2000",Test # 1500
+20,20,20,Sri Lanka,Pakistan,Pakistan,inns & 163 runs,Galle,"Jun 21-24, 2000",Test # 1501
+21,21,21,Sri Lanka,Pakistan,drawn,,Kandy,"Jun 28-Jul 2, 2000",Test # 1502
+22,22,22,England,West Indies,England,2 wickets,Lord's,"Jun 29-Jul 1, 2000",Test # 1503
+23,23,23,Sri Lanka,South Africa,Sri Lanka,inns & 15 runs,Galle,"Jul 20-23, 2000",Test # 1504
+24,24,24,Sri Lanka,South Africa,South Africa,7 runs,Kandy,"Jul 30-Aug 2, 2000",Test # 1505
+25,25,25,England,West Indies,drawn,,Manchester,"Aug 3-7, 2000",Test # 1506
+26,26,26,Sri Lanka,South Africa,drawn,,Colombo (SSC),"Aug 6-10, 2000",Test # 1507
+27,27,27,England,West Indies,England,inns & 39 runs,Leeds,"Aug 17-18, 2000",Test # 1508
+28,28,28,England,West Indies,England,158 runs,The Oval,"Aug 31-Sep 4, 2000",Test # 1509
+29,29,29,Zimbabwe,New Zealand,New Zealand,7 wickets,Bulawayo,"Sep 12-16, 2000",Test # 1510
+30,30,30,Zimbabwe,New Zealand,New Zealand,8 wickets,Harare,"Sep 19-23, 2000",Test # 1511
+31,31,31,Bangladesh,India,India,9 wickets,Dhaka,"Nov 10-13, 2000",Test # 1512
+32,32,32,Pakistan,England,drawn,,Lahore,"Nov 15-19, 2000",Test # 1513
+33,33,33,South Africa,New Zealand,South Africa,5 wickets,Bloemfontein,"Nov 17-21, 2000",Test # 1514
+34,34,34,India,Zimbabwe,India,7 wickets,Delhi,"Nov 18-22, 2000",Test # 1515
+35,35,35,Australia,West Indies,Australia,inns & 126 runs,Brisbane,"Nov 23-25, 2000",Test # 1516
+36,36,36,India,Zimbabwe,drawn,,Nagpur,"Nov 25-29, 2000",Test # 1517
+37,37,37,Pakistan,England,drawn,,Faisalabad,"Nov 29-Dec 3, 2000",Test # 1518
+38,38,38,South Africa,New Zealand,South Africa,7 wickets,Port Elizabeth,"Nov 30-Dec 4, 2000",Test # 1519
+39,39,39,Australia,West Indies,Australia,inns & 27 runs,Perth,"Dec 1-3, 2000",Test # 1520
+40,40,40,Pakistan,England,England,6 wickets,Karachi,"Dec 7-11, 2000",Test # 1521
+41,41,41,South Africa,New Zealand,drawn,,Johannesburg,"Dec 8-12, 2000",Test # 1522
+42,42,42,Australia,West Indies,Australia,5 wickets,Adelaide,"Dec 15-19, 2000",Test # 1523
+43,43,43,New Zealand,Zimbabwe,drawn,,Wellington,"Dec 26-30, 2000",Test # 1524
+44,44,44,Australia,West Indies,Australia,352 runs,Melbourne,"Dec 26-29, 2000",Test # 1525
+45,45,45,South Africa,Sri Lanka,drawn,,Durban,"Dec 26-30, 2000",Test # 1526
+46,46,0,Australia,West Indies,Australia,6 wickets,Sydney,"Jan 2-6, 2001",Test # 1527
+47,47,1,South Africa,Sri Lanka,South Africa,inns & 229 runs,Cape Town,"Jan 2-4, 2001",Test # 1528
+48,48,2,South Africa,Sri Lanka,South Africa,inns & 7 runs,Centurion,"Jan 20-22, 2001",Test # 1529
+49,49,3,Sri Lanka,England,Sri Lanka,inns & 28 runs,Galle,"Feb 22-26, 2001",Test # 1530
+50,50,4,India,Australia,Australia,10 wickets,Mumbai,"Feb 27-Mar 1, 2001",Test # 1531
+51,51,5,Sri Lanka,England,England,3 wickets,Kandy,"Mar 7-11, 2001",Test # 1532
+52,52,6,New Zealand,Pakistan,Pakistan,299 runs,Auckland,"Mar 8-12, 2001",Test # 1533
+53,53,7,West Indies,South Africa,drawn,,Georgetown,"Mar 9-13, 2001",Test # 1534
+54,54,8,India,Australia,India,171 runs,Kolkata,"Mar 11-15, 2001",Test # 1535
+55,55,9,New Zealand,Pakistan,drawn,,Christchurch,"Mar 15-19, 2001",Test # 1536
+56,56,10,Sri Lanka,England,England,4 wickets,Colombo (SSC),"Mar 15-17, 2001",Test # 1537
+57,57,11,West Indies,South Africa,South Africa,69 runs,Port of Spain,"Mar 17-21, 2001",Test # 1538
+58,58,12,India,Australia,India,2 wickets,Chennai,"Mar 18-22, 2001",Test # 1539
+59,59,13,New Zealand,Pakistan,New Zealand,inns & 185 runs,Hamilton,"Mar 27-30, 2001",Test # 1540
+60,60,14,West Indies,South Africa,drawn,,Bridgetown,"Mar 29-Apr 2, 2001",Test # 1541
+61,61,15,West Indies,South Africa,South Africa,82 runs,St John's,"Apr 6-10, 2001",Test # 1542
+62,62,16,Zimbabwe,Bangladesh,Zimbabwe,inns & 32 runs,Bulawayo,"Apr 19-22, 2001",Test # 1543
+63,63,17,West Indies,South Africa,West Indies,130 runs,Kingston,"Apr 19-23, 2001",Test # 1544
+64,64,18,Zimbabwe,Bangladesh,Zimbabwe,8 wickets,Harare,"Apr 26-30, 2001",Test # 1545
+65,65,19,England,Pakistan,England,inns & 9 runs,Lord's,"May 17-20, 2001",Test # 1546
+66,66,20,England,Pakistan,Pakistan,108 runs,Manchester,"May 31-Jun 4, 2001",Test # 1547
+67,67,21,Zimbabwe,India,India,8 wickets,Bulawayo,"Jun 7-10, 2001",Test # 1548
+68,68,22,Zimbabwe,India,Zimbabwe,4 wickets,Harare,"Jun 15-18, 2001",Test # 1549
+69,69,23,England,Australia,Australia,inns & 118 runs,Birmingham,"Jul 5-8, 2001",Test # 1550
+70,70,24,Zimbabwe,West Indies,West Indies,inns & 176 runs,Bulawayo,"Jul 19-22, 2001",Test # 1551
+71,71,25,England,Australia,Australia,8 wickets,Lord's,"Jul 19-22, 2001",Test # 1552
+72,72,26,Zimbabwe,West Indies,drawn,,Harare,"Jul 27-31, 2001",Test # 1553
+73,73,27,England,Australia,Australia,7 wickets,Nottingham,"Aug 2-4, 2001",Test # 1554
+74,74,28,Sri Lanka,India,Sri Lanka,10 wickets,Galle,"Aug 14-17, 2001",Test # 1555
+75,75,29,England,Australia,England,6 wickets,Leeds,"Aug 16-20, 2001",Test # 1556
+76,76,30,Sri Lanka,India,India,7 wickets,Kandy,"Aug 22-25, 2001",Test # 1557
+77,77,31,England,Australia,Australia,inns & 25 runs,The Oval,"Aug 23-27, 2001",Test # 1558
+78,78,32,Sri Lanka,India,Sri Lanka,inns & 77 runs,Colombo (SSC),"Aug 29-Sep 2, 2001",Test # 1559
+79,79,33,Pakistan,Bangladesh,Pakistan,inns & 264 runs,Multan,"Aug 29-31, 2001",Test # 1560
+80,80,34,Sri Lanka,Bangladesh,Sri Lanka,inns & 137 runs,Colombo (SSC),"Sep 6-8, 2001",Test # 1561
+81,81,35,Zimbabwe,South Africa,South Africa,9 wickets,Harare,"Sep 7-11, 2001",Test # 1562
+82,82,36,Zimbabwe,South Africa,drawn,,Bulawayo,"Sep 14-18, 2001",Test # 1563
+83,83,37,South Africa,India,South Africa,9 wickets,Bloemfontein,"Nov 3-6, 2001",Test # 1564
+84,84,38,Australia,New Zealand,drawn,,Brisbane,"Nov 8-12, 2001",Test # 1565
+85,85,39,Bangladesh,Zimbabwe,drawn,,Dhaka,"Nov 8-12, 2001",Test # 1566
+86,86,40,Sri Lanka,West Indies,Sri Lanka,10 wickets,Galle,"Nov 13-17, 2001",Test # 1567
+87,87,41,Bangladesh,Zimbabwe,Zimbabwe,8 wickets,Chittagong,"Nov 15-19, 2001",Test # 1568
+88,88,42,South Africa,India,drawn,,Port Elizabeth,"Nov 16-20, 2001",Test # 1569
+89,89,43,Sri Lanka,West Indies,Sri Lanka,131 runs,Kandy,"Nov 21-25, 2001",Test # 1570
+90,90,44,Australia,New Zealand,drawn,,Hobart,"Nov 22-26, 2001",Test # 1571
+91,91,45,Sri Lanka,West Indies,Sri Lanka,10 wickets,Colombo (SSC),"Nov 29-Dec 3, 2001",Test # 1572
+92,92,46,Australia,New Zealand,drawn,,Perth,"Nov 30-Dec 4, 2001",Test # 1573
+93,93,47,India,England,India,10 wickets,Mohali,"Dec 3-6, 2001",Test # 1574
+94,94,48,India,England,drawn,,Ahmedabad,"Dec 11-15, 2001",Test # 1575
+95,95,49,Australia,South Africa,Australia,246 runs,Adelaide,"Dec 14-18, 2001",Test # 1576
+96,96,50,New Zealand,Bangladesh,New Zealand,inns & 52 runs,Hamilton,"Dec 18-22, 2001",Test # 1577
+97,97,51,India,England,drawn,,Bengaluru,"Dec 19-23, 2001",Test # 1578
+98,98,52,New Zealand,Bangladesh,New Zealand,inns & 74 runs,Wellington,"Dec 26-29, 2001",Test # 1579
+99,99,53,Australia,South Africa,Australia,9 wickets,Melbourne,"Dec 26-29, 2001",Test # 1580
+100,100,54,Sri Lanka,Zimbabwe,Sri Lanka,inns & 166 runs,Colombo (SSC),"Dec 27-31, 2001",Test # 1581
+101,101,0,Australia,South Africa,Australia,10 wickets,Sydney,"Jan 2-5, 2002",Test # 1582
+102,102,1,Sri Lanka,Zimbabwe,Sri Lanka,inns & 94 runs,Kandy,"Jan 4-7, 2002",Test # 1583
+103,103,2,Bangladesh,Pakistan,Pakistan,inns & 178 runs,Dhaka,"Jan 9-11, 2002",Test # 1584
+104,104,3,Sri Lanka,Zimbabwe,Sri Lanka,315 runs,Galle,"Jan 12-15, 2002",Test # 1585
+105,105,4,Bangladesh,Pakistan,Pakistan,inns & 169 runs,Chittagong,"Jan 16-18, 2002",Test # 1586
+106,106,5,Pakistan,West Indies,Pakistan,170 runs,Sharjah,"Jan 31-Feb 4, 2002",Test # 1587
+107,107,6,Pakistan,West Indies,Pakistan,244 runs,Sharjah,"Feb 7-10, 2002",Test # 1588
+108,108,7,India,Zimbabwe,India,inns & 101 runs,Nagpur,"Feb 21-25, 2002",Test # 1589
+109,109,8,South Africa,Australia,Australia,inns & 360 runs,Johannesburg,"Feb 22-24, 2002",Test # 1590
+110,110,9,India,Zimbabwe,India,4 wickets,Delhi,"Feb 28-Mar 4, 2002",Test # 1591
+111,111,10,Pakistan,Sri Lanka,Sri Lanka,8 wickets,Lahore,"Mar 6-10, 2002",Test # 1592
+112,112,11,South Africa,Australia,Australia,4 wickets,Cape Town,"Mar 8-12, 2002",Test # 1593
+113,113,12,New Zealand,England,England,98 runs,Christchurch,"Mar 13-16, 2002",Test # 1594
+114,114,13,South Africa,Australia,South Africa,5 wickets,Durban,"Mar 15-18, 2002",Test # 1595
+115,115,14,New Zealand,England,drawn,,Wellington,"Mar 21-25, 2002",Test # 1596
+116,116,15,New Zealand,England,New Zealand,78 runs,Auckland,"Mar 30-Apr 3, 2002",Test # 1597
+117,117,16,West Indies,India,drawn,,Georgetown,"Apr 11-15, 2002",Test # 1598
+118,118,17,West Indies,India,India,37 runs,Port of Spain,"Apr 19-23, 2002",Test # 1599
+119,119,18,Pakistan,New Zealand,Pakistan,inns & 324 runs,Lahore,"May 1-3, 2002",Test # 1600
+120,120,19,West Indies,India,West Indies,10 wickets,Bridgetown,"May 2-5, 2002",Test # 1601
+121,121,20,West Indies,India,drawn,,St John's,"May 10-14, 2002",Test # 1602
+122,122,21,England,Sri Lanka,drawn,,Lord's,"May 16-20, 2002",Test # 1603
+123,123,22,West Indies,India,West Indies,155 runs,Kingston,"May 18-22, 2002",Test # 1604
+124,124,23,England,Sri Lanka,England,inns & 111 runs,Birmingham,"May 30-Jun 2, 2002",Test # 1605
+125,125,24,England,Sri Lanka,England,10 wickets,Manchester,"Jun 13-17, 2002",Test # 1606
+126,126,25,West Indies,New Zealand,New Zealand,204 runs,Bridgetown,"Jun 21-24, 2002",Test # 1607
+127,127,26,West Indies,New Zealand,drawn,,St George's,"Jun 28-Jul 2, 2002",Test # 1608
+128,128,27,Sri Lanka,Bangladesh,Sri Lanka,inns & 196 runs,Colombo (PSS),"Jul 21-23, 2002",Test # 1609
+129,129,28,England,India,England,170 runs,Lord's,"Jul 25-29, 2002",Test # 1610
+130,130,29,Sri Lanka,Bangladesh,Sri Lanka,288 runs,Colombo (SSC),"Jul 28-31, 2002",Test # 1611
+131,131,30,England,India,drawn,,Nottingham,"Aug 8-12, 2002",Test # 1612
+132,132,31,England,India,India,inns & 46 runs,Leeds,"Aug 22-26, 2002",Test # 1613
+133,133,32,England,India,drawn,,The Oval,"Sep 5-9, 2002",Test # 1614
+134,134,33,Australia,Pakistan,Australia,41 runs,Colombo (PSS),"Oct 3-7, 2002",Test # 1615
+135,135,34,India,West Indies,India,inns & 112 runs,Mumbai,"Oct 9-12, 2002",Test # 1616
+136,136,35,Australia,Pakistan,Australia,inns & 198 runs,Sharjah,"Oct 11-12, 2002",Test # 1617
+137,137,36,India,West Indies,India,8 wickets,Chennai,"Oct 17-20, 2002",Test # 1618
+138,138,37,South Africa,Bangladesh,South Africa,inns & 107 runs,East London,"Oct 18-21, 2002",Test # 1619
+139,139,38,Australia,Pakistan,Australia,inns & 20 runs,Sharjah,"Oct 19-22, 2002",Test # 1620
+140,140,39,South Africa,Bangladesh,South Africa,inns & 160 runs,Potchefstroom,"Oct 25-27, 2002",Test # 1621
+141,141,40,India,West Indies,drawn,,Kolkata,"Oct 30-Nov 3, 2002",Test # 1622
+142,142,41,Australia,England,Australia,384 runs,Brisbane,"Nov 7-10, 2002",Test # 1623
+143,143,42,South Africa,Sri Lanka,South Africa,inns & 64 runs,Johannesburg,"Nov 8-10, 2002",Test # 1624
+144,144,43,Zimbabwe,Pakistan,Pakistan,119 runs,Harare,"Nov 9-12, 2002",Test # 1625
+145,145,44,South Africa,Sri Lanka,South Africa,3 wickets,Centurion,"Nov 15-19, 2002",Test # 1626
+146,146,45,Zimbabwe,Pakistan,Pakistan,10 wickets,Bulawayo,"Nov 16-19, 2002",Test # 1627
+147,147,46,Australia,England,Australia,inns & 51 runs,Adelaide,"Nov 21-24, 2002",Test # 1628
+148,148,47,Australia,England,Australia,inns & 48 runs,Perth,"Nov 29-Dec 1, 2002",Test # 1629
+149,149,48,Bangladesh,West Indies,West Indies,inns & 310 runs,Dhaka,"Dec 8-10, 2002",Test # 1630
+150,150,49,New Zealand,India,New Zealand,10 wickets,Wellington,"Dec 12-14, 2002",Test # 1631
+151,151,50,Bangladesh,West Indies,West Indies,7 wickets,Chittagong,"Dec 16-18, 2002",Test # 1632
+152,152,51,New Zealand,India,New Zealand,4 wickets,Hamilton,"Dec 19-22, 2002",Test # 1633
+153,153,52,Australia,England,Australia,5 wickets,Melbourne,"Dec 26-30, 2002",Test # 1634
+154,154,53,South Africa,Pakistan,South Africa,10 wickets,Durban,"Dec 26-29, 2002",Test # 1635
+155,155,0,Australia,England,England,225 runs,Sydney,"Jan 2-6, 2003",Test # 1636
+156,156,1,South Africa,Pakistan,South Africa,inns & 142 runs,Cape Town,"Jan 2-5, 2003",Test # 1637
+157,157,2,West Indies,Australia,Australia,9 wickets,Georgetown,"Apr 10-13, 2003",Test # 1638
+158,158,3,West Indies,Australia,Australia,118 runs,Port of Spain,"Apr 19-23, 2003",Test # 1639
+159,159,4,Bangladesh,South Africa,South Africa,inns & 60 runs,Chittagong,"Apr 24-27, 2003",Test # 1640
+160,160,5,Sri Lanka,New Zealand,drawn,,Colombo (PSS),"Apr 25-29, 2003",Test # 1641
+161,161,6,Bangladesh,South Africa,South Africa,inns & 18 runs,Dhaka,"May 1-4, 2003",Test # 1642
+162,162,7,West Indies,Australia,Australia,9 wickets,Bridgetown,"May 1-5, 2003",Test # 1643
+163,163,8,Sri Lanka,New Zealand,drawn,,Kandy,"May 3-7, 2003",Test # 1644
+164,164,9,West Indies,Australia,West Indies,3 wickets,St John's,"May 9-13, 2003",Test # 1645
+165,165,10,England,Zimbabwe,England,inns & 92 runs,Lord's,"May 22-24, 2003",Test # 1646
+166,166,11,England,Zimbabwe,England,inns & 69 runs,Chester-le-Street,"Jun 5-7, 2003",Test # 1647
+167,167,12,West Indies,Sri Lanka,drawn,,Gros Islet,"Jun 20-24, 2003",Test # 1648
+168,168,13,West Indies,Sri Lanka,West Indies,7 wickets,Kingston,"Jun 27-29, 2003",Test # 1649
+169,169,14,Australia,Bangladesh,Australia,inns & 132 runs,Darwin,"Jul 18-20, 2003",Test # 1650
+170,170,15,England,South Africa,drawn,,Birmingham,"Jul 24-28, 2003",Test # 1651
+171,171,16,Australia,Bangladesh,Australia,inns & 98 runs,Cairns,"Jul 25-28, 2003",Test # 1652
+172,172,17,England,South Africa,South Africa,inns & 92 runs,Lord's,"Jul 31-Aug 3, 2003",Test # 1653
+173,173,18,England,South Africa,England,70 runs,Nottingham,"Aug 14-18, 2003",Test # 1654
+174,174,19,Pakistan,Bangladesh,Pakistan,7 wickets,Karachi,"Aug 20-24, 2003",Test # 1655
+175,175,20,England,South Africa,South Africa,191 runs,Leeds,"Aug 21-25, 2003",Test # 1656
+176,176,21,Pakistan,Bangladesh,Pakistan,9 wickets,Peshawar,"Aug 27-30, 2003",Test # 1657
+177,177,22,Pakistan,Bangladesh,Pakistan,1 wicket,Multan,"Sep 3-6, 2003",Test # 1658
+178,178,23,England,South Africa,England,9 wickets,The Oval,"Sep 4-8, 2003",Test # 1659
+179,179,24,India,New Zealand,drawn,,Ahmedabad,"Oct 8-12, 2003",Test # 1660
+180,180,25,Australia,Zimbabwe,Australia,inns & 175 runs,Perth,"Oct 9-13, 2003",Test # 1661
+181,181,26,India,New Zealand,drawn,,Mohali,"Oct 16-20, 2003",Test # 1662
+182,182,27,Australia,Zimbabwe,Australia,9 wickets,Sydney,"Oct 17-20, 2003",Test # 1663
+183,183,28,Pakistan,South Africa,Pakistan,8 wickets,Lahore,"Oct 17-21, 2003",Test # 1664
+184,184,29,Bangladesh,England,England,7 wickets,Dhaka,"Oct 21-25, 2003",Test # 1665
+185,185,30,Pakistan,South Africa,drawn,,Faisalabad,"Oct 24-28, 2003",Test # 1666
+186,186,31,Bangladesh,England,England,329 runs,Chittagong,"Oct 29-Nov 1, 2003",Test # 1667
+187,187,32,Zimbabwe,West Indies,drawn,,Harare,"Nov 4-8, 2003",Test # 1668
+188,188,33,Zimbabwe,West Indies,West Indies,128 runs,Bulawayo,"Nov 12-16, 2003",Test # 1669
+189,189,34,Sri Lanka,England,drawn,,Galle,"Dec 2-6, 2003",Test # 1670
+190,190,35,Australia,India,drawn,,Brisbane,"Dec 4-8, 2003",Test # 1671
+191,191,36,Sri Lanka,England,drawn,,Kandy,"Dec 10-14, 2003",Test # 1672
+192,192,37,Australia,India,India,4 wickets,Adelaide,"Dec 12-16, 2003",Test # 1673
+193,193,38,South Africa,West Indies,South Africa,189 runs,Johannesburg,"Dec 12-16, 2003",Test # 1674
+194,194,39,Sri Lanka,England,Sri Lanka,inns & 215 runs,Colombo (SSC),"Dec 18-21, 2003",Test # 1675
+195,195,40,New Zealand,Pakistan,drawn,,Hamilton,"Dec 19-23, 2003",Test # 1676
+196,196,41,New Zealand,Pakistan,Pakistan,7 wickets,Wellington,"Dec 26-30, 2003",Test # 1677
+197,197,42,Australia,India,Australia,9 wickets,Melbourne,"Dec 26-30, 2003",Test # 1678
+198,198,43,South Africa,West Indies,South Africa,inns & 65 runs,Durban,"Dec 26-29, 2003",Test # 1679
+199,199,0,Australia,India,drawn,,Sydney,"Jan 2-6, 2004",Test # 1680
+200,200,1,South Africa,West Indies,drawn,,Cape Town,"Jan 2-6, 2004",Test # 1681
+201,201,2,South Africa,West Indies,South Africa,10 wickets,Centurion,"Jan 16-20, 2004",Test # 1682
+202,202,3,Zimbabwe,Bangladesh,Zimbabwe,183 runs,Harare,"Feb 19-23, 2004",Test # 1683
+203,203,4,Zimbabwe,Bangladesh,drawn,,Bulawayo,"Feb 26-Mar 1, 2004",Test # 1684
+204,204,5,Sri Lanka,Australia,Australia,197 runs,Galle,"Mar 8-12, 2004",Test # 1685
+205,205,6,New Zealand,South Africa,drawn,,Hamilton,"Mar 10-14, 2004",Test # 1686
+206,206,7,West Indies,England,England,10 wickets,Kingston,"Mar 11-14, 2004",Test # 1687
+207,207,8,Sri Lanka,Australia,Australia,27 runs,Kandy,"Mar 16-20, 2004",Test # 1688
+208,208,9,New Zealand,South Africa,New Zealand,9 wickets,Auckland,"Mar 18-22, 2004",Test # 1689
+209,209,10,West Indies,England,England,7 wickets,Port of Spain,"Mar 19-23, 2004",Test # 1690
+210,210,11,Sri Lanka,Australia,Australia,121 runs,Colombo (SSC),"Mar 24-28, 2004",Test # 1691
+211,211,12,New Zealand,South Africa,South Africa,6 wickets,Wellington,"Mar 26-30, 2004",Test # 1692
+212,212,13,Pakistan,India,India,inns & 52 runs,Multan,"Mar 28-Apr 1, 2004",Test # 1693
+213,213,14,West Indies,England,England,8 wickets,Bridgetown,"Apr 1-3, 2004",Test # 1694
+214,214,15,Pakistan,India,Pakistan,9 wickets,Lahore,"Apr 5-8, 2004",Test # 1695
+215,215,16,West Indies,England,drawn,,St John's,"Apr 10-14, 2004",Test # 1696
+216,216,17,Pakistan,India,India,inns & 131 runs,Rawalpindi,"Apr 13-16, 2004",Test # 1697
+217,217,18,Zimbabwe,Sri Lanka,Sri Lanka,inns & 240 runs,Harare,"May 6-8, 2004",Test # 1698
+218,218,19,Zimbabwe,Sri Lanka,Sri Lanka,inns & 254 runs,Bulawayo,"May 14-17, 2004",Test # 1699
+219,219,20,England,New Zealand,England,7 wickets,Lord's,"May 20-24, 2004",Test # 1700
+220,220,21,West Indies,Bangladesh,drawn,,Gros Islet,"May 28-Jun 1, 2004",Test # 1701
+221,221,22,England,New Zealand,England,9 wickets,Leeds,"Jun 3-7, 2004",Test # 1702
+222,222,23,West Indies,Bangladesh,West Indies,inns & 99 runs,Kingston,"Jun 4-7, 2004",Test # 1703
+223,223,24,England,New Zealand,England,4 wickets,Nottingham,"Jun 10-13, 2004",Test # 1704
+224,224,25,Australia,Sri Lanka,Australia,149 runs,Darwin,"Jul 1-3, 2004",Test # 1705
+225,225,26,Australia,Sri Lanka,drawn,,Cairns,"Jul 9-13, 2004",Test # 1706
+226,226,27,England,West Indies,England,210 runs,Lord's,"Jul 22-26, 2004",Test # 1707
+227,227,28,England,West Indies,England,256 runs,Birmingham,"Jul 29-Aug 1, 2004",Test # 1708
+228,228,29,Sri Lanka,South Africa,drawn,,Galle,"Aug 4-8, 2004",Test # 1709
+229,229,30,Sri Lanka,South Africa,Sri Lanka,313 runs,Colombo (SSC),"Aug 11-15, 2004",Test # 1710
+230,230,31,England,West Indies,England,7 wickets,Manchester,"Aug 12-16, 2004",Test # 1711
+231,231,32,England,West Indies,England,10 wickets,The Oval,"Aug 19-21, 2004",Test # 1712
+232,232,33,India,Australia,Australia,217 runs,Bengaluru,"Oct 6-10, 2004",Test # 1713
+233,233,34,India,Australia,drawn,,Chennai,"Oct 14-18, 2004",Test # 1714
+234,234,35,Bangladesh,New Zealand,New Zealand,inns & 99 runs,Dhaka,"Oct 19-22, 2004",Test # 1715
+235,235,36,Pakistan,Sri Lanka,Sri Lanka,201 runs,Faisalabad,"Oct 20-24, 2004",Test # 1716
+236,236,37,Bangladesh,New Zealand,New Zealand,inns & 101 runs,Chittagong,"Oct 26-29, 2004",Test # 1717
+237,237,38,India,Australia,Australia,342 runs,Nagpur,"Oct 26-29, 2004",Test # 1718
+238,238,39,Pakistan,Sri Lanka,Pakistan,6 wickets,Karachi,"Oct 28-Nov 1, 2004",Test # 1719
+239,239,40,India,Australia,India,13 runs,Mumbai,"Nov 3-5, 2004",Test # 1720
+240,240,41,Australia,New Zealand,Australia,inns & 156 runs,Brisbane,"Nov 18-21, 2004",Test # 1721
+241,241,42,India,South Africa,drawn,,Kanpur,"Nov 20-24, 2004",Test # 1722
+242,242,43,Australia,New Zealand,Australia,213 runs,Adelaide,"Nov 26-30, 2004",Test # 1723
+243,243,44,India,South Africa,India,8 wickets,Kolkata,"Nov 28-Dec 2, 2004",Test # 1724
+244,244,45,Bangladesh,India,India,inns & 140 runs,Dhaka,"Dec 10-13, 2004",Test # 1725
+245,245,46,Australia,Pakistan,Australia,491 runs,Perth,"Dec 16-19, 2004",Test # 1726
+246,246,47,Bangladesh,India,India,inns & 83 runs,Chittagong,"Dec 17-20, 2004",Test # 1727
+247,247,48,South Africa,England,England,7 wickets,Port Elizabeth,"Dec 17-21, 2004",Test # 1728
+248,248,49,Australia,Pakistan,Australia,9 wickets,Melbourne,"Dec 26-29, 2004",Test # 1729
+249,249,50,South Africa,England,drawn,,Durban,"Dec 26-30, 2004",Test # 1730
+250,250,0,Australia,Pakistan,Australia,9 wickets,Sydney,"Jan 2-5, 2005",Test # 1731
+251,251,1,South Africa,England,South Africa,196 runs,Cape Town,"Jan 2-6, 2005",Test # 1732
+252,252,2,Bangladesh,Zimbabwe,Bangladesh,226 runs,Chittagong,"Jan 6-10, 2005",Test # 1733
+253,253,3,South Africa,England,England,77 runs,Johannesburg,"Jan 13-17, 2005",Test # 1734
+254,254,4,Bangladesh,Zimbabwe,drawn,,Dhaka,"Jan 14-18, 2005",Test # 1735
+255,255,5,South Africa,England,drawn,,Centurion,"Jan 21-25, 2005",Test # 1736
+256,256,6,South Africa,Zimbabwe,South Africa,inns & 21 runs,Cape Town,"Mar 4-5, 2005",Test # 1737
+257,257,7,India,Pakistan,drawn,,Mohali,"Mar 8-12, 2005",Test # 1738
+258,258,8,New Zealand,Australia,Australia,9 wickets,Christchurch,"Mar 10-13, 2005",Test # 1739
+259,259,9,South Africa,Zimbabwe,South Africa,inns & 62 runs,Centurion,"Mar 11-13, 2005",Test # 1740
+260,260,10,India,Pakistan,India,195 runs,Kolkata,"Mar 16-20, 2005",Test # 1741
+261,261,11,New Zealand,Australia,drawn,,Wellington,"Mar 18-22, 2005",Test # 1742
+262,262,12,India,Pakistan,Pakistan,168 runs,Bengaluru,"Mar 24-28, 2005",Test # 1743
+263,263,13,New Zealand,Australia,Australia,9 wickets,Auckland,"Mar 26-29, 2005",Test # 1744
+264,264,14,West Indies,South Africa,drawn,,Georgetown,"Mar 31-Apr 4, 2005",Test # 1745
+265,265,15,New Zealand,Sri Lanka,drawn,,Napier,"Apr 4-8, 2005",Test # 1746
+266,266,16,West Indies,South Africa,South Africa,8 wickets,Port of Spain,"Apr 8-12, 2005",Test # 1747
+267,267,17,New Zealand,Sri Lanka,New Zealand,inns & 38 runs,Wellington,"Apr 11-14, 2005",Test # 1748
+268,268,18,West Indies,South Africa,South Africa,inns & 86 runs,Bridgetown,"Apr 21-24, 2005",Test # 1749
+269,269,19,West Indies,South Africa,drawn,,St John's,"Apr 29-May 3, 2005",Test # 1750
+270,270,20,England,Bangladesh,England,inns & 261 runs,Lord's,"May 26-28, 2005",Test # 1751
+271,271,21,West Indies,Pakistan,West Indies,276 runs,Bridgetown,"May 26-29, 2005",Test # 1752
+272,272,22,England,Bangladesh,England,inns & 27 runs,Chester-le-Street,"Jun 3-5, 2005",Test # 1753
+273,273,23,West Indies,Pakistan,Pakistan,136 runs,Kingston,"Jun 3-7, 2005",Test # 1754
+274,274,24,Sri Lanka,West Indies,Sri Lanka,6 wickets,Colombo (SSC),"Jul 13-16, 2005",Test # 1755
+275,275,25,England,Australia,Australia,239 runs,Lord's,"Jul 21-24, 2005",Test # 1756
+276,276,26,Sri Lanka,West Indies,Sri Lanka,240 runs,Kandy,"Jul 22-25, 2005",Test # 1757
+277,277,27,England,Australia,England,2 runs,Birmingham,"Aug 4-7, 2005",Test # 1758
+278,278,28,Zimbabwe,New Zealand,New Zealand,inns & 294 runs,Harare,"Aug 7-8, 2005",Test # 1759
+279,279,29,England,Australia,drawn,,Manchester,"Aug 11-15, 2005",Test # 1760
+280,280,30,Zimbabwe,New Zealand,New Zealand,inns & 46 runs,Bulawayo,"Aug 15-17, 2005",Test # 1761
+281,281,31,England,Australia,England,3 wickets,Nottingham,"Aug 25-28, 2005",Test # 1762
+282,282,32,England,Australia,drawn,,The Oval,"Sep 8-12, 2005",Test # 1763
+283,283,33,Sri Lanka,Bangladesh,Sri Lanka,inns & 96 runs,Colombo (RPS),"Sep 12-14, 2005",Test # 1764
+284,284,34,Zimbabwe,India,India,inns & 90 runs,Bulawayo,"Sep 13-16, 2005",Test # 1765
+285,285,35,Sri Lanka,Bangladesh,Sri Lanka,inns & 69 runs,Colombo (PSS),"Sep 20-22, 2005",Test # 1766
+286,286,36,Zimbabwe,India,India,10 wickets,Harare,"Sep 20-22, 2005",Test # 1767
+287,287,37,Australia,ICC World XI,Australia,210 runs,Sydney,"Oct 14-17, 2005",Test # 1768
+288,288,38,Australia,West Indies,Australia,379 runs,Brisbane,"Nov 3-6, 2005",Test # 1769
+289,289,39,Pakistan,England,Pakistan,22 runs,Multan,"Nov 12-16, 2005",Test # 1770
+290,290,40,Australia,West Indies,Australia,9 wickets,Hobart,"Nov 17-21, 2005",Test # 1771
+291,291,41,Pakistan,England,drawn,,Faisalabad,"Nov 20-24, 2005",Test # 1772
+292,292,42,Australia,West Indies,Australia,7 wickets,Adelaide,"Nov 25-29, 2005",Test # 1773
+293,293,43,Pakistan,England,Pakistan,inns & 100 runs,Lahore,"Nov 29-Dec 3, 2005",Test # 1774
+294,294,44,India,Sri Lanka,drawn,,Chennai,"Dec 2-6, 2005",Test # 1775
+295,295,45,India,Sri Lanka,India,188 runs,Delhi,"Dec 10-14, 2005",Test # 1776
+296,296,46,Australia,South Africa,drawn,,Perth,"Dec 16-20, 2005",Test # 1777
+297,297,47,India,Sri Lanka,India,259 runs,Ahmedabad,"Dec 18-22, 2005",Test # 1778
+298,298,48,Australia,South Africa,Australia,184 runs,Melbourne,"Dec 26-30, 2005",Test # 1779
+299,299,0,Australia,South Africa,Australia,8 wickets,Sydney,"Jan 2-6, 2006",Test # 1780
+300,300,1,Pakistan,India,drawn,,Lahore,"Jan 13-17, 2006",Test # 1781
+301,301,2,Pakistan,India,drawn,,Faisalabad,"Jan 21-25, 2006",Test # 1782
+302,302,3,Pakistan,India,Pakistan,341 runs,Karachi,"Jan 29-Feb 1, 2006",Test # 1783
+303,303,4,Bangladesh,Sri Lanka,Sri Lanka,8 wickets,Chattogram,"Feb 28-Mar 3, 2006",Test # 1784
+304,304,5,India,England,drawn,,Nagpur,"Mar 1-5, 2006",Test # 1785
+305,305,6,Bangladesh,Sri Lanka,Sri Lanka,10 wickets,Bogra,"Mar 8-11, 2006",Test # 1786
+306,306,7,New Zealand,West Indies,New Zealand,27 runs,Auckland,"Mar 9-13, 2006",Test # 1787
+307,307,8,India,England,India,9 wickets,Mohali,"Mar 9-13, 2006",Test # 1788
+308,308,9,South Africa,Australia,Australia,7 wickets,Cape Town,"Mar 16-18, 2006",Test # 1789
+309,309,10,New Zealand,West Indies,New Zealand,10 wickets,Wellington,"Mar 17-20, 2006",Test # 1790
+310,310,11,India,England,England,212 runs,Mumbai,"Mar 18-22, 2006",Test # 1791
+311,311,12,South Africa,Australia,Australia,112 runs,Durban,"Mar 24-28, 2006",Test # 1792
+312,312,13,New Zealand,West Indies,drawn,,Napier,"Mar 25-29, 2006",Test # 1793
+313,313,14,Sri Lanka,Pakistan,drawn,,Colombo (SSC),"Mar 26-30, 2006",Test # 1794
+314,314,15,South Africa,Australia,Australia,2 wickets,Johannesburg,"Mar 31-Apr 4, 2006",Test # 1795
+315,315,16,Sri Lanka,Pakistan,Pakistan,8 wickets,Kandy,"Apr 3-5, 2006",Test # 1796
+316,316,17,Bangladesh,Australia,Australia,3 wickets,Fatullah,"Apr 9-13, 2006",Test # 1797
+317,317,18,South Africa,New Zealand,South Africa,128 runs,Centurion,"Apr 15-19, 2006",Test # 1798
+318,318,19,Bangladesh,Australia,Australia,inns & 80 runs,Chattogram,"Apr 16-20, 2006",Test # 1799
+319,319,20,South Africa,New Zealand,drawn,,Cape Town,"Apr 27-May 1, 2006",Test # 1800
+320,320,21,South Africa,New Zealand,South Africa,4 wickets,Johannesburg,"May 5-7, 2006",Test # 1801
+321,321,22,England,Sri Lanka,drawn,,Lord's,"May 11-15, 2006",Test # 1802
+322,322,23,England,Sri Lanka,England,6 wickets,Birmingham,"May 25-28, 2006",Test # 1803
+323,323,24,England,Sri Lanka,Sri Lanka,134 runs,Nottingham,"Jun 2-5, 2006",Test # 1804
+324,324,25,West Indies,India,drawn,,St John's,"Jun 2-6, 2006",Test # 1805
+325,325,26,West Indies,India,drawn,,Gros Islet,"Jun 10-14, 2006",Test # 1806
+326,326,27,West Indies,India,drawn,,Basseterre,"Jun 22-26, 2006",Test # 1807
+327,327,28,West Indies,India,India,49 runs,Kingston,"Jun 30-Jul 2, 2006",Test # 1808
+328,328,29,England,Pakistan,drawn,,Lord's,"Jul 13-17, 2006",Test # 1809
+329,329,30,Sri Lanka,South Africa,Sri Lanka,inns & 153 runs,Colombo (SSC),"Jul 27-31, 2006",Test # 1810
+330,330,31,England,Pakistan,England,inns & 120 runs,Manchester,"Jul 27-29, 2006",Test # 1811
+331,331,32,Sri Lanka,South Africa,Sri Lanka,1 wicket,Colombo (PSS),"Aug 4-8, 2006",Test # 1812
+332,332,33,England,Pakistan,England,167 runs,Leeds,"Aug 4-8, 2006",Test # 1813
+333,333,34,England,Pakistan,England,,The Oval,"Aug 17-21, 2006",Test # 1814
+334,334,35,Pakistan,West Indies,Pakistan,9 wickets,Lahore,"Nov 11-14, 2006",Test # 1815
+335,335,36,Pakistan,West Indies,drawn,,Multan,"Nov 19-23, 2006",Test # 1816
+336,336,37,Australia,England,Australia,277 runs,Brisbane,"Nov 23-27, 2006",Test # 1817
+337,337,38,Pakistan,West Indies,Pakistan,199 runs,Karachi,"Nov 27-Dec 1, 2006",Test # 1818
+338,338,39,Australia,England,Australia,6 wickets,Adelaide,"Dec 1-5, 2006",Test # 1819
+339,339,40,New Zealand,Sri Lanka,New Zealand,5 wickets,Christchurch,"Dec 7-9, 2006",Test # 1820
+340,340,41,Australia,England,Australia,206 runs,Perth,"Dec 14-18, 2006",Test # 1821
+341,341,42,New Zealand,Sri Lanka,Sri Lanka,217 runs,Wellington,"Dec 15-18, 2006",Test # 1822
+342,342,43,South Africa,India,India,123 runs,Johannesburg,"Dec 15-18, 2006",Test # 1823
+343,343,44,Australia,England,Australia,inns & 99 runs,Melbourne,"Dec 26-28, 2006",Test # 1824
+344,344,45,South Africa,India,South Africa,174 runs,Durban,"Dec 26-30, 2006",Test # 1825
+345,345,0,Australia,England,Australia,10 wickets,Sydney,"Jan 2-5, 2007",Test # 1826
+346,346,1,South Africa,India,South Africa,5 wickets,Cape Town,"Jan 2-6, 2007",Test # 1827
+347,347,2,South Africa,Pakistan,South Africa,7 wickets,Centurion,"Jan 11-15, 2007",Test # 1828
+348,348,3,South Africa,Pakistan,Pakistan,5 wickets,Port Elizabeth,"Jan 19-22, 2007",Test # 1829
+349,349,4,South Africa,Pakistan,South Africa,5 wickets,Cape Town,"Jan 26-28, 2007",Test # 1830
+350,350,5,England,West Indies,drawn,,Lord's,"May 17-21, 2007",Test # 1831
+351,351,6,Bangladesh,India,drawn,,Chattogram,"May 18-22, 2007",Test # 1832
+352,352,7,Bangladesh,India,India,inns & 239 runs,Dhaka,"May 25-27, 2007",Test # 1833
+353,353,8,England,West Indies,England,inns & 283 runs,Leeds,"May 25-28, 2007",Test # 1834
+354,354,9,England,West Indies,England,60 runs,Manchester,"Jun 7-11, 2007",Test # 1835
+355,355,10,England,West Indies,England,7 wickets,Chester-le-Street,"Jun 15-19, 2007",Test # 1836
+356,356,11,Sri Lanka,Bangladesh,Sri Lanka,inns & 234 runs,Colombo (SSC),"Jun 25-28, 2007",Test # 1837
+357,357,12,Sri Lanka,Bangladesh,Sri Lanka,inns & 90 runs,Colombo (PSS),"Jul 3-5, 2007",Test # 1838
+358,358,13,Sri Lanka,Bangladesh,Sri Lanka,inns & 193 runs,Kandy,"Jul 11-14, 2007",Test # 1839
+359,359,14,England,India,drawn,,Lord's,"Jul 19-23, 2007",Test # 1840
+360,360,15,England,India,India,7 wickets,Nottingham,"Jul 27-31, 2007",Test # 1841
+361,361,16,England,India,drawn,,The Oval,"Aug 9-13, 2007",Test # 1842
+362,362,17,Pakistan,South Africa,South Africa,160 runs,Karachi,"Oct 1-5, 2007",Test # 1843
+363,363,18,Pakistan,South Africa,drawn,,Lahore,"Oct 8-12, 2007",Test # 1844
+364,364,19,Australia,Sri Lanka,Australia,inns & 40 runs,Brisbane,"Nov 8-12, 2007",Test # 1845
+365,365,20,South Africa,New Zealand,South Africa,358 runs,Johannesburg,"Nov 8-11, 2007",Test # 1846
+366,366,21,Australia,Sri Lanka,Australia,96 runs,Hobart,"Nov 16-20, 2007",Test # 1847
+367,367,22,South Africa,New Zealand,South Africa,inns & 59 runs,Centurion,"Nov 16-18, 2007",Test # 1848
+368,368,23,India,Pakistan,India,6 wickets,Delhi,"Nov 22-26, 2007",Test # 1849
+369,369,24,India,Pakistan,drawn,,Kolkata,"Nov 30-Dec 4, 2007",Test # 1850
+370,370,25,Sri Lanka,England,Sri Lanka,88 runs,Kandy,"Dec 1-5, 2007",Test # 1851
+371,371,26,India,Pakistan,drawn,,Bengaluru,"Dec 8-12, 2007",Test # 1852
+372,372,27,Sri Lanka,England,drawn,,Colombo (SSC),"Dec 9-13, 2007",Test # 1853
+373,373,28,Sri Lanka,England,drawn,,Galle,"Dec 18-22, 2007",Test # 1854
+374,374,29,Australia,India,Australia,337 runs,Melbourne,"Dec 26-29, 2007",Test # 1855
+375,375,30,South Africa,West Indies,West Indies,128 runs,Port Elizabeth,"Dec 26-29, 2007",Test # 1856
+376,376,0,Australia,India,Australia,122 runs,Sydney,"Jan 2-6, 2008",Test # 1857
+377,377,1,South Africa,West Indies,South Africa,7 wickets,Cape Town,"Jan 2-5, 2008",Test # 1858
+378,378,2,New Zealand,Bangladesh,New Zealand,9 wickets,Dunedin,"Jan 4-6, 2008",Test # 1859
+379,379,3,South Africa,West Indies,South Africa,inns & 100 runs,Durban,"Jan 10-12, 2008",Test # 1860
+380,380,4,New Zealand,Bangladesh,New Zealand,inns & 137 runs,Wellington,"Jan 12-14, 2008",Test # 1861
+381,381,5,Australia,India,India,72 runs,Perth,"Jan 16-19, 2008",Test # 1862
+382,382,6,Australia,India,drawn,,Adelaide,"Jan 24-28, 2008",Test # 1863
+383,383,7,Bangladesh,South Africa,South Africa,5 wickets,Dhaka,"Feb 22-25, 2008",Test # 1864
+384,384,8,Bangladesh,South Africa,South Africa,inns & 205 runs,Chattogram,"Feb 29-Mar 3, 2008",Test # 1865
+385,385,9,New Zealand,England,New Zealand,189 runs,Hamilton,"Mar 5-9, 2008",Test # 1866
+386,386,10,New Zealand,England,England,126 runs,Wellington,"Mar 13-17, 2008",Test # 1867
+387,387,11,New Zealand,England,England,121 runs,Napier,"Mar 22-26, 2008",Test # 1868
+388,388,12,West Indies,Sri Lanka,Sri Lanka,121 runs,Providence,"Mar 22-26, 2008",Test # 1869
+389,389,13,India,South Africa,drawn,,Chennai,"Mar 26-30, 2008",Test # 1870
+390,390,14,India,South Africa,South Africa,inns & 90 runs,Ahmedabad,"Apr 3-5, 2008",Test # 1871
+391,391,15,West Indies,Sri Lanka,West Indies,6 wickets,Port of Spain,"Apr 3-6, 2008",Test # 1872
+392,392,16,India,South Africa,India,8 wickets,Kanpur,"Apr 11-13, 2008",Test # 1873
+393,393,17,England,New Zealand,drawn,,Lord's,"May 15-19, 2008",Test # 1874
+394,394,18,West Indies,Australia,Australia,95 runs,Kingston,"May 22-26, 2008",Test # 1875
+395,395,19,England,New Zealand,England,6 wickets,Manchester,"May 23-26, 2008",Test # 1876
+396,396,20,West Indies,Australia,drawn,,North Sound,"May 30-Jun 3, 2008",Test # 1877
+397,397,21,England,New Zealand,England,inns & 9 runs,Nottingham,"Jun 5-8, 2008",Test # 1878
+398,398,22,West Indies,Australia,Australia,87 runs,Bridgetown,"Jun 12-16, 2008",Test # 1879
+399,399,23,England,South Africa,drawn,,Lord's,"Jul 10-14, 2008",Test # 1880
+400,400,24,England,South Africa,South Africa,10 wickets,Leeds,"Jul 18-21, 2008",Test # 1881
+401,401,25,Sri Lanka,India,Sri Lanka,inns & 239 runs,Colombo (SSC),"Jul 23-26, 2008",Test # 1882
+402,402,26,England,South Africa,South Africa,5 wickets,Birmingham,"Jul 30-Aug 2, 2008",Test # 1883
+403,403,27,Sri Lanka,India,India,170 runs,Galle,"Jul 31-Aug 3, 2008",Test # 1884
+404,404,28,England,South Africa,England,6 wickets,The Oval,"Aug 7-11, 2008",Test # 1885
+405,405,29,Sri Lanka,India,Sri Lanka,8 wickets,Colombo (PSS),"Aug 8-11, 2008",Test # 1886
+406,406,30,India,Australia,drawn,,Bengaluru,"Oct 9-13, 2008",Test # 1887
+407,407,31,Bangladesh,New Zealand,New Zealand,3 wickets,Chattogram,"Oct 17-21, 2008",Test # 1888
+408,408,32,India,Australia,India,320 runs,Mohali,"Oct 17-21, 2008",Test # 1889
+409,409,33,Bangladesh,New Zealand,drawn,,Dhaka,"Oct 25-29, 2008",Test # 1890
+410,410,34,India,Australia,drawn,,Delhi,"Oct 29-Nov 2, 2008",Test # 1891
+411,411,35,India,Australia,India,172 runs,Nagpur,"Nov 6-10, 2008",Test # 1892
+412,412,36,South Africa,Bangladesh,South Africa,inns & 129 runs,Bloemfontein,"Nov 19-22, 2008",Test # 1893
+413,413,37,Australia,New Zealand,Australia,149 runs,Brisbane,"Nov 20-23, 2008",Test # 1894
+414,414,38,South Africa,Bangladesh,South Africa,inns & 48 runs,Centurion,"Nov 26-28, 2008",Test # 1895
+415,415,39,Australia,New Zealand,Australia,inns & 62 runs,Adelaide,"Nov 28-Dec 1, 2008",Test # 1896
+416,416,40,New Zealand,West Indies,drawn,,Dunedin,"Dec 11-15, 2008",Test # 1897
+417,417,41,India,England,India,6 wickets,Chennai,"Dec 11-15, 2008",Test # 1898
+418,418,42,Australia,South Africa,South Africa,6 wickets,Perth,"Dec 17-21, 2008",Test # 1899
+419,419,43,New Zealand,West Indies,drawn,,Napier,"Dec 19-23, 2008",Test # 1900
+420,420,44,India,England,drawn,,Mohali,"Dec 19-23, 2008",Test # 1901
+421,421,45,Australia,South Africa,South Africa,9 wickets,Melbourne,"Dec 26-30, 2008",Test # 1902
+422,422,46,Bangladesh,Sri Lanka,Sri Lanka,107 runs,Dhaka,"Dec 26-31, 2008",Test # 1903
+423,423,0,Australia,South Africa,Australia,103 runs,Sydney,"Jan 3-7, 2009",Test # 1904
+424,424,1,Bangladesh,Sri Lanka,Sri Lanka,465 runs,Chattogram,"Jan 3-6, 2009",Test # 1905
+425,425,2,West Indies,England,West Indies,inns & 23 runs,Kingston,"Feb 4-7, 2009",Test # 1906
+426,426,3,West Indies,England,drawn,,North Sound,"Feb 13-17, 2009",Test # 1907
+427,427,4,West Indies,England,drawn,,St John's,"Feb 15-19, 2009",Test # 1908
+428,428,5,Pakistan,Sri Lanka,drawn,,Karachi,"Feb 21-25, 2009",Test # 1909
+429,429,6,South Africa,Australia,Australia,162 runs,Johannesburg,"Feb 26-Mar 2, 2009",Test # 1910
+430,430,7,West Indies,England,drawn,,Bridgetown,"Feb 26-Mar 2, 2009",Test # 1911
+431,431,8,Pakistan,Sri Lanka,drawn,,Lahore,"Mar 1-5, 2009",Test # 1912
+432,432,9,South Africa,Australia,Australia,175 runs,Durban,"Mar 6-10, 2009",Test # 1913
+433,433,10,West Indies,England,drawn,,Port of Spain,"Mar 6-10, 2009",Test # 1914
+434,434,11,New Zealand,India,India,10 wickets,Hamilton,"Mar 18-21, 2009",Test # 1915
+435,435,12,South Africa,Australia,South Africa,inns & 20 runs,Cape Town,"Mar 19-22, 2009",Test # 1916
+436,436,13,New Zealand,India,drawn,,Napier,"Mar 26-30, 2009",Test # 1917
+437,437,14,New Zealand,India,drawn,,Wellington,"Apr 3-7, 2009",Test # 1918
+438,438,15,England,West Indies,England,10 wickets,Lord's,"May 6-8, 2009",Test # 1919
+439,439,16,England,West Indies,England,inns & 83 runs,Chester-le-Street,"May 14-18, 2009",Test # 1920
+440,440,17,Sri Lanka,Pakistan,Sri Lanka,50 runs,Galle,"Jul 4-7, 2009",Test # 1921
+441,441,18,England,Australia,drawn,,Cardiff,"Jul 8-12, 2009",Test # 1922
+442,442,19,West Indies,Bangladesh,Bangladesh,95 runs,Kingstown,"Jul 9-13, 2009",Test # 1923
+443,443,20,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Colombo (PSS),"Jul 12-14, 2009",Test # 1924
+444,444,21,England,Australia,England,115 runs,Lord's,"Jul 16-20, 2009",Test # 1925
+445,445,22,West Indies,Bangladesh,Bangladesh,4 wickets,St George's,"Jul 17-20, 2009",Test # 1926
+446,446,23,Sri Lanka,Pakistan,drawn,,Colombo (SSC),"Jul 20-24, 2009",Test # 1927
+447,447,24,England,Australia,drawn,,Birmingham,"Jul 30-Aug 3, 2009",Test # 1928
+448,448,25,England,Australia,Australia,inns & 80 runs,Leeds,"Aug 7-9, 2009",Test # 1929
+449,449,26,Sri Lanka,New Zealand,Sri Lanka,202 runs,Galle,"Aug 18-22, 2009",Test # 1930
+450,450,27,England,Australia,England,197 runs,The Oval,"Aug 20-23, 2009",Test # 1931
+451,451,28,Sri Lanka,New Zealand,Sri Lanka,96 runs,Colombo (SSC),"Aug 26-30, 2009",Test # 1932
+452,452,29,India,Sri Lanka,drawn,,Ahmedabad,"Nov 16-20, 2009",Test # 1933
+453,453,30,New Zealand,Pakistan,New Zealand,32 runs,Dunedin,"Nov 24-28, 2009",Test # 1934
+454,454,31,India,Sri Lanka,India,inns & 144 runs,Kanpur,"Nov 24-27, 2009",Test # 1935
+455,455,32,Australia,West Indies,Australia,inns & 65 runs,Brisbane,"Nov 26-28, 2009",Test # 1936
+456,456,33,India,Sri Lanka,India,inns & 24 runs,Mumbai (BS),"Dec 2-6, 2009",Test # 1937
+457,457,34,New Zealand,Pakistan,Pakistan,141 runs,Wellington,"Dec 3-6, 2009",Test # 1938
+458,458,35,Australia,West Indies,drawn,,Adelaide,"Dec 4-8, 2009",Test # 1939
+459,459,36,New Zealand,Pakistan,drawn,,Napier,"Dec 11-15, 2009",Test # 1940
+460,460,37,Australia,West Indies,Australia,35 runs,Perth,"Dec 16-20, 2009",Test # 1941
+461,461,38,South Africa,England,drawn,,Centurion,"Dec 16-20, 2009",Test # 1942
+462,462,39,Australia,Pakistan,Australia,170 runs,Melbourne,"Dec 26-30, 2009",Test # 1943
+463,463,40,South Africa,England,England,inns & 98 runs,Durban,"Dec 26-30, 2009",Test # 1944
+464,0,0,Australia,Pakistan,Australia,36 runs,Sydney,"Jan 3-6, 2010",Test # 1945
+465,1,1,South Africa,England,drawn,,Cape Town,"Jan 3-7, 2010",Test # 1946
+466,2,2,Australia,Pakistan,Australia,231 runs,Hobart,"Jan 14-18, 2010",Test # 1947
+467,3,3,South Africa,England,South Africa,inns & 74 runs,Johannesburg,"Jan 14-17, 2010",Test # 1948
+468,4,4,Bangladesh,India,India,113 runs,Chattogram,"Jan 17-21, 2010",Test # 1949
+469,5,5,Bangladesh,India,India,10 wickets,Dhaka,"Jan 24-27, 2010",Test # 1950
+470,6,6,India,South Africa,South Africa,inns & 6 runs,Nagpur,"Feb 6-9, 2010",Test # 1951
+471,7,7,India,South Africa,India,inns & 57 runs,Kolkata,"Feb 14-18, 2010",Test # 1952
+472,8,8,New Zealand,Bangladesh,New Zealand,121 runs,Hamilton,"Feb 15-19, 2010",Test # 1953
+473,9,9,Bangladesh,England,England,181 runs,Chattogram,"Mar 12-16, 2010",Test # 1954
+474,10,10,New Zealand,Australia,Australia,10 wickets,Wellington,"Mar 19-23, 2010",Test # 1955
+475,11,11,Bangladesh,England,England,9 wickets,Dhaka,"Mar 20-24, 2010",Test # 1956
+476,12,12,New Zealand,Australia,Australia,176 runs,Hamilton,"Mar 27-31, 2010",Test # 1957
+477,13,13,England,Bangladesh,England,8 wickets,Lord's,"May 27-31, 2010",Test # 1958
+478,14,14,England,Bangladesh,England,inns & 80 runs,Manchester,"Jun 4-6, 2010",Test # 1959
+479,15,15,West Indies,South Africa,South Africa,163 runs,Port of Spain,"Jun 10-13, 2010",Test # 1960
+480,16,16,West Indies,South Africa,drawn,,Basseterre,"Jun 18-22, 2010",Test # 1961
+481,17,17,West Indies,South Africa,South Africa,7 wickets,Bridgetown,"Jun 26-29, 2010",Test # 1962
+482,18,18,Australia,Pakistan,Australia,150 runs,Lord's,"Jul 13-16, 2010",Test # 1963
+483,19,19,Sri Lanka,India,Sri Lanka,10 wickets,Galle,"Jul 18-22, 2010",Test # 1964
+484,20,20,Australia,Pakistan,Pakistan,3 wickets,Leeds,"Jul 21-24, 2010",Test # 1965
+485,21,21,Sri Lanka,India,drawn,,Colombo (SSC),"Jul 26-30, 2010",Test # 1966
+486,22,22,England,Pakistan,England,354 runs,Nottingham,"Jul 29-Aug 1, 2010",Test # 1967
+487,23,23,Sri Lanka,India,India,5 wickets,Colombo (PSS),"Aug 3-7, 2010",Test # 1968
+488,24,24,England,Pakistan,England,9 wickets,Birmingham,"Aug 6-9, 2010",Test # 1969
+489,25,25,England,Pakistan,Pakistan,4 wickets,The Oval,"Aug 18-21, 2010",Test # 1970
+490,26,26,England,Pakistan,England,inns & 225 runs,Lord's,"Aug 26-29, 2010",Test # 1971
+491,27,27,India,Australia,India,1 wicket,Mohali,"Oct 1-5, 2010",Test # 1972
+492,28,28,India,Australia,India,7 wickets,Bengaluru,"Oct 9-13, 2010",Test # 1973
+493,29,29,India,New Zealand,drawn,,Ahmedabad,"Nov 4-8, 2010",Test # 1974
+494,30,30,India,New Zealand,drawn,,Hyderabad (Deccan),"Nov 12-16, 2010",Test # 1975
+495,31,31,Pakistan,South Africa,drawn,,Dubai (DSC),"Nov 12-16, 2010",Test # 1976
+496,32,32,Sri Lanka,West Indies,drawn,,Galle,"Nov 15-19, 2010",Test # 1977
+497,33,33,India,New Zealand,India,inns & 198 runs,Nagpur,"Nov 20-23, 2010",Test # 1978
+498,34,34,Pakistan,South Africa,drawn,,Abu Dhabi,"Nov 20-24, 2010",Test # 1979
+499,35,35,Sri Lanka,West Indies,drawn,,Colombo (RPS),"Nov 23-27, 2010",Test # 1980
+500,36,36,Australia,England,drawn,,Brisbane,"Nov 25-29, 2010",Test # 1981
+501,37,37,Sri Lanka,West Indies,drawn,,Pallekele,"Dec 1-5, 2010",Test # 1982
+502,38,38,Australia,England,England,inns & 71 runs,Adelaide,"Dec 3-7, 2010",Test # 1983
+503,39,39,Australia,England,Australia,267 runs,Perth,"Dec 16-19, 2010",Test # 1984
+504,40,40,South Africa,India,South Africa,inns & 25 runs,Centurion,"Dec 16-20, 2010",Test # 1985
+505,41,41,Australia,England,England,inns & 157 runs,Melbourne,"Dec 26-29, 2010",Test # 1986
+506,42,42,South Africa,India,India,87 runs,Durban,"Dec 26-29, 2010",Test # 1987
+507,43,0,South Africa,India,drawn,,Cape Town,"Jan 2-6, 2011",Test # 1988
+508,44,1,Australia,England,England,inns & 83 runs,Sydney,"Jan 3-7, 2011",Test # 1989
+509,45,2,New Zealand,Pakistan,Pakistan,10 wickets,Hamilton,"Jan 7-9, 2011",Test # 1990
+510,46,3,New Zealand,Pakistan,drawn,,Wellington,"Jan 15-19, 2011",Test # 1991
+511,47,4,West Indies,Pakistan,West Indies,40 runs,Providence,"May 12-15, 2011",Test # 1992
+512,48,5,West Indies,Pakistan,Pakistan,196 runs,Basseterre,"May 20-24, 2011",Test # 1993
+513,49,6,England,Sri Lanka,England,inns & 14 runs,Cardiff,"May 26-30, 2011",Test # 1994
+514,50,7,England,Sri Lanka,drawn,,Lord's,"Jun 3-7, 2011",Test # 1995
+515,51,8,England,Sri Lanka,drawn,,Southampton,"Jun 16-20, 2011",Test # 1996
+516,52,9,West Indies,India,India,63 runs,Kingston,"Jun 20-23, 2011",Test # 1997
+517,53,10,West Indies,India,drawn,,Bridgetown,"Jun 28-Jul 2, 2011",Test # 1998
+518,54,11,West Indies,India,drawn,,Roseau,"Jul 6-10, 2011",Test # 1999
+519,55,12,England,India,England,196 runs,Lord's,"Jul 21-25, 2011",Test # 2000
+520,56,13,England,India,England,319 runs,Nottingham,"Jul 29-Aug 1, 2011",Test # 2001
+521,57,14,Zimbabwe,Bangladesh,Zimbabwe,130 runs,Harare,"Aug 4-8, 2011",Test # 2002
+522,58,15,England,India,England,inns & 242 runs,Birmingham,"Aug 10-13, 2011",Test # 2003
+523,59,16,England,India,England,inns & 8 runs,The Oval,"Aug 18-22, 2011",Test # 2004
+524,60,17,Sri Lanka,Australia,Australia,125 runs,Galle,"Aug 31-Sep 3, 2011",Test # 2005
+525,61,18,Zimbabwe,Pakistan,Pakistan,7 wickets,Bulawayo,"Sep 1-5, 2011",Test # 2006
+526,62,19,Sri Lanka,Australia,drawn,,Pallekele,"Sep 8-12, 2011",Test # 2007
+527,63,20,Sri Lanka,Australia,drawn,,Colombo (SSC),"Sep 16-20, 2011",Test # 2008
+528,64,21,Pakistan,Sri Lanka,drawn,,Abu Dhabi,"Oct 18-22, 2011",Test # 2009
+529,65,22,Bangladesh,West Indies,drawn,,Chattogram,"Oct 21-25, 2011",Test # 2010
+530,66,23,Pakistan,Sri Lanka,Pakistan,9 wickets,Dubai (DSC),"Oct 26-29, 2011",Test # 2011
+531,67,24,Bangladesh,West Indies,West Indies,229 runs,Dhaka,"Oct 29-Nov 2, 2011",Test # 2012
+532,68,25,Zimbabwe,New Zealand,New Zealand,34 runs,Bulawayo,"Nov 1-5, 2011",Test # 2013
+533,69,26,Pakistan,Sri Lanka,drawn,,Sharjah,"Nov 3-7, 2011",Test # 2014
+534,70,27,India,West Indies,India,5 wickets,Delhi,"Nov 6-9, 2011",Test # 2015
+535,71,28,South Africa,Australia,South Africa,8 wickets,Cape Town,"Nov 9-11, 2011",Test # 2016
+536,72,29,India,West Indies,India,inns & 15 runs,Kolkata,"Nov 14-17, 2011",Test # 2017
+537,73,30,South Africa,Australia,Australia,2 wickets,Johannesburg,"Nov 17-21, 2011",Test # 2018
+538,74,31,India,West Indies,drawn,,Mumbai,"Nov 22-26, 2011",Test # 2019
+539,75,32,Australia,New Zealand,Australia,9 wickets,Brisbane,"Dec 1-4, 2011",Test # 2020
+540,76,33,Australia,New Zealand,New Zealand,7 runs,Hobart,"Dec 9-12, 2011",Test # 2021
+541,77,34,Bangladesh,Pakistan,Pakistan,inns & 184 runs,Chattogram,"Dec 9-12, 2011",Test # 2022
+542,78,35,South Africa,Sri Lanka,South Africa,inns & 81 runs,Centurion,"Dec 15-17, 2011",Test # 2023
+543,79,36,Bangladesh,Pakistan,Pakistan,7 wickets,Dhaka,"Dec 17-21, 2011",Test # 2024
+544,80,37,Australia,India,Australia,122 runs,Melbourne,"Dec 26-29, 2011",Test # 2025
+545,81,38,South Africa,Sri Lanka,Sri Lanka,208 runs,Durban,"Dec 26-29, 2011",Test # 2026
+546,82,0,Australia,India,Australia,inns & 68 runs,Sydney,"Jan 3-6, 2012",Test # 2027
+547,83,1,South Africa,Sri Lanka,South Africa,10 wickets,Cape Town,"Jan 3-6, 2012",Test # 2028
+548,84,2,Australia,India,Australia,inns & 37 runs,Perth,"Jan 13-15, 2012",Test # 2029
+549,85,3,England,Pakistan,Pakistan,10 wickets,Dubai (DSC),"Jan 17-19, 2012",Test # 2030
+550,86,4,Australia,India,Australia,298 runs,Adelaide,"Jan 24-28, 2012",Test # 2031
+551,87,5,England,Pakistan,Pakistan,72 runs,Abu Dhabi,"Jan 25-28, 2012",Test # 2032
+552,88,6,New Zealand,Zimbabwe,New Zealand,inns & 301 runs,Napier,"Jan 26-28, 2012",Test # 2033
+553,89,7,England,Pakistan,Pakistan,71 runs,Dubai (DSC),"Feb 3-6, 2012",Test # 2034
+554,90,8,New Zealand,South Africa,drawn,,Dunedin,"Mar 7-11, 2012",Test # 2035
+555,91,9,New Zealand,South Africa,South Africa,9 wickets,Hamilton,"Mar 15-17, 2012",Test # 2036
+556,92,10,New Zealand,South Africa,drawn,,Wellington,"Mar 23-27, 2012",Test # 2037
+557,93,11,Sri Lanka,England,Sri Lanka,75 runs,Galle,"Mar 26-29, 2012",Test # 2038
+558,94,12,Sri Lanka,England,England,8 wickets,Colombo (PSS),"Apr 3-7, 2012",Test # 2039
+559,95,13,West Indies,Australia,Australia,3 wickets,Bridgetown,"Apr 7-11, 2012",Test # 2040
+560,96,14,West Indies,Australia,drawn,,Port of Spain,"Apr 15-19, 2012",Test # 2041
+561,97,15,West Indies,Australia,Australia,75 runs,Roseau,"Apr 23-27, 2012",Test # 2042
+562,98,16,England,West Indies,England,5 wickets,Lord's,"May 17-21, 2012",Test # 2043
+563,99,17,England,West Indies,England,9 wickets,Nottingham,"May 25-28, 2012",Test # 2044
+564,100,18,England,West Indies,drawn,,Birmingham,"Jun 7-11, 2012",Test # 2045
+565,101,19,Sri Lanka,Pakistan,Sri Lanka,209 runs,Galle,"Jun 22-25, 2012",Test # 2046
+566,102,20,Sri Lanka,Pakistan,drawn,,Colombo (SSC),"Jun 30-Jul 4, 2012",Test # 2047
+567,103,21,Sri Lanka,Pakistan,drawn,,Pallekele,"Jul 8-12, 2012",Test # 2048
+568,104,22,England,South Africa,South Africa,inns & 12 runs,The Oval,"Jul 19-23, 2012",Test # 2049
+569,105,23,West Indies,New Zealand,West Indies,9 wickets,North Sound,"Jul 25-29, 2012",Test # 2050
+570,106,24,England,South Africa,drawn,,Leeds,"Aug 2-6, 2012",Test # 2051
+571,107,25,West Indies,New Zealand,West Indies,5 wickets,Kingston,"Aug 2-5, 2012",Test # 2052
+572,108,26,England,South Africa,South Africa,51 runs,Lord's,"Aug 16-20, 2012",Test # 2053
+573,109,27,India,New Zealand,India,inns & 115 runs,Hyderabad (Deccan),"Aug 23-26, 2012",Test # 2054
+574,110,28,India,New Zealand,India,5 wickets,Bengaluru,"Aug 31-Sep 3, 2012",Test # 2055
+575,111,29,Australia,South Africa,drawn,,Brisbane,"Nov 9-13, 2012",Test # 2056
+576,112,30,Bangladesh,West Indies,West Indies,77 runs,Dhaka,"Nov 13-17, 2012",Test # 2057
+577,113,31,India,England,India,9 wickets,Ahmedabad,"Nov 15-19, 2012",Test # 2058
+578,114,32,Sri Lanka,New Zealand,Sri Lanka,10 wickets,Galle,"Nov 17-19, 2012",Test # 2059
+579,115,33,Bangladesh,West Indies,West Indies,10 wickets,Khulna,"Nov 21-25, 2012",Test # 2060
+580,116,34,Australia,South Africa,drawn,,Adelaide,"Nov 22-26, 2012",Test # 2061
+581,117,35,India,England,England,10 wickets,Mumbai,"Nov 23-26, 2012",Test # 2062
+582,118,36,Sri Lanka,New Zealand,New Zealand,167 runs,Colombo (PSS),"Nov 25-29, 2012",Test # 2063
+583,119,37,Australia,South Africa,South Africa,309 runs,Perth,"Nov 30-Dec 3, 2012",Test # 2064
+584,120,38,India,England,England,7 wickets,Kolkata,"Dec 5-9, 2012",Test # 2065
+585,121,39,India,England,drawn,,Nagpur,"Dec 13-17, 2012",Test # 2066
+586,122,40,Australia,Sri Lanka,Australia,137 runs,Hobart,"Dec 14-18, 2012",Test # 2067
+587,123,41,Australia,Sri Lanka,Australia,inns & 201 runs,Melbourne,"Dec 26-28, 2012",Test # 2068
+588,124,0,South Africa,New Zealand,South Africa,inns & 27 runs,Cape Town,"Jan 2-4, 2013",Test # 2069
+589,125,1,Australia,Sri Lanka,Australia,5 wickets,Sydney,"Jan 3-6, 2013",Test # 2070
+590,126,2,South Africa,New Zealand,South Africa,inns & 193 runs,Port Elizabeth,"Jan 11-14, 2013",Test # 2071
+591,127,3,South Africa,Pakistan,South Africa,211 runs,Johannesburg,"Feb 1-4, 2013",Test # 2072
+592,128,4,South Africa,Pakistan,South Africa,4 wickets,Cape Town,"Feb 14-17, 2013",Test # 2073
+593,129,5,India,Australia,India,8 wickets,Chennai,"Feb 22-26, 2013",Test # 2074
+594,130,6,South Africa,Pakistan,South Africa,inns & 18 runs,Centurion,"Feb 22-24, 2013",Test # 2075
+595,131,7,India,Australia,India,inns & 135 runs,Hyderabad (Deccan),"Mar 2-5, 2013",Test # 2076
+596,132,8,New Zealand,England,drawn,,Dunedin,"Mar 6-10, 2013",Test # 2077
+597,133,9,Sri Lanka,Bangladesh,drawn,,Galle,"Mar 8-12, 2013",Test # 2078
+598,134,10,West Indies,Zimbabwe,West Indies,9 wickets,Bridgetown,"Mar 12-14, 2013",Test # 2079
+599,135,11,New Zealand,England,drawn,,Wellington,"Mar 14-18, 2013",Test # 2080
+600,136,12,India,Australia,India,6 wickets,Mohali,"Mar 14-18, 2013",Test # 2081
+601,137,13,Sri Lanka,Bangladesh,Sri Lanka,7 wickets,Colombo (RPS),"Mar 16-19, 2013",Test # 2082
+602,138,14,West Indies,Zimbabwe,West Indies,inns & 65 runs,Roseau,"Mar 20-22, 2013",Test # 2083
+603,139,15,New Zealand,England,drawn,,Auckland,"Mar 22-26, 2013",Test # 2084
+604,140,16,India,Australia,India,6 wickets,Delhi,"Mar 22-24, 2013",Test # 2085
+605,141,17,Zimbabwe,Bangladesh,Zimbabwe,335 runs,Harare,"Apr 17-20, 2013",Test # 2086
+606,142,18,Zimbabwe,Bangladesh,Bangladesh,143 runs,Harare,"Apr 25-29, 2013",Test # 2087
+607,143,19,England,New Zealand,England,170 runs,Lord's,"May 16-19, 2013",Test # 2088
+608,144,20,England,New Zealand,England,247 runs,Leeds,"May 24-28, 2013",Test # 2089
+609,145,21,England,Australia,England,14 runs,Nottingham,"Jul 10-14, 2013",Test # 2090
+610,146,22,England,Australia,England,347 runs,Lord's,"Jul 18-21, 2013",Test # 2091
+611,147,23,England,Australia,drawn,,Manchester,"Aug 1-5, 2013",Test # 2092
+612,148,24,England,Australia,England,74 runs,Chester-le-Street,"Aug 9-12, 2013",Test # 2093
+613,149,25,England,Australia,drawn,,The Oval,"Aug 21-25, 2013",Test # 2094
+614,150,26,Zimbabwe,Pakistan,Pakistan,221 runs,Harare,"Sep 3-7, 2013",Test # 2095
+615,151,27,Zimbabwe,Pakistan,Zimbabwe,24 runs,Harare,"Sep 10-14, 2013",Test # 2096
+616,152,28,Bangladesh,New Zealand,drawn,,Chattogram,"Oct 9-13, 2013",Test # 2097
+617,153,29,Pakistan,South Africa,Pakistan,7 wickets,Abu Dhabi,"Oct 14-17, 2013",Test # 2098
+618,154,30,Bangladesh,New Zealand,drawn,,Dhaka,"Oct 21-25, 2013",Test # 2099
+619,155,31,Pakistan,South Africa,South Africa,inns & 92 runs,Dubai (DSC),"Oct 23-26, 2013",Test # 2100
+620,156,32,India,West Indies,India,inns & 51 runs,Kolkata,"Nov 6-8, 2013",Test # 2101
+621,157,33,India,West Indies,India,inns & 126 runs,Mumbai,"Nov 14-16, 2013",Test # 2102
+622,158,34,Australia,England,Australia,381 runs,Brisbane,"Nov 21-24, 2013",Test # 2103
+623,159,35,New Zealand,West Indies,drawn,,Dunedin,"Dec 3-7, 2013",Test # 2104
+624,160,36,Australia,England,Australia,218 runs,Adelaide,"Dec 5-9, 2013",Test # 2105
+625,161,37,New Zealand,West Indies,New Zealand,inns & 73 runs,Wellington,"Dec 11-13, 2013",Test # 2106
+626,162,38,Australia,England,Australia,150 runs,Perth,"Dec 13-17, 2013",Test # 2107
+627,163,39,South Africa,India,drawn,,Johannesburg,"Dec 18-22, 2013",Test # 2108
+628,164,40,New Zealand,West Indies,New Zealand,8 wickets,Hamilton,"Dec 19-22, 2013",Test # 2109
+629,165,41,Australia,England,Australia,8 wickets,Melbourne,"Dec 26-29, 2013",Test # 2110
+630,166,42,South Africa,India,South Africa,10 wickets,Durban,"Dec 26-30, 2013",Test # 2111
+631,167,43,Pakistan,Sri Lanka,drawn,,Abu Dhabi,"Dec 31, 2013 - Jan 4, 2014",Test # 2112
+632,168,0,Pakistan,Sri Lanka,drawn,,Abu Dhabi,"Dec 31, 2013 - Jan 4, 2014",Test # 2112
+633,169,1,Australia,England,Australia,281 runs,Sydney,"Jan 3-5, 2014",Test # 2113
+634,170,2,Pakistan,Sri Lanka,Sri Lanka,9 wickets,Dubai (DSC),"Jan 8-12, 2014",Test # 2114
+635,171,3,Pakistan,Sri Lanka,Pakistan,5 wickets,Sharjah,"Jan 16-20, 2014",Test # 2115
+636,172,4,Bangladesh,Sri Lanka,Sri Lanka,inns & 248 runs,Dhaka,"Jan 27-30, 2014",Test # 2116
+637,173,5,Bangladesh,Sri Lanka,drawn,,Chattogram,"Feb 4-8, 2014",Test # 2117
+638,174,6,New Zealand,India,New Zealand,40 runs,Auckland,"Feb 6-9, 2014",Test # 2118
+639,175,7,South Africa,Australia,Australia,281 runs,Centurion,"Feb 12-15, 2014",Test # 2119
+640,176,8,New Zealand,India,drawn,,Wellington,"Feb 14-18, 2014",Test # 2120
+641,177,9,South Africa,Australia,South Africa,231 runs,Port Elizabeth,"Feb 20-23, 2014",Test # 2121
+642,178,10,South Africa,Australia,Australia,245 runs,Cape Town,"Mar 1-5, 2014",Test # 2122
+643,179,11,West Indies,New Zealand,New Zealand,186 runs,Kingston,"Jun 8-11, 2014",Test # 2123
+644,180,12,England,Sri Lanka,drawn,,Lord's,"Jun 12-16, 2014",Test # 2124
+645,181,13,West Indies,New Zealand,West Indies,10 wickets,Port of Spain,"Jun 16-20, 2014",Test # 2125
+646,182,14,England,Sri Lanka,Sri Lanka,100 runs,Leeds,"Jun 20-24, 2014",Test # 2126
+647,183,15,West Indies,New Zealand,New Zealand,53 runs,Bridgetown,"Jun 26-30, 2014",Test # 2127
+648,184,16,England,India,drawn,,Nottingham,"Jul 9-13, 2014",Test # 2128
+649,185,17,Sri Lanka,South Africa,South Africa,153 runs,Galle,"Jul 16-20, 2014",Test # 2129
+650,186,18,England,India,India,95 runs,Lord's,"Jul 17-21, 2014",Test # 2130
+651,187,19,Sri Lanka,South Africa,drawn,,Colombo (SSC),"Jul 24-28, 2014",Test # 2131
+652,188,20,England,India,England,266 runs,Southampton,"Jul 27-31, 2014",Test # 2132
+653,189,21,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Galle,"Aug 6-10, 2014",Test # 2133
+654,190,22,England,India,England,inns & 54 runs,Manchester,"Aug 7-9, 2014",Test # 2134
+655,191,23,Zimbabwe,South Africa,South Africa,9 wickets,Harare,"Aug 9-12, 2014",Test # 2135
+656,192,24,Sri Lanka,Pakistan,Sri Lanka,105 runs,Colombo (SSC),"Aug 14-18, 2014",Test # 2136
+657,193,25,England,India,England,inns & 244 runs,The Oval,"Aug 15-17, 2014",Test # 2137
+658,194,26,West Indies,Bangladesh,West Indies,10 wickets,Kingstown,"Sep 5-9, 2014",Test # 2138
+659,195,27,West Indies,Bangladesh,West Indies,296 runs,Gros Islet,"Sep 13-16, 2014",Test # 2139
+660,196,28,Australia,Pakistan,Pakistan,221 runs,Dubai (DSC),"Oct 22-26, 2014",Test # 2140
+661,197,29,Bangladesh,Zimbabwe,Bangladesh,3 wickets,Dhaka,"Oct 25-27, 2014",Test # 2141
+662,198,30,Australia,Pakistan,Pakistan,356 runs,Abu Dhabi,"Oct 30-Nov 3, 2014",Test # 2142
+663,199,31,Bangladesh,Zimbabwe,Bangladesh,162 runs,Khulna,"Nov 3-7, 2014",Test # 2143
+664,200,32,New Zealand,Pakistan,Pakistan,248 runs,Abu Dhabi,"Nov 9-13, 2014",Test # 2144
+665,201,33,Bangladesh,Zimbabwe,Bangladesh,186 runs,Chattogram,"Nov 12-16, 2014",Test # 2145
+666,202,34,New Zealand,Pakistan,drawn,,Dubai (DSC),"Nov 17-21, 2014",Test # 2146
+667,203,35,New Zealand,Pakistan,New Zealand,inns & 80 runs,Sharjah,"Nov 26-30, 2014",Test # 2147
+668,204,36,Australia,India,Australia,48 runs,Adelaide,"Dec 9-13, 2014",Test # 2148
+669,205,37,Australia,India,Australia,4 wickets,Brisbane,"Dec 17-20, 2014",Test # 2149
+670,206,38,South Africa,West Indies,South Africa,inns & 220 runs,Centurion,"Dec 17-20, 2014",Test # 2150
+671,207,39,New Zealand,Sri Lanka,New Zealand,8 wickets,Christchurch,"Dec 26-29, 2014",Test # 2151
+672,208,40,Australia,India,drawn,,Melbourne,"Dec 26-30, 2014",Test # 2152
+673,209,41,South Africa,West Indies,drawn,,Port Elizabeth,"Dec 26-30, 2014",Test # 2153
+674,210,0,South Africa,West Indies,South Africa,8 wickets,Cape Town,"Jan 2-6, 2015",Test # 2154
+675,211,1,New Zealand,Sri Lanka,New Zealand,193 runs,Wellington,"Jan 3-7, 2015",Test # 2155
+676,212,2,Australia,India,drawn,,Sydney,"Jan 6-10, 2015",Test # 2156
+677,213,3,West Indies,England,drawn,,North Sound,"Apr 13-17, 2015",Test # 2157
+678,214,4,West Indies,England,England,9 wickets,St George's,"Apr 21-25, 2015",Test # 2158
+679,215,5,Bangladesh,Pakistan,drawn,,Khulna,"Apr 28-May 2, 2015",Test # 2159
+680,216,6,West Indies,England,West Indies,5 wickets,Bridgetown,"May 1-3, 2015",Test # 2160
+681,217,7,Bangladesh,Pakistan,Pakistan,328 runs,Dhaka,"May 6-9, 2015",Test # 2161
+682,218,8,England,New Zealand,England,124 runs,Lord's,"May 21-25, 2015",Test # 2162
+683,219,9,England,New Zealand,New Zealand,199 runs,Leeds,"May 29-Jun 2, 2015",Test # 2163
+684,220,10,West Indies,Australia,Australia,9 wickets,Roseau,"Jun 3-5, 2015",Test # 2164
+685,221,11,Bangladesh,India,drawn,,Fatullah,"Jun 10-14, 2015",Test # 2165
+686,222,12,West Indies,Australia,Australia,277 runs,Kingston,"Jun 11-14, 2015",Test # 2166
+687,223,13,Sri Lanka,Pakistan,Pakistan,10 wickets,Galle,"Jun 17-21, 2015",Test # 2167
+688,224,14,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Colombo (PSS),"Jun 25-29, 2015",Test # 2168
+689,225,15,Sri Lanka,Pakistan,Pakistan,7 wickets,Pallekele,"Jul 3-7, 2015",Test # 2169
+690,226,16,England,Australia,England,169 runs,Cardiff,"Jul 8-11, 2015",Test # 2170
+691,227,17,England,Australia,Australia,405 runs,Lord's,"Jul 16-19, 2015",Test # 2171
+692,228,18,Bangladesh,South Africa,drawn,,Chattogram,"Jul 21-25, 2015",Test # 2172
+693,229,19,England,Australia,England,8 wickets,Birmingham,"Jul 29-31, 2015",Test # 2173
+694,230,20,Bangladesh,South Africa,drawn,,Dhaka,"Jul 30-Aug 3, 2015",Test # 2174
+695,231,21,England,Australia,England,inns & 78 runs,Nottingham,"Aug 6-8, 2015",Test # 2175
+696,232,22,Sri Lanka,India,Sri Lanka,63 runs,Galle,"Aug 12-15, 2015",Test # 2176
+697,233,23,Sri Lanka,India,India,278 runs,Colombo (PSS),"Aug 20-24, 2015",Test # 2177
+698,234,24,England,Australia,Australia,inns & 46 runs,The Oval,"Aug 20-23, 2015",Test # 2178
+699,235,25,Sri Lanka,India,India,117 runs,Colombo (SSC),"Aug 28-Sep 1, 2015",Test # 2179
+700,236,26,England,Pakistan,drawn,,Abu Dhabi,"Oct 13-17, 2015",Test # 2180
+701,237,27,Sri Lanka,West Indies,Sri Lanka,inns & 6 runs,Galle,"Oct 14-17, 2015",Test # 2181
+702,238,28,Sri Lanka,West Indies,Sri Lanka,72 runs,Colombo (PSS),"Oct 22-26, 2015",Test # 2182
+703,239,29,England,Pakistan,Pakistan,178 runs,Dubai (DSC),"Oct 22-26, 2015",Test # 2183
+704,240,30,England,Pakistan,Pakistan,127 runs,Sharjah,"Nov 1-5, 2015",Test # 2184
+705,241,31,Australia,New Zealand,Australia,208 runs,Brisbane,"Nov 5-9, 2015",Test # 2185
+706,242,32,India,South Africa,India,108 runs,Mohali,"Nov 5-7, 2015",Test # 2186
+707,243,33,Australia,New Zealand,drawn,,Perth,"Nov 13-17, 2015",Test # 2187
+708,244,34,India,South Africa,drawn,,Bengaluru,"Nov 14-18, 2015",Test # 2188
+709,245,35,India,South Africa,India,124 runs,Nagpur,"Nov 25-27, 2015",Test # 2189
+710,246,36,Australia,New Zealand,Australia,3 wickets,Adelaide,"Nov 27-29, 2015",Test # 2190
+711,247,37,India,South Africa,India,337 runs,Delhi,"Dec 3-7, 2015",Test # 2191
+712,248,38,New Zealand,Sri Lanka,New Zealand,122 runs,Dunedin,"Dec 10-14, 2015",Test # 2192
+713,249,39,Australia,West Indies,Australia,inns & 212 runs,Hobart,"Dec 10-12, 2015",Test # 2193
+714,250,40,New Zealand,Sri Lanka,New Zealand,5 wickets,Hamilton,"Dec 18-21, 2015",Test # 2194
+715,251,41,Australia,West Indies,Australia,177 runs,Melbourne,"Dec 26-29, 2015",Test # 2195
+716,252,42,South Africa,England,England,241 runs,Durban,"Dec 26-30, 2015",Test # 2196
+717,253,0,South Africa,England,drawn,,Cape Town,"Jan 2-6, 2016",Test # 2197
+718,254,1,Australia,West Indies,drawn,,Sydney,"Jan 3-7, 2016",Test # 2198
+719,255,2,South Africa,England,England,7 wickets,Johannesburg,"Jan 14-16, 2016",Test # 2199
+720,256,3,South Africa,England,South Africa,280 runs,Centurion,"Jan 22-26, 2016",Test # 2200
+721,257,4,New Zealand,Australia,Australia,inns & 52 runs,Wellington,"Feb 12-15, 2016",Test # 2201
+722,258,5,New Zealand,Australia,Australia,7 wickets,Christchurch,"Feb 20-24, 2016",Test # 2202
+723,259,6,England,Sri Lanka,England,inns & 88 runs,Leeds,"May 19-21, 2016",Test # 2203
+724,260,7,England,Sri Lanka,England,9 wickets,Chester-le-Street,"May 27-30, 2016",Test # 2204
+725,261,8,England,Sri Lanka,drawn,,Lord's,"Jun 9-13, 2016",Test # 2205
+726,262,9,England,Pakistan,Pakistan,75 runs,Lord's,"Jul 14-17, 2016",Test # 2206
+727,263,10,West Indies,India,India,inns & 92 runs,North Sound,"Jul 21-24, 2016",Test # 2207
+728,264,11,England,Pakistan,England,330 runs,Manchester,"Jul 22-25, 2016",Test # 2208
+729,265,12,Sri Lanka,Australia,Sri Lanka,106 runs,Pallekele,"Jul 26-30, 2016",Test # 2209
+730,266,13,Zimbabwe,New Zealand,New Zealand,inns & 117 runs,Bulawayo,"Jul 28-31, 2016",Test # 2210
+731,267,14,West Indies,India,drawn,,Kingston,"Jul 30-Aug 3, 2016",Test # 2211
+732,268,15,England,Pakistan,England,141 runs,Birmingham,"Aug 3-7, 2016",Test # 2212
+733,269,16,Sri Lanka,Australia,Sri Lanka,229 runs,Galle,"Aug 4-6, 2016",Test # 2213
+734,270,17,Zimbabwe,New Zealand,New Zealand,254 runs,Bulawayo,"Aug 6-10, 2016",Test # 2214
+735,271,18,West Indies,India,India,237 runs,Gros Islet,"Aug 9-13, 2016",Test # 2215
+736,272,19,England,Pakistan,Pakistan,10 wickets,The Oval,"Aug 11-14, 2016",Test # 2216
+737,273,20,Sri Lanka,Australia,Sri Lanka,163 runs,Colombo (SSC),"Aug 13-17, 2016",Test # 2217
+738,274,21,West Indies,India,drawn,,Port of Spain,"Aug 18-22, 2016",Test # 2218
+739,275,22,South Africa,New Zealand,drawn,,Durban,"Aug 19-23, 2016",Test # 2219
+740,276,23,South Africa,New Zealand,South Africa,204 runs,Centurion,"Aug 27-30, 2016",Test # 2220
+741,277,24,India,New Zealand,India,197 runs,Kanpur,"Sep 22-26, 2016",Test # 2221
+742,278,25,India,New Zealand,India,178 runs,Kolkata,"Sep 30-Oct 3, 2016",Test # 2222
+743,279,26,India,New Zealand,India,321 runs,Indore,"Oct 8-11, 2016",Test # 2223
+744,280,27,Pakistan,West Indies,Pakistan,56 runs,Dubai (DSC),"Oct 13-17, 2016",Test # 2224
+745,281,28,Bangladesh,England,England,22 runs,Chattogram,"Oct 20-24, 2016",Test # 2225
+746,282,29,Pakistan,West Indies,Pakistan,133 runs,Abu Dhabi,"Oct 21-25, 2016",Test # 2226
+747,283,30,Bangladesh,England,Bangladesh,108 runs,Dhaka,"Oct 28-30, 2016",Test # 2227
+748,284,31,Zimbabwe,Sri Lanka,Sri Lanka,225 runs,Harare,"Oct 29-Nov 2, 2016",Test # 2228
+749,285,32,Pakistan,West Indies,West Indies,5 wickets,Sharjah,"Oct 30-Nov 3, 2016",Test # 2229
+750,286,33,Australia,South Africa,South Africa,177 runs,Perth,"Nov 3-7, 2016",Test # 2230
+751,287,34,Zimbabwe,Sri Lanka,Sri Lanka,257 runs,Harare,"Nov 6-10, 2016",Test # 2231
+752,288,35,India,England,drawn,,Rajkot,"Nov 9-13, 2016",Test # 2232
+753,289,36,Australia,South Africa,South Africa,inns & 80 runs,Hobart,"Nov 12-15, 2016",Test # 2233
+754,290,37,New Zealand,Pakistan,New Zealand,8 wickets,Christchurch,"Nov 17-20, 2016",Test # 2234
+755,291,38,India,England,India,246 runs,Visakhapatnam,"Nov 17-21, 2016",Test # 2235
+756,292,39,Australia,South Africa,Australia,7 wickets,Adelaide,"Nov 24-27, 2016",Test # 2236
+757,293,40,New Zealand,Pakistan,New Zealand,138 runs,Hamilton,"Nov 25-29, 2016",Test # 2237
+758,294,41,India,England,India,8 wickets,Mohali,"Nov 26-29, 2016",Test # 2238
+759,295,42,India,England,India,inns & 36 runs,Mumbai,"Dec 8-12, 2016",Test # 2239
+760,296,43,Australia,Pakistan,Australia,39 runs,Brisbane,"Dec 15-19, 2016",Test # 2240
+761,297,44,India,England,India,inns & 75 runs,Chennai,"Dec 16-20, 2016",Test # 2241
+762,298,45,Australia,Pakistan,Australia,inns & 18 runs,Melbourne,"Dec 26-30, 2016",Test # 2242
+763,299,46,South Africa,Sri Lanka,South Africa,206 runs,Port Elizabeth,"Dec 26-30, 2016",Test # 2243
+764,300,0,South Africa,Sri Lanka,South Africa,282 runs,Cape Town,"Jan 2-5, 2017",Test # 2244
+765,301,1,Australia,Pakistan,Australia,220 runs,Sydney,"Jan 3-7, 2017",Test # 2245
+766,302,2,New Zealand,Bangladesh,New Zealand,7 wickets,Wellington,"Jan 12-16, 2017",Test # 2246
+767,303,3,South Africa,Sri Lanka,South Africa,inns & 118 runs,Johannesburg,"Jan 12-14, 2017",Test # 2247
+768,304,4,New Zealand,Bangladesh,New Zealand,9 wickets,Christchurch,"Jan 20-23, 2017",Test # 2248
+769,305,5,India,Bangladesh,India,208 runs,Hyderabad (Deccan),"Feb 9-13, 2017",Test # 2249
+770,306,6,India,Australia,Australia,333 runs,Pune,"Feb 23-25, 2017",Test # 2250
+771,307,7,India,Australia,India,75 runs,Bengaluru,"Mar 4-7, 2017",Test # 2251
+772,308,8,Sri Lanka,Bangladesh,Sri Lanka,259 runs,Galle,"Mar 7-11, 2017",Test # 2252
+773,309,9,New Zealand,South Africa,drawn,,Dunedin,"Mar 8-12, 2017",Test # 2253
+774,310,10,Sri Lanka,Bangladesh,Bangladesh,4 wickets,Colombo (PSS),"Mar 15-19, 2017",Test # 2254
+775,311,11,New Zealand,South Africa,South Africa,8 wickets,Wellington,"Mar 16-18, 2017",Test # 2255
+776,312,12,India,Australia,drawn,,Ranchi,"Mar 16-20, 2017",Test # 2256
+777,313,13,New Zealand,South Africa,drawn,,Hamilton,"Mar 25-29, 2017",Test # 2257
+778,314,14,India,Australia,India,8 wickets,Dharamsala,"Mar 25-28, 2017",Test # 2258
+779,315,15,West Indies,Pakistan,Pakistan,7 wickets,Kingston,"Apr 21-25, 2017",Test # 2259
+780,316,16,West Indies,Pakistan,West Indies,106 runs,Bridgetown,"Apr 30-May 4, 2017",Test # 2260
+781,317,17,West Indies,Pakistan,Pakistan,101 runs,Roseau,"May 10-14, 2017",Test # 2261
+782,318,18,England,South Africa,England,211 runs,Lord's,"Jul 6-9, 2017",Test # 2262
+783,319,19,Sri Lanka,Zimbabwe,Sri Lanka,4 wickets,Colombo (RPS),"Jul 14-18, 2017",Test # 2263
+784,320,20,England,South Africa,South Africa,340 runs,Nottingham,"Jul 14-17, 2017",Test # 2264
+785,321,21,Sri Lanka,India,India,304 runs,Galle,"Jul 26-29, 2017",Test # 2265
+786,322,22,England,South Africa,England,239 runs,The Oval,"Jul 27-31, 2017",Test # 2266
+787,323,23,Sri Lanka,India,India,inns & 53 runs,Colombo (SSC),"Aug 3-6, 2017",Test # 2267
+788,324,24,England,South Africa,England,177 runs,Manchester,"Aug 4-7, 2017",Test # 2268
+789,325,25,Sri Lanka,India,India,inns & 171 runs,Pallekele,"Aug 12-14, 2017",Test # 2269
+790,326,26,England,West Indies,England,inns & 209 runs,Birmingham,"Aug 17-19, 2017",Test # 2270
+791,327,27,England,West Indies,West Indies,5 wickets,Leeds,"Aug 25-29, 2017",Test # 2271
+792,328,28,Bangladesh,Australia,Bangladesh,20 runs,Dhaka,"Aug 27-30, 2017",Test # 2272
+793,329,29,Bangladesh,Australia,Australia,7 wickets,Chattogram,"Sep 4-7, 2017",Test # 2273
+794,330,30,England,West Indies,England,9 wickets,Lord's,"Sep 7-9, 2017",Test # 2274
+795,331,31,Pakistan,Sri Lanka,Sri Lanka,21 runs,Abu Dhabi,"Sep 28-Oct 2, 2017",Test # 2275
+796,332,32,South Africa,Bangladesh,South Africa,333 runs,Potchefstroom,"Sep 28-Oct 2, 2017",Test # 2276
+797,333,33,South Africa,Bangladesh,South Africa,inns & 254 runs,Bloemfontein,"Oct 6-8, 2017",Test # 2277
+798,334,34,Pakistan,Sri Lanka,Sri Lanka,68 runs,Dubai (DSC),"Oct 6-10, 2017",Test # 2278
+799,335,35,Zimbabwe,West Indies,West Indies,117 runs,Bulawayo,"Oct 21-24, 2017",Test # 2279
+800,336,36,Zimbabwe,West Indies,drawn,,Bulawayo,"Oct 29-Nov 2, 2017",Test # 2280
+801,337,37,India,Sri Lanka,drawn,,Kolkata,"Nov 16-20, 2017",Test # 2281
+802,338,38,Australia,England,Australia,10 wickets,Brisbane,"Nov 23-27, 2017",Test # 2282
+803,339,39,India,Sri Lanka,India,inns & 239 runs,Nagpur,"Nov 24-27, 2017",Test # 2283
+804,340,40,New Zealand,West Indies,New Zealand,inns & 67 runs,Wellington,"Dec 1-4, 2017",Test # 2284
+805,341,41,Australia,England,Australia,120 runs,Adelaide,"Dec 2-6, 2017",Test # 2285
+806,342,42,India,Sri Lanka,drawn,,Delhi,"Dec 2-6, 2017",Test # 2286
+807,343,43,New Zealand,West Indies,New Zealand,240 runs,Hamilton,"Dec 9-12, 2017",Test # 2287
+808,344,44,Australia,England,Australia,inns & 41 runs,Perth,"Dec 14-18, 2017",Test # 2288
+809,345,45,Australia,England,drawn,,Melbourne,"Dec 26-30, 2017",Test # 2289
+810,346,46,South Africa,Zimbabwe,South Africa,inns & 120 runs,Port Elizabeth,"Dec 26-27, 2017",Test # 2290
+811,347,0,Australia,England,Australia,inns & 123 runs,Sydney,"Jan 4-8, 2018",Test # 2291
+812,348,1,South Africa,India,South Africa,72 runs,Cape Town,"Jan 5-8, 2018",Test # 2292
+813,349,2,South Africa,India,South Africa,135 runs,Centurion,"Jan 13-17, 2018",Test # 2293
+814,350,3,South Africa,India,India,63 runs,Johannesburg,"Jan 24-27, 2018",Test # 2294
+815,351,4,Bangladesh,Sri Lanka,drawn,,Chattogram,"Jan 31-Feb 4, 2018",Test # 2295
+816,352,5,Bangladesh,Sri Lanka,Sri Lanka,215 runs,Dhaka,"Feb 8-10, 2018",Test # 2296
+817,353,6,South Africa,Australia,Australia,118 runs,Durban,"Mar 1-5, 2018",Test # 2297
+818,354,7,South Africa,Australia,South Africa,6 wickets,Port Elizabeth,"Mar 9-12, 2018",Test # 2298
+819,355,8,New Zealand,England,New Zealand,inns & 49 runs,Auckland,"Mar 22-26, 2018",Test # 2299
+820,356,9,South Africa,Australia,South Africa,322 runs,Cape Town,"Mar 22-25, 2018",Test # 2300
+821,357,10,New Zealand,England,drawn,,Christchurch,"Mar 30-Apr 3, 2018",Test # 2301
+822,358,11,South Africa,Australia,South Africa,492 runs,Johannesburg,"Mar 30-Apr 3, 2018",Test # 2302
+823,359,12,Ireland,Pakistan,Pakistan,5 wickets,Dublin (Malahide),"May 11-15, 2018",Test # 2303
+824,360,13,England,Pakistan,Pakistan,9 wickets,Lord's,"May 24-27, 2018",Test # 2304
+825,361,14,England,Pakistan,England,inns & 55 runs,Leeds,"Jun 1-3, 2018",Test # 2305
+826,362,15,West Indies,Sri Lanka,West Indies,226 runs,Port of Spain,"Jun 6-10, 2018",Test # 2306
+827,363,16,India,Afghanistan,India,inns & 262 runs,Bengaluru,"Jun 14-15, 2018",Test # 2307
+828,364,17,West Indies,Sri Lanka,drawn,,Gros Islet,"Jun 14-18, 2018",Test # 2308
+829,365,18,West Indies,Sri Lanka,Sri Lanka,4 wickets,Bridgetown,"Jun 23-26, 2018",Test # 2309
+830,366,19,West Indies,Bangladesh,West Indies,inns & 219 runs,North Sound,"Jul 4-6, 2018",Test # 2310
+831,367,20,Sri Lanka,South Africa,Sri Lanka,278 runs,Galle,"Jul 12-14, 2018",Test # 2311
+832,368,21,West Indies,Bangladesh,West Indies,166 runs,Kingston,"Jul 12-14, 2018",Test # 2312
+833,369,22,Sri Lanka,South Africa,Sri Lanka,199 runs,Colombo (SSC),"Jul 20-23, 2018",Test # 2313
+834,370,23,England,India,England,31 runs,Birmingham,"Aug 1-4, 2018",Test # 2314
+835,371,24,England,India,England,inns & 159 runs,Lord's,"Aug 9-12, 2018",Test # 2315
+836,372,25,England,India,India,203 runs,Nottingham,"Aug 18-22, 2018",Test # 2316
+837,373,26,England,India,England,60 runs,Southampton,"Aug 30-Sep 2, 2018",Test # 2317
+838,374,27,England,India,England,118 runs,The Oval,"Sep 7-11, 2018",Test # 2318
+839,375,28,India,West Indies,India,inns & 272 runs,Rajkot,"Oct 4-6, 2018",Test # 2319
+840,376,29,Australia,Pakistan,drawn,,Dubai (DSC),"Oct 7-11, 2018",Test # 2320
+841,377,30,India,West Indies,India,10 wickets,Hyderabad (Deccan),"Oct 12-14, 2018",Test # 2321
+842,378,31,Australia,Pakistan,Pakistan,373 runs,Abu Dhabi,"Oct 16-19, 2018",Test # 2322
+843,379,32,Bangladesh,Zimbabwe,Zimbabwe,151 runs,Sylhet,"Nov 3-6, 2018",Test # 2323
+844,380,33,Sri Lanka,England,England,211 runs,Galle,"Nov 6-9, 2018",Test # 2324
+845,381,34,Bangladesh,Zimbabwe,Bangladesh,218 runs,Dhaka,"Nov 11-15, 2018",Test # 2325
+846,382,35,Sri Lanka,England,England,57 runs,Pallekele,"Nov 14-18, 2018",Test # 2326
+847,383,36,New Zealand,Pakistan,New Zealand,4 runs,Abu Dhabi,"Nov 16-19, 2018",Test # 2327
+848,384,37,Bangladesh,West Indies,Bangladesh,64 runs,Chattogram,"Nov 22-24, 2018",Test # 2328
+849,385,38,Sri Lanka,England,England,42 runs,Colombo (SSC),"Nov 23-26, 2018",Test # 2329
+850,386,39,New Zealand,Pakistan,Pakistan,inns & 16 runs,Dubai (DSC),"Nov 24-27, 2018",Test # 2330
+851,387,40,Bangladesh,West Indies,Bangladesh,inns & 184 runs,Dhaka,"Nov 30-Dec 2, 2018",Test # 2331
+852,388,41,New Zealand,Pakistan,New Zealand,123 runs,Abu Dhabi,"Dec 3-7, 2018",Test # 2332
+853,389,42,Australia,India,India,31 runs,Adelaide,"Dec 6-10, 2018",Test # 2333
+854,390,43,Australia,India,Australia,146 runs,Perth,"Dec 14-18, 2018",Test # 2334
+855,391,44,New Zealand,Sri Lanka,drawn,,Wellington,"Dec 15-19, 2018",Test # 2335
+856,392,45,New Zealand,Sri Lanka,New Zealand,423 runs,Christchurch,"Dec 26-30, 2018",Test # 2336
+857,393,46,Australia,India,India,137 runs,Melbourne,"Dec 26-30, 2018",Test # 2337
+858,394,47,South Africa,Pakistan,South Africa,6 wickets,Centurion,"Dec 26-28, 2018",Test # 2338
+859,395,0,Australia,India,drawn,,Sydney,"Jan 3-7, 2019",Test # 2339
+860,396,1,South Africa,Pakistan,South Africa,9 wickets,Cape Town,"Jan 3-6, 2019",Test # 2340
+861,397,2,South Africa,Pakistan,South Africa,107 runs,Johannesburg,"Jan 11-14, 2019",Test # 2341
+862,398,3,West Indies,England,West Indies,381 runs,Bridgetown,"Jan 23-26, 2019",Test # 2342
+863,399,4,Australia,Sri Lanka,Australia,inns & 40 runs,Brisbane,"Jan 24-26, 2019",Test # 2343
+864,400,5,West Indies,England,West Indies,10 wickets,North Sound,"Jan 31-Feb 2, 2019",Test # 2344
+865,401,6,Australia,Sri Lanka,Australia,366 runs,Canberra,"Feb 1-4, 2019",Test # 2345
+866,402,7,West Indies,England,England,232 runs,Gros Islet,"Feb 9-12, 2019",Test # 2346
+867,403,8,South Africa,Sri Lanka,Sri Lanka,1 wicket,Durban,"Feb 13-16, 2019",Test # 2347
+868,404,9,South Africa,Sri Lanka,Sri Lanka,8 wickets,Port Elizabeth,"Feb 21-23, 2019",Test # 2348
+869,405,10,New Zealand,Bangladesh,New Zealand,inns & 52 runs,Hamilton,"Feb 28-Mar 3, 2019",Test # 2349
+870,406,11,New Zealand,Bangladesh,New Zealand,inns & 12 runs,Wellington,"Mar 8-12, 2019",Test # 2350
+871,407,12,Afghanistan,Ireland,Afghanistan,7 wickets,Dehradun,"Mar 15-18, 2019",Test # 2351
