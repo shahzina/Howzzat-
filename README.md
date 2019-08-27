@@ -13,4 +13,4 @@ Data has been scraped from the ESPN website and is heavily categorical. Cleaning
 
 The models trained were a Random Forest Classifier, Deep Neural Net and a Linear Regression. 
 
-![nn performance] (Users⁩/⁨shahzinakhan⁩/⁨Desktop/Neural Net Performance.png)⁩
+![nn performance] (https://github.com/shahzina/Howzzat_Project/blob/master/Neural%20Net%20Performance.png)⁩
