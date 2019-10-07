@@ -14,3 +14,13 @@ Data has been scraped from the ESPN website and is heavily categorical. Cleaning
 The models trained were a Random Forest Classifier, Deep Neural Net and a Linear Regression. 
 
 ![nn performance](https://github.com/shahzina/Howzzat_Project/blob/master/Neural%20Net%20Performance.png)⁩
+
+
+### Progress-
+Succesfully trained two models, however, accuracy is low as the occurrences of two teams playing each other in a particular format is less, therefore, the model needs to be trained on more data to get better results.
+
+### Next Steps -
+1- Save the encodings and reuse them in a Flask App, then deploy it on Heroku enabling user input. 
+2- Get data dating back to 50 years and retrain models. 
+3- Get data with the team distribution to achieve more accuracy, example, the number of batsmen, bowlers and all-rounders in the team, and the age distribution of players. 
+4- Compare the results and study possible causes of increase or decrease in accuracy. 
