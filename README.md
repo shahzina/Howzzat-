@@ -1,5 +1,5 @@
-# Howzzat_Project
-Machine Learning Final Project for UC Berkeley Extension
+# Howzzat!
+
 
  ![cricket](https://media.gettyimages.com/vectors/cricket-batsman-vector-id483913507?s=612x612)
 
